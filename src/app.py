@@ -540,7 +540,38 @@ with tabs[2]:
                     </div>
                     """
                     log_placeholder1.markdown(log_html, unsafe_allow_html=True)
-                    time.sleep(0.15)
+                    time.sleep(0.08)
+                
+                # 수집 및 적재 완료 결과 리포트 출력
+                st.markdown(f"""
+                <div style="background: #111827; padding: 12px; border-radius: 8px; border: 1px solid #1e293b; margin-top: 10px;">
+                    <div style="font-weight: 700; color: #3b82f6; font-size: 0.85rem; margin-bottom: 8px; display: flex; align-items: center; gap: 6px;">
+                        📊 <span>배치 수집 및 Hive DW 적재 결과 리포트</span>
+                    </div>
+                    <table style="width: 100%; font-size: 0.75rem; color: #a1a1aa; border-collapse: collapse;">
+                        <tr style="border-bottom: 1px solid #1e293b; text-align: left;">
+                            <th style="padding: 6px 4px; color: #ffffff; font-weight: bold;">수집 및 적재 지표</th>
+                            <th style="padding: 6px 4px; color: #ffffff; font-weight: bold;">상세 처리 명세</th>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #1e293b;">
+                            <td style="padding: 6px 4px; color: #e4e4e7; font-weight: 600;">적재 대상 DW 테이블</td>
+                            <td style="padding: 6px 4px; font-family: monospace; color: #3b82f6;">dw_poker.fact_actions (ORC 포맷, Snappy 압축)</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #1e293b;">
+                            <td style="padding: 6px 4px; color: #e4e4e7; font-weight: 600;">총 수집 레코드 수</td>
+                            <td style="padding: 6px 4px; color: #10b981; font-weight: bold;">79,342건 (100% 수집 및 매핑 성공)</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #1e293b;">
+                            <td style="padding: 6px 4px; color: #e4e4e7; font-weight: 600;">HDFS 저장 경로</td>
+                            <td style="padding: 6px 4px; font-family: monospace; font-size: 0.7rem; color: #a1a1aa;">hdfs:///data/warehouse/dw_poker/fact_actions/game_date=2026-06-24/</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #1e293b;">
+                            <td style="padding: 6px 4px; color: #e4e4e7; font-weight: 600;">데이터 품질 검증(DQ)</td>
+                            <td style="padding: 6px 4px; color: #10b981; font-weight: bold;">PASS (Null Ratio: 0.00%, Schema Match: 100%)</td>
+                        </tr>
+                    </table>
+                </div>
+                """, unsafe_allow_html=True)
         
         with sim_col2:
             st.markdown("""
@@ -593,7 +624,41 @@ with tabs[2]:
                     </div>
                     """
                     log_placeholder2.markdown(log_html, unsafe_allow_html=True)
-                    time.sleep(0.15)
+                    time.sleep(0.08)
+                
+                # 실시간 스트리밍 수집 결과 리포트 출력
+                st.markdown(f"""
+                <div style="background: #111827; padding: 12px; border-radius: 8px; border: 1px solid #1e293b; margin-top: 10px;">
+                    <div style="font-weight: 700; color: #10b981; font-size: 0.85rem; margin-bottom: 8px; display: flex; align-items: center; gap: 6px;">
+                        🏭 <span>스마트팩토리 실시간 스트림 수집 리포트</span>
+                    </div>
+                    <table style="width: 100%; font-size: 0.75rem; color: #a1a1aa; border-collapse: collapse;">
+                        <tr style="border-bottom: 1px solid #1e293b; text-align: left;">
+                            <th style="padding: 6px 4px; color: #ffffff; font-weight: bold;">수집 및 시스템 지표</th>
+                            <th style="padding: 6px 4px; color: #ffffff; font-weight: bold;">실시간 처리 명세</th>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #1e293b;">
+                            <td style="padding: 6px 4px; color: #e4e4e7; font-weight: 600;">활성 연결 설비 (PLC/MES)</td>
+                            <td style="padding: 6px 4px; color: #e4e4e7;">PLC-Node-12, PLC-Node-15, MES-Server-01</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #1e293b;">
+                            <td style="padding: 6px 4px; color: #e4e4e7; font-weight: 600;">실시간 수집 속도</td>
+                            <td style="padding: 6px 4px; color: #10b981; font-weight: bold;">총 2,000건 이벤트 수신 (평균 250 events/sec)</td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #1e293b;">
+                            <td style="padding: 6px 4px; color: #e4e4e7; font-weight: 600;">HDFS 저장 파일 명세</td>
+                            <td style="padding: 6px 4px; font-family: monospace; font-size: 0.7rem; color: #3b82f6;">
+                                - 10_0_5_12_sensor.raw (1.24 MB) 적재 완료<br>
+                                - 10_0_5_15_sensor.raw (1.41 MB) 적재 완료
+                            </td>
+                        </tr>
+                        <tr style="border-bottom: 1px solid #1e293b;">
+                            <td style="padding: 6px 4px; color: #e4e4e7; font-weight: 600;">JVM 스레드/메모리 상태</td>
+                            <td style="padding: 6px 4px; color: #10b981; font-weight: bold;">HEALTHY (Active Threads: 3, Heap Memory Usage: 42%)</td>
+                        </tr>
+                    </table>
+                </div>
+                """, unsafe_allow_html=True)
 
         st.markdown("<div style='margin: 1rem 0;'></div>", unsafe_allow_html=True)
 
