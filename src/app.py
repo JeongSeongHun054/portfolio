@@ -82,8 +82,9 @@ st.markdown(f"""
     
     /* 포트폴리오 카드 컴포넌트 */
     .pf-card {{{{
-        background: {CARD_BG_COLOR};
-        border: 1px solid {BORDER_COLOR};
+        background: #16161a !important;
+        color: #fafafa !important;
+        border: 1px solid #27272a !important;
         border-radius: 12px;
         padding: 1.5rem;
         margin-bottom: 1.2rem;
@@ -92,12 +93,12 @@ st.markdown(f"""
     }}}}
     .pf-card:hover {{{{
         transform: translateY(-2px);
-        border-color: {ACCENT_BLUE};
+        border-color: #3b82f6 !important;
     }}}}
     .pf-title {{{{
         font-size: 1.2rem;
         font-weight: 700;
-        color: {TEXT_WHITE};
+        color: #ffffff !important;
         margin-bottom: 0.5rem;
         display: flex;
         align-items: center;
@@ -105,15 +106,24 @@ st.markdown(f"""
     }}}}
     .pf-subtitle {{{{
         font-size: 0.85rem;
-        color: {ACCENT_BLUE};
+        color: #3b82f6 !important;
         font-weight: 600;
         text-transform: uppercase;
         margin-bottom: 0.8rem;
     }}}}
     .pf-body {{{{
         font-size: 0.9rem;
-        color: {TEXT_MUTED};
+        color: #a1a1aa !important;
         line-height: 1.6;
+    }}}}
+    .pf-card ul, .pf-card li, .pf-card p, .pf-card div, .pf-card span {{{{
+        color: #a1a1aa !important;
+    }}}}
+    .pf-title, .pf-title div, .pf-title span {{{{
+        color: #ffffff !important;
+    }}}}
+    .pf-card b, .pf-card strong {{{{
+        color: #ffffff !important;
     }}}}
     
     /* 하이라이트 배지 */
@@ -126,9 +136,21 @@ st.markdown(f"""
         margin-right: 5px;
         margin-bottom: 5px;
     }}}}
-    .badge-blue {{{{ color: {ACCENT_BLUE}; background: rgba(59, 130, 246, 0.1); border: 1px solid rgba(59, 130, 246, 0.2); }}}}
-    .badge-green {{{{ color: {ACCENT_GREEN}; background: rgba(16, 185, 129, 0.1); border: 1px solid rgba(16, 185, 129, 0.2); }}}}
-    .badge-orange {{{{ color: {ACCENT_ORANGE}; background: rgba(245, 158, 11, 0.1); border: 1px solid rgba(245, 158, 11, 0.2); }}}}
+    .badge-blue {{{{
+        color: #3b82f6 !important;
+        background: rgba(59, 130, 246, 0.1) !important;
+        border: 1px solid rgba(59, 130, 246, 0.2) !important;
+    }}}}
+    .badge-green {{{{
+        color: #10b981 !important;
+        background: rgba(16, 185, 129, 0.1) !important;
+        border: 1px solid rgba(16, 185, 129, 0.2) !important;
+    }}}}
+    .badge-orange {{{{
+        color: #f59e0b !important;
+        background: rgba(245, 158, 11, 0.1) !important;
+        border: 1px solid rgba(245, 158, 11, 0.2) !important;
+    }}}}
     
     /* 대단위 키 메트릭 */
     .kpi-container {{{{
