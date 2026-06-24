@@ -1,0 +1,157 @@
+Poker Hand #TM5354344165: Tournament #249505931, Daily Deep Stacks $2 Hold'em No Limit - Level11(500/1,000) - 2025/12/20 18:31:57
+Table '20' 8-max Seat #8 is the button
+Seat 1: Hero (2,250 in chips)
+Seat 2: 273a1c5b (20,000 in chips)
+Seat 3: 17f55c66 (20,992 in chips)
+Seat 4: bc973aab (18,700 in chips)
+Seat 5: 90acc8d7 (27,928 in chips)
+Seat 6: d2cc16d4 (40,625 in chips)
+Seat 7: 57af390 (80,985 in chips)
+Seat 8: 2cd4529a (20,485 in chips)
+2cd4529a: posts the ante 125
+d2cc16d4: posts the ante 125
+273a1c5b: posts the ante 125
+Hero: posts the ante 125
+bc973aab: posts the ante 125
+17f55c66: posts the ante 125
+57af390: posts the ante 125
+90acc8d7: posts the ante 125
+Hero: posts small blind 500
+273a1c5b: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to Hero [2d Ah]
+Dealt to 273a1c5b 
+Dealt to 17f55c66 
+Dealt to bc973aab 
+Dealt to 90acc8d7 
+Dealt to d2cc16d4 
+Dealt to 57af390 
+Dealt to 2cd4529a 
+17f55c66: folds
+bc973aab: folds
+90acc8d7: folds
+d2cc16d4: raises 1,000 to 2,000
+57af390: folds
+2cd4529a: folds
+Hero: raises 125 to 2,125 and is all-in
+273a1c5b: calls 1,125
+d2cc16d4: calls 125
+*** FLOP *** [Qh 2c 6d]
+273a1c5b: bets 3,688
+d2cc16d4: folds
+Uncalled bet (3,688) returned to 273a1c5b
+273a1c5b: shows [6s Qc] (two pair, Queens and Sixes)
+Hero: shows [2d Ah] (a pair of Twos)
+*** TURN *** [Qh 2c 6d] [Kd]
+*** RIVER *** [Qh 2c 6d Kd] [Kc]
+*** SHOWDOWN ***
+273a1c5b collected 7,375 from pot
+*** SUMMARY ***
+Total pot 7,375 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qh 2c 6d Kd Kc]
+Seat 1: Hero (small blind) showed [2d Ah] and lost with two pair, Kings and Twos
+Seat 2: 273a1c5b (big blind) showed [6s Qc] and won (7,375) with two pair, Kings and Queens
+Seat 3: 17f55c66 folded before Flop
+Seat 4: bc973aab folded before Flop
+Seat 5: 90acc8d7 folded before Flop
+Seat 6: d2cc16d4 folded on the Flop
+Seat 7: 57af390 folded before Flop
+Seat 8: 2cd4529a (button) folded before Flop
+
+
+Poker Hand #TM5354344150: Tournament #249505931, Daily Deep Stacks $2 Hold'em No Limit - Level11(500/1,000) - 2025/12/20 18:30:47
+Table '20' 8-max Seat #7 is the button
+Seat 1: Hero (22,000 in chips)
+Seat 3: 17f55c66 (21,117 in chips)
+Seat 4: bc973aab (18,825 in chips)
+Seat 5: 90acc8d7 (28,053 in chips)
+Seat 6: d2cc16d4 (19,750 in chips)
+Seat 7: 57af390 (81,110 in chips)
+Seat 8: 2cd4529a (21,110 in chips)
+d2cc16d4: posts the ante 125
+2cd4529a: posts the ante 125
+Hero: posts the ante 125
+bc973aab: posts the ante 125
+17f55c66: posts the ante 125
+57af390: posts the ante 125
+90acc8d7: posts the ante 125
+2cd4529a: posts small blind 500
+Hero: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to Hero [Jc Kh]
+Dealt to 17f55c66 
+Dealt to bc973aab 
+Dealt to 90acc8d7 
+Dealt to d2cc16d4 
+Dealt to 57af390 
+Dealt to 2cd4529a 
+17f55c66: folds
+bc973aab: folds
+90acc8d7: folds
+d2cc16d4: raises 1,000 to 2,000
+57af390: folds
+2cd4529a: folds
+Hero: calls 1,000
+*** FLOP *** [Ks Jh 3s]
+Hero: bets 1,000
+d2cc16d4: calls 1,000
+*** TURN *** [Ks Jh 3s] [Th]
+Hero: bets 2,000
+d2cc16d4: raises 4,000 to 6,000
+Hero: raises 12,875 to 18,875 and is all-in
+d2cc16d4: calls 10,625 and is all-in
+Uncalled bet (2,250) returned to Hero
+Hero: shows [Jc Kh] (two pair, Kings and Jacks)
+d2cc16d4: shows [9d Qs] (a straight, King to Nine)
+*** RIVER *** [Ks Jh 3s Th] [Ts]
+*** SHOWDOWN ***
+d2cc16d4 collected 40,625 from pot
+*** SUMMARY ***
+Total pot 40,625 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks Jh 3s Th Ts]
+Seat 1: Hero (big blind) showed [Jc Kh] and lost with two pair, Kings and Jacks
+Seat 3: 17f55c66 folded before Flop
+Seat 4: bc973aab folded before Flop
+Seat 5: 90acc8d7 folded before Flop
+Seat 6: d2cc16d4 showed [9d Qs] and won (40,625) with a straight, King to Nine
+Seat 7: 57af390 (button) folded before Flop
+Seat 8: 2cd4529a (small blind) folded before Flop
+
+
+Poker Hand #TM5354344144: Tournament #249505931, Daily Deep Stacks $2 Hold'em No Limit - Level11(500/1,000) - 2025/12/20 18:30:29
+Table '20' 8-max Seat #6 is the button
+Seat 1: Hero (20,000 in chips)
+Seat 5: 90acc8d7 (28,178 in chips)
+Seat 6: d2cc16d4 (19,875 in chips)
+Seat 7: 57af390 (81,735 in chips)
+Seat 8: 2cd4529a (22,235 in chips)
+d2cc16d4: posts the ante 125
+2cd4529a: posts the ante 125
+Hero: posts the ante 125
+90acc8d7: posts the ante 125
+57af390: posts the ante 125
+57af390: posts small blind 500
+2cd4529a: posts big blind 1,000
+*** HOLE CARDS ***
+Dealt to Hero [Th Td]
+Dealt to 90acc8d7 
+Dealt to d2cc16d4 
+Dealt to 57af390 
+Dealt to 2cd4529a 
+Hero: raises 18,875 to 19,875 and is all-in
+90acc8d7: folds
+d2cc16d4: folds
+57af390: folds
+2cd4529a: folds
+Uncalled bet (18,875) returned to Hero
+*** SHOWDOWN ***
+Hero collected 3,125 from pot
+*** SUMMARY ***
+Total pot 3,125 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero collected (3,125)
+Seat 5: 90acc8d7 folded before Flop
+Seat 6: d2cc16d4 (button) folded before Flop
+Seat 7: 57af390 (small blind) folded before Flop
+Seat 8: 2cd4529a (big blind) folded before Flop
+
+

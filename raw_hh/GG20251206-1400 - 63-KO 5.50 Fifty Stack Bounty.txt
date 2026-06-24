@@ -1,0 +1,1139 @@
+Poker Hand #TM5296352189: Tournament #244745703, 63-KO: $5.50 Fifty Stack Bounty Hold'em No Limit - Level3(200/400) - 2025/12/06 23:22:56
+Table '51' 8-max Seat #5 is the button
+Seat 1: f37e1c7 (91,576 in chips)
+Seat 2: 47876c47 (49,910 in chips)
+Seat 3: Hero (48,080 in chips)
+Seat 4: 19487c0d (45,131 in chips)
+Seat 5: ccb4f12b (42,705 in chips)
+Seat 6: 8e068eff (9,494 in chips)
+Seat 7: 8c3d8a0c (49,610 in chips)
+Seat 8: 62ee32fe (44,578 in chips)
+8e068eff: posts the ante 60
+47876c47: posts the ante 60
+62ee32fe: posts the ante 60
+19487c0d: posts the ante 60
+8c3d8a0c: posts the ante 60
+Hero: posts the ante 60
+f37e1c7: posts the ante 60
+ccb4f12b: posts the ante 60
+8e068eff: posts small blind 200
+8c3d8a0c: posts big blind 400
+*** HOLE CARDS ***
+Dealt to f37e1c7 
+Dealt to 47876c47 
+Dealt to Hero [Qc Ks]
+Dealt to 19487c0d 
+Dealt to ccb4f12b 
+Dealt to 8e068eff 
+Dealt to 8c3d8a0c 
+Dealt to 62ee32fe 
+62ee32fe: folds
+f37e1c7: raises 400 to 800
+47876c47: calls 800
+Hero: calls 800
+19487c0d: folds
+ccb4f12b: folds
+8e068eff: folds
+8c3d8a0c: calls 400
+*** FLOP *** [Qd 3c 4d]
+8c3d8a0c: checks
+f37e1c7: bets 1,281
+47876c47: calls 1,281
+Hero: calls 1,281
+8c3d8a0c: calls 1,281
+*** TURN *** [Qd 3c 4d] [9c]
+8c3d8a0c: checks
+f37e1c7: bets 6,033
+47876c47: folds
+Hero: calls 6,033
+8c3d8a0c: calls 6,033
+*** RIVER *** [Qd 3c 4d 9c] [Ah]
+8c3d8a0c: checks
+f37e1c7: checks
+Hero: bets 39,906 and is all-in
+8c3d8a0c: raises 1,530 to 41,436 and is all-in
+f37e1c7: folds
+Uncalled bet (1,530) returned to 8c3d8a0c
+8c3d8a0c: shows [Ad 2h] (a pair of Aces)
+Hero: shows [Qc Ks] (a pair of Queens)
+*** SHOWDOWN ***
+8c3d8a0c collected 106,915 from pot
+*** SUMMARY ***
+Total pot 106,915 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qd 3c 4d 9c Ah]
+Seat 1: f37e1c7 folded on the River
+Seat 2: 47876c47 folded on the Turn
+Seat 3: Hero showed [Qc Ks] and lost with a pair of Queens
+Seat 4: 19487c0d folded before Flop
+Seat 5: ccb4f12b (button) folded before Flop
+Seat 6: 8e068eff (small blind) folded before Flop
+Seat 7: 8c3d8a0c (big blind) showed [Ad 2h] and won (106,915) with a pair of Aces
+Seat 8: 62ee32fe folded before Flop
+
+
+Poker Hand #TM5296352066: Tournament #244745703, 63-KO: $5.50 Fifty Stack Bounty Hold'em No Limit - Level2(150/300) - 2025/12/06 23:19:52
+Table '51' 8-max Seat #4 is the button
+Seat 1: f37e1c7 (91,621 in chips)
+Seat 2: 47876c47 (49,955 in chips)
+Seat 3: Hero (48,125 in chips)
+Seat 4: 19487c0d (45,176 in chips)
+Seat 5: ccb4f12b (41,790 in chips)
+Seat 6: 8e068eff (9,839 in chips)
+Seat 7: 8c3d8a0c (49,955 in chips)
+Seat 8: 62ee32fe (44,623 in chips)
+8e068eff: posts the ante 45
+47876c47: posts the ante 45
+62ee32fe: posts the ante 45
+19487c0d: posts the ante 45
+8c3d8a0c: posts the ante 45
+Hero: posts the ante 45
+f37e1c7: posts the ante 45
+ccb4f12b: posts the ante 45
+ccb4f12b: posts small blind 150
+8e068eff: posts big blind 300
+*** HOLE CARDS ***
+Dealt to f37e1c7 
+Dealt to 47876c47 
+Dealt to Hero [3s Jc]
+Dealt to 19487c0d 
+Dealt to ccb4f12b 
+Dealt to 8e068eff 
+Dealt to 8c3d8a0c 
+Dealt to 62ee32fe 
+8c3d8a0c: calls 300
+62ee32fe: folds
+f37e1c7: folds
+47876c47: folds
+Hero: folds
+19487c0d: folds
+ccb4f12b: calls 150
+8e068eff: checks
+*** FLOP *** [2d 7c Ks]
+ccb4f12b: checks
+8e068eff: checks
+8c3d8a0c: checks
+*** TURN *** [2d 7c Ks] [8d]
+ccb4f12b: checks
+8e068eff: checks
+8c3d8a0c: checks
+*** RIVER *** [2d 7c Ks 8d] [2h]
+ccb4f12b: bets 328
+8e068eff: folds
+8c3d8a0c: folds
+Uncalled bet (328) returned to ccb4f12b
+*** SHOWDOWN ***
+ccb4f12b collected 1,260 from pot
+*** SUMMARY ***
+Total pot 1,260 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2d 7c Ks 8d 2h]
+Seat 1: f37e1c7 folded before Flop
+Seat 2: 47876c47 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 19487c0d (button) folded before Flop
+Seat 5: ccb4f12b (small blind) won (1,260)
+Seat 6: 8e068eff (big blind) folded on the River
+Seat 7: 8c3d8a0c folded on the River
+Seat 8: 62ee32fe folded before Flop
+
+
+Poker Hand #TM5296352047: Tournament #244745703, 63-KO: $5.50 Fifty Stack Bounty Hold'em No Limit - Level2(150/300) - 2025/12/06 23:19:22
+Table '51' 8-max Seat #3 is the button
+Seat 1: f37e1c7 (90,856 in chips)
+Seat 2: 47876c47 (50,000 in chips)
+Seat 3: Hero (48,170 in chips)
+Seat 4: 19487c0d (45,371 in chips)
+Seat 5: ccb4f12b (42,135 in chips)
+Seat 6: 8e068eff (9,884 in chips)
+Seat 7: 8c3d8a0c (50,000 in chips)
+Seat 8: 62ee32fe (44,668 in chips)
+8e068eff: posts the ante 45
+47876c47: posts the ante 45
+62ee32fe: posts the ante 45
+19487c0d: posts the ante 45
+8c3d8a0c: posts the ante 45
+Hero: posts the ante 45
+f37e1c7: posts the ante 45
+ccb4f12b: posts the ante 45
+19487c0d: posts small blind 150
+ccb4f12b: posts big blind 300
+*** HOLE CARDS ***
+Dealt to f37e1c7 
+Dealt to 47876c47 
+Dealt to Hero [9s Qc]
+Dealt to 19487c0d 
+Dealt to ccb4f12b 
+Dealt to 8e068eff 
+Dealt to 8c3d8a0c 
+Dealt to 62ee32fe 
+8e068eff: folds
+8c3d8a0c: folds
+62ee32fe: folds
+f37e1c7: raises 300 to 600
+47876c47: folds
+Hero: folds
+19487c0d: folds
+ccb4f12b: folds
+Uncalled bet (300) returned to f37e1c7
+*** SHOWDOWN ***
+f37e1c7 collected 1,110 from pot
+*** SUMMARY ***
+Total pot 1,110 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f37e1c7 collected (1,110)
+Seat 2: 47876c47 folded before Flop
+Seat 3: Hero (button) folded before Flop
+Seat 4: 19487c0d (small blind) folded before Flop
+Seat 5: ccb4f12b (big blind) folded before Flop
+Seat 6: 8e068eff folded before Flop
+Seat 7: 8c3d8a0c folded before Flop
+Seat 8: 62ee32fe folded before Flop
+
+
+Poker Hand #TM5296352002: Tournament #244745703, 63-KO: $5.50 Fifty Stack Bounty Hold'em No Limit - Level2(150/300) - 2025/12/06 23:18:19
+Table '51' 8-max Seat #1 is the button
+Seat 1: f37e1c7 (90,901 in chips)
+Seat 3: Hero (48,365 in chips)
+Seat 4: 19487c0d (43,768 in chips)
+Seat 5: ccb4f12b (43,363 in chips)
+Seat 6: 8e068eff (9,929 in chips)
+Seat 7: 53b26dcb (55,253 in chips)
+Seat 8: 62ee32fe (44,713 in chips)
+8e068eff: posts the ante 45
+62ee32fe: posts the ante 45
+19487c0d: posts the ante 45
+f37e1c7: posts the ante 45
+Hero: posts the ante 45
+53b26dcb: posts the ante 45
+ccb4f12b: posts the ante 45
+Hero: posts small blind 150
+19487c0d: posts big blind 300
+*** HOLE CARDS ***
+Dealt to f37e1c7 
+Dealt to Hero [8h Kc]
+Dealt to 19487c0d 
+Dealt to ccb4f12b 
+Dealt to 8e068eff 
+Dealt to 53b26dcb 
+Dealt to 62ee32fe 
+ccb4f12b: raises 300 to 600
+8e068eff: folds
+53b26dcb: folds
+62ee32fe: folds
+f37e1c7: folds
+Hero: folds
+19487c0d: calls 300
+*** FLOP *** [Jh Th Tc]
+19487c0d: checks
+ccb4f12b: bets 583
+19487c0d: calls 583
+*** TURN *** [Jh Th Tc] [4s]
+19487c0d: checks
+ccb4f12b: checks
+*** RIVER *** [Jh Th Tc 4s] [4c]
+19487c0d: checks
+ccb4f12b: checks
+19487c0d: shows [As 7h] (two pair, Tens and Fours)
+ccb4f12b: shows [Kh Qc] (two pair, Tens and Fours)
+*** SHOWDOWN ***
+19487c0d collected 2,831 from pot
+*** SUMMARY ***
+Total pot 2,831 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh Th Tc 4s 4c]
+Seat 1: f37e1c7 (button) folded before Flop
+Seat 3: Hero (small blind) folded before Flop
+Seat 4: 19487c0d (big blind) showed [As 7h] and won (2,831) with two pair, Tens and Fours
+Seat 5: ccb4f12b showed [Kh Qc] and lost with two pair, Tens and Fours
+Seat 6: 8e068eff folded before Flop
+Seat 7: 53b26dcb folded before Flop
+Seat 8: 62ee32fe folded before Flop
+
+
+Poker Hand #TM5296351964: Tournament #244745703, 63-KO: $5.50 Fifty Stack Bounty Hold'em No Limit - Level2(150/300) - 2025/12/06 23:17:17
+Table '51' 8-max Seat #8 is the button
+Seat 1: f37e1c7 (91,096 in chips)
+Seat 3: Hero (48,710 in chips)
+Seat 4: 19487c0d (44,413 in chips)
+Seat 5: ccb4f12b (43,408 in chips)
+Seat 6: 8e068eff (4,327 in chips)
+Seat 7: 53b26dcb (55,298 in chips)
+Seat 8: 62ee32fe (49,040 in chips)
+8e068eff: posts the ante 45
+62ee32fe: posts the ante 45
+19487c0d: posts the ante 45
+Hero: posts the ante 45
+f37e1c7: posts the ante 45
+53b26dcb: posts the ante 45
+ccb4f12b: posts the ante 45
+f37e1c7: posts small blind 150
+Hero: posts big blind 300
+*** HOLE CARDS ***
+Dealt to f37e1c7 
+Dealt to Hero [Ks 6c]
+Dealt to 19487c0d 
+Dealt to ccb4f12b 
+Dealt to 8e068eff 
+Dealt to 53b26dcb 
+Dealt to 62ee32fe 
+19487c0d: raises 300 to 600
+ccb4f12b: folds
+8e068eff: raises 3,682 to 4,282 and is all-in
+53b26dcb: folds
+62ee32fe: raises 3,972 to 8,254
+f37e1c7: folds
+Hero: folds
+19487c0d: folds
+Uncalled bet (3,972) returned to 62ee32fe
+62ee32fe: shows [As Qc]
+8e068eff: shows [5s 7s]
+*** FLOP *** [Tc 5d 2c]
+*** TURN *** [Tc 5d 2c] [7h]
+*** RIVER *** [Tc 5d 2c 7h] [2d]
+*** SHOWDOWN ***
+8e068eff collected 9,929 from pot
+*** SUMMARY ***
+Total pot 9,929 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc 5d 2c 7h 2d]
+Seat 1: f37e1c7 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: 19487c0d folded before Flop
+Seat 5: ccb4f12b folded before Flop
+Seat 6: 8e068eff showed [5s 7s] and won (9,929) with two pair, Sevens and Fives
+Seat 7: 53b26dcb folded before Flop
+Seat 8: 62ee32fe (button) showed [As Qc] and lost with a pair of Twos
+
+
+Poker Hand #TM5296351940: Tournament #244745703, 63-KO: $5.50 Fifty Stack Bounty Hold'em No Limit - Level2(150/300) - 2025/12/06 23:16:41
+Table '51' 8-max Seat #7 is the button
+Seat 1: f37e1c7 (91,441 in chips)
+Seat 2: eae335d5 (49,714 in chips)
+Seat 3: Hero (48,755 in chips)
+Seat 4: 19487c0d (44,458 in chips)
+Seat 5: ccb4f12b (42,643 in chips)
+Seat 6: 8e068eff (4,372 in chips)
+Seat 7: 53b26dcb (55,343 in chips)
+Seat 8: 62ee32fe (49,235 in chips)
+8e068eff: posts the ante 45
+eae335d5: posts the ante 45
+62ee32fe: posts the ante 45
+19487c0d: posts the ante 45
+Hero: posts the ante 45
+f37e1c7: posts the ante 45
+53b26dcb: posts the ante 45
+ccb4f12b: posts the ante 45
+62ee32fe: posts small blind 150
+f37e1c7: posts big blind 300
+*** HOLE CARDS ***
+Dealt to f37e1c7 
+Dealt to eae335d5 
+Dealt to Hero [Js Th]
+Dealt to 19487c0d 
+Dealt to ccb4f12b 
+Dealt to 8e068eff 
+Dealt to 53b26dcb 
+Dealt to 62ee32fe 
+eae335d5: folds
+Hero: folds
+19487c0d: folds
+ccb4f12b: raises 300 to 600
+8e068eff: folds
+53b26dcb: folds
+62ee32fe: folds
+f37e1c7: folds
+Uncalled bet (300) returned to ccb4f12b
+*** SHOWDOWN ***
+ccb4f12b collected 1,110 from pot
+*** SUMMARY ***
+Total pot 1,110 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f37e1c7 (big blind) folded before Flop
+Seat 2: eae335d5 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 19487c0d folded before Flop
+Seat 5: ccb4f12b collected (1,110)
+Seat 6: 8e068eff folded before Flop
+Seat 7: 53b26dcb (button) folded before Flop
+Seat 8: 62ee32fe (small blind) folded before Flop
+
+
+Poker Hand #TM5296351921: Tournament #244745703, 63-KO: $5.50 Fifty Stack Bounty Hold'em No Limit - Level2(150/300) - 2025/12/06 23:16:07
+Table '51' 8-max Seat #6 is the button
+Seat 1: f37e1c7 (91,486 in chips)
+Seat 2: eae335d5 (49,759 in chips)
+Seat 3: Hero (48,800 in chips)
+Seat 4: 19487c0d (45,103 in chips)
+Seat 5: ccb4f12b (42,688 in chips)
+Seat 6: 8e068eff (4,417 in chips)
+Seat 7: 53b26dcb (54,128 in chips)
+Seat 8: 62ee32fe (49,580 in chips)
+8e068eff: posts the ante 45
+eae335d5: posts the ante 45
+62ee32fe: posts the ante 45
+19487c0d: posts the ante 45
+Hero: posts the ante 45
+f37e1c7: posts the ante 45
+53b26dcb: posts the ante 45
+ccb4f12b: posts the ante 45
+53b26dcb: posts small blind 150
+62ee32fe: posts big blind 300
+*** HOLE CARDS ***
+Dealt to f37e1c7 
+Dealt to eae335d5 
+Dealt to Hero [4s 2c]
+Dealt to 19487c0d 
+Dealt to ccb4f12b 
+Dealt to 8e068eff 
+Dealt to 53b26dcb 
+Dealt to 62ee32fe 
+f37e1c7: folds
+eae335d5: folds
+Hero: folds
+19487c0d: raises 300 to 600
+ccb4f12b: folds
+8e068eff: folds
+53b26dcb: raises 2,700 to 3,300
+62ee32fe: folds
+19487c0d: folds
+Uncalled bet (2,700) returned to 53b26dcb
+*** SHOWDOWN ***
+53b26dcb collected 1,860 from pot
+*** SUMMARY ***
+Total pot 1,860 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f37e1c7 folded before Flop
+Seat 2: eae335d5 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 19487c0d folded before Flop
+Seat 5: ccb4f12b folded before Flop
+Seat 6: 8e068eff (button) folded before Flop
+Seat 7: 53b26dcb (small blind) collected (1,860)
+Seat 8: 62ee32fe (big blind) folded before Flop
+
+
+Poker Hand #TM5296351841: Tournament #244745703, 63-KO: $5.50 Fifty Stack Bounty Hold'em No Limit - Level2(150/300) - 2025/12/06 23:14:10
+Table '51' 8-max Seat #5 is the button
+Seat 1: f37e1c7 (91,531 in chips)
+Seat 2: eae335d5 (52,532 in chips)
+Seat 3: Hero (48,845 in chips)
+Seat 4: 19487c0d (45,148 in chips)
+Seat 5: ccb4f12b (42,733 in chips)
+Seat 6: 8e068eff (4,612 in chips)
+Seat 7: 53b26dcb (50,935 in chips)
+Seat 8: 62ee32fe (49,625 in chips)
+8e068eff: posts the ante 45
+eae335d5: posts the ante 45
+62ee32fe: posts the ante 45
+19487c0d: posts the ante 45
+Hero: posts the ante 45
+f37e1c7: posts the ante 45
+53b26dcb: posts the ante 45
+ccb4f12b: posts the ante 45
+8e068eff: posts small blind 150
+53b26dcb: posts big blind 300
+*** HOLE CARDS ***
+Dealt to f37e1c7 
+Dealt to eae335d5 
+Dealt to Hero [9d 8s]
+Dealt to 19487c0d 
+Dealt to ccb4f12b 
+Dealt to 8e068eff 
+Dealt to 53b26dcb 
+Dealt to 62ee32fe 
+62ee32fe: folds
+f37e1c7: folds
+eae335d5: raises 300 to 600
+Hero: folds
+19487c0d: folds
+ccb4f12b: folds
+8e068eff: folds
+53b26dcb: calls 300
+*** FLOP *** [Ac 6h 6c]
+53b26dcb: checks
+eae335d5: bets 565
+53b26dcb: calls 565
+*** TURN *** [Ac 6h 6c] [Ts]
+53b26dcb: checks
+eae335d5: bets 1,563
+53b26dcb: calls 1,563
+*** RIVER *** [Ac 6h 6c Ts] [Jh]
+53b26dcb: checks
+eae335d5: checks
+53b26dcb: shows [2s Ah] (two pair, Aces and Sixes)
+eae335d5: shows [Kc Kh] (two pair, Kings and Sixes)
+*** SHOWDOWN ***
+53b26dcb collected 5,966 from pot
+*** SUMMARY ***
+Total pot 5,966 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac 6h 6c Ts Jh]
+Seat 1: f37e1c7 folded before Flop
+Seat 2: eae335d5 showed [Kc Kh] and lost with two pair, Kings and Sixes
+Seat 3: Hero folded before Flop
+Seat 4: 19487c0d folded before Flop
+Seat 5: ccb4f12b (button) folded before Flop
+Seat 6: 8e068eff (small blind) folded before Flop
+Seat 7: 53b26dcb (big blind) showed [2s Ah] and won (5,966) with two pair, Aces and Sixes
+Seat 8: 62ee32fe folded before Flop
+
+
+Poker Hand #TM5296351818: Tournament #244745703, 63-KO: $5.50 Fifty Stack Bounty Hold'em No Limit - Level2(150/300) - 2025/12/06 23:13:37
+Table '51' 8-max Seat #4 is the button
+Seat 1: f37e1c7 (91,576 in chips)
+Seat 2: eae335d5 (52,577 in chips)
+Seat 3: Hero (48,890 in chips)
+Seat 4: 19487c0d (45,193 in chips)
+Seat 5: ccb4f12b (42,928 in chips)
+Seat 6: 8e068eff (4,957 in chips)
+Seat 7: 53b26dcb (50,170 in chips)
+Seat 8: 62ee32fe (49,670 in chips)
+8e068eff: posts the ante 45
+eae335d5: posts the ante 45
+62ee32fe: posts the ante 45
+19487c0d: posts the ante 45
+Hero: posts the ante 45
+f37e1c7: posts the ante 45
+53b26dcb: posts the ante 45
+ccb4f12b: posts the ante 45
+ccb4f12b: posts small blind 150
+8e068eff: posts big blind 300
+*** HOLE CARDS ***
+Dealt to f37e1c7 
+Dealt to eae335d5 
+Dealt to Hero [2s 9s]
+Dealt to 19487c0d 
+Dealt to ccb4f12b 
+Dealt to 8e068eff 
+Dealt to 53b26dcb 
+Dealt to 62ee32fe 
+53b26dcb: raises 300 to 600
+62ee32fe: folds
+f37e1c7: folds
+eae335d5: folds
+Hero: folds
+19487c0d: folds
+ccb4f12b: folds
+8e068eff: folds
+Uncalled bet (300) returned to 53b26dcb
+*** SHOWDOWN ***
+53b26dcb collected 1,110 from pot
+*** SUMMARY ***
+Total pot 1,110 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f37e1c7 folded before Flop
+Seat 2: eae335d5 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 19487c0d (button) folded before Flop
+Seat 5: ccb4f12b (small blind) folded before Flop
+Seat 6: 8e068eff (big blind) folded before Flop
+Seat 7: 53b26dcb collected (1,110)
+Seat 8: 62ee32fe folded before Flop
+
+
+Poker Hand #TM5296351767: Tournament #244745703, 63-KO: $5.50 Fifty Stack Bounty Hold'em No Limit - Level2(150/300) - 2025/12/06 23:12:11
+Table '51' 8-max Seat #3 is the button
+Seat 1: f37e1c7 (91,621 in chips)
+Seat 2: eae335d5 (52,622 in chips)
+Seat 3: Hero (48,935 in chips)
+Seat 4: 19487c0d (45,388 in chips)
+Seat 5: ccb4f12b (42,718 in chips)
+Seat 6: 8e068eff (5,002 in chips)
+Seat 7: 53b26dcb (49,960 in chips)
+Seat 8: 62ee32fe (49,715 in chips)
+8e068eff: posts the ante 45
+eae335d5: posts the ante 45
+62ee32fe: posts the ante 45
+19487c0d: posts the ante 45
+Hero: posts the ante 45
+f37e1c7: posts the ante 45
+53b26dcb: posts the ante 45
+ccb4f12b: posts the ante 45
+19487c0d: posts small blind 150
+ccb4f12b: posts big blind 300
+*** HOLE CARDS ***
+Dealt to f37e1c7 
+Dealt to eae335d5 
+Dealt to Hero [6s 8c]
+Dealt to 19487c0d 
+Dealt to ccb4f12b 
+Dealt to 8e068eff 
+Dealt to 53b26dcb 
+Dealt to 62ee32fe 
+8e068eff: folds
+53b26dcb: raises 390 to 690
+62ee32fe: folds
+f37e1c7: folds
+eae335d5: folds
+Hero: folds
+19487c0d: folds
+ccb4f12b: calls 390
+*** FLOP *** [As 2s Js]
+ccb4f12b: checks
+53b26dcb: checks
+*** TURN *** [As 2s Js] [Ks]
+ccb4f12b: checks
+53b26dcb: checks
+*** RIVER *** [As 2s Js Ks] [8s]
+ccb4f12b: checks
+53b26dcb: checks
+ccb4f12b: shows [5h 7h] (a flush Ace high)
+53b26dcb: shows [Kh Kc] (a flush Ace high)
+*** SHOWDOWN ***
+53b26dcb collected 945 from pot
+ccb4f12b collected 945 from pot
+*** SUMMARY ***
+Total pot 1,890 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [As 2s Js Ks 8s]
+Seat 1: f37e1c7 folded before Flop
+Seat 2: eae335d5 folded before Flop
+Seat 3: Hero (button) folded before Flop
+Seat 4: 19487c0d (small blind) folded before Flop
+Seat 5: ccb4f12b (big blind) showed [5h 7h] and won (945) with a flush Ace high
+Seat 6: 8e068eff folded before Flop
+Seat 7: 53b26dcb showed [Kh Kc] and won (945) with a flush Ace high
+Seat 8: 62ee32fe folded before Flop
+
+
+Poker Hand #TM5296351681: Tournament #244745703, 63-KO: $5.50 Fifty Stack Bounty Hold'em No Limit - Level1(125/250) - 2025/12/06 23:09:51
+Table '51' 8-max Seat #2 is the button
+Seat 1: f37e1c7 (44,893 in chips)
+Seat 2: eae335d5 (52,657 in chips)
+Seat 3: Hero (49,095 in chips)
+Seat 4: 19487c0d (45,923 in chips)
+Seat 5: ccb4f12b (43,253 in chips)
+Seat 6: 8e068eff (49,895 in chips)
+Seat 7: 53b26dcb (50,495 in chips)
+Seat 8: 62ee32fe (49,750 in chips)
+8e068eff: posts the ante 35
+eae335d5: posts the ante 35
+62ee32fe: posts the ante 35
+19487c0d: posts the ante 35
+f37e1c7: posts the ante 35
+Hero: posts the ante 35
+53b26dcb: posts the ante 35
+ccb4f12b: posts the ante 35
+Hero: posts small blind 125
+19487c0d: posts big blind 250
+*** HOLE CARDS ***
+Dealt to f37e1c7 
+Dealt to eae335d5 
+Dealt to Hero [3c Qd]
+Dealt to 19487c0d 
+Dealt to ccb4f12b 
+Dealt to 8e068eff 
+Dealt to 53b26dcb 
+Dealt to 62ee32fe 
+ccb4f12b: raises 250 to 500
+8e068eff: calls 500
+53b26dcb: calls 500
+62ee32fe: folds
+f37e1c7: calls 500
+eae335d5: folds
+Hero: folds
+19487c0d: calls 250
+*** FLOP *** [Jd 8h 5h]
+19487c0d: checks
+ccb4f12b: checks
+8e068eff: bets 1,453
+53b26dcb: folds
+f37e1c7: raises 2,953 to 4,406
+19487c0d: folds
+ccb4f12b: folds
+8e068eff: calls 2,953
+*** TURN *** [Jd 8h 5h] [9d]
+8e068eff: checks
+f37e1c7: bets 10,500
+8e068eff: calls 10,500
+*** RIVER *** [Jd 8h 5h 9d] [6s]
+8e068eff: checks
+f37e1c7: bets 4,250
+8e068eff: raises 30,204 to 34,454 and is all-in
+f37e1c7: calls 25,202 and is all-in
+Uncalled bet (5,002) returned to 8e068eff
+8e068eff: shows [Qc Js] (a pair of Jacks)
+f37e1c7: shows [5s 5c] (three of a kind, Fives)
+*** SHOWDOWN ***
+f37e1c7 collected 91,621 from pot
+*** SUMMARY ***
+Total pot 91,621 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jd 8h 5h 9d 6s]
+Seat 1: f37e1c7 showed [5s 5c] and won (91,621) with three of a kind, Fives
+Seat 2: eae335d5 (button) folded before Flop
+Seat 3: Hero (small blind) folded before Flop
+Seat 4: 19487c0d (big blind) folded on the Flop
+Seat 5: ccb4f12b folded on the Flop
+Seat 6: 8e068eff showed [Qc Js] and lost with a pair of Jacks
+Seat 7: 53b26dcb folded on the Flop
+Seat 8: 62ee32fe folded before Flop
+
+
+Poker Hand #TM5296351656: Tournament #244745703, 63-KO: $5.50 Fifty Stack Bounty Hold'em No Limit - Level1(125/250) - 2025/12/06 23:09:15
+Table '51' 8-max Seat #1 is the button
+Seat 1: f37e1c7 (44,928 in chips)
+Seat 2: eae335d5 (52,817 in chips)
+Seat 3: Hero (49,380 in chips)
+Seat 4: 19487c0d (45,958 in chips)
+Seat 5: ccb4f12b (43,288 in chips)
+Seat 6: 8e068eff (49,930 in chips)
+Seat 7: 53b26dcb (50,530 in chips)
+Seat 8: 62ee32fe (49,130 in chips)
+8e068eff: posts the ante 35
+eae335d5: posts the ante 35
+62ee32fe: posts the ante 35
+19487c0d: posts the ante 35
+f37e1c7: posts the ante 35
+Hero: posts the ante 35
+53b26dcb: posts the ante 35
+ccb4f12b: posts the ante 35
+eae335d5: posts small blind 125
+Hero: posts big blind 250
+*** HOLE CARDS ***
+Dealt to f37e1c7 
+Dealt to eae335d5 
+Dealt to Hero [7d Kc]
+Dealt to 19487c0d 
+Dealt to ccb4f12b 
+Dealt to 8e068eff 
+Dealt to 53b26dcb 
+Dealt to 62ee32fe 
+19487c0d: folds
+ccb4f12b: folds
+8e068eff: folds
+53b26dcb: folds
+62ee32fe: raises 275 to 525
+f37e1c7: folds
+eae335d5: folds
+Hero: folds
+Uncalled bet (275) returned to 62ee32fe
+*** SHOWDOWN ***
+62ee32fe collected 905 from pot
+*** SUMMARY ***
+Total pot 905 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: f37e1c7 (button) folded before Flop
+Seat 2: eae335d5 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: 19487c0d folded before Flop
+Seat 5: ccb4f12b folded before Flop
+Seat 6: 8e068eff folded before Flop
+Seat 7: 53b26dcb folded before Flop
+Seat 8: 62ee32fe collected (905)
+
+
+Poker Hand #TM5296351609: Tournament #244745703, 63-KO: $5.50 Fifty Stack Bounty Hold'em No Limit - Level1(125/250) - 2025/12/06 23:07:50
+Table '51' 8-max Seat #8 is the button
+Seat 1: f37e1c7 (45,088 in chips)
+Seat 2: eae335d5 (49,665 in chips)
+Seat 3: Hero (49,415 in chips)
+Seat 4: 19487c0d (45,993 in chips)
+Seat 5: ccb4f12b (46,105 in chips)
+Seat 6: 8e068eff (49,965 in chips)
+Seat 7: 53b26dcb (50,565 in chips)
+Seat 8: 62ee32fe (49,165 in chips)
+8e068eff: posts the ante 35
+eae335d5: posts the ante 35
+62ee32fe: posts the ante 35
+19487c0d: posts the ante 35
+Hero: posts the ante 35
+f37e1c7: posts the ante 35
+53b26dcb: posts the ante 35
+ccb4f12b: posts the ante 35
+f37e1c7: posts small blind 125
+eae335d5: posts big blind 250
+*** HOLE CARDS ***
+Dealt to f37e1c7 
+Dealt to eae335d5 
+Dealt to Hero [Th Jc]
+Dealt to 19487c0d 
+Dealt to ccb4f12b 
+Dealt to 8e068eff 
+Dealt to 53b26dcb 
+Dealt to 62ee32fe 
+Hero: folds
+19487c0d: folds
+ccb4f12b: raises 250 to 500
+8e068eff: folds
+53b26dcb: folds
+62ee32fe: folds
+f37e1c7: folds
+eae335d5: calls 250
+*** FLOP *** [Kh 7h 2d]
+eae335d5: checks
+ccb4f12b: bets 491
+eae335d5: calls 491
+*** TURN *** [Kh 7h 2d] [Kc]
+eae335d5: checks
+ccb4f12b: bets 1,791
+eae335d5: calls 1,791
+*** RIVER *** [Kh 7h 2d Kc] [6s]
+eae335d5: checks
+ccb4f12b: checks
+eae335d5: shows [Qs 7s] (two pair, Kings and Sevens)
+ccb4f12b: shows [8c 7c] (two pair, Kings and Sevens)
+*** SHOWDOWN ***
+eae335d5 collected 5,969 from pot
+*** SUMMARY ***
+Total pot 5,969 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kh 7h 2d Kc 6s]
+Seat 1: f37e1c7 (small blind) folded before Flop
+Seat 2: eae335d5 (big blind) showed [Qs 7s] and won (5,969) with two pair, Kings and Sevens
+Seat 3: Hero folded before Flop
+Seat 4: 19487c0d folded before Flop
+Seat 5: ccb4f12b showed [8c 7c] and lost with two pair, Kings and Sevens
+Seat 6: 8e068eff folded before Flop
+Seat 7: 53b26dcb folded before Flop
+Seat 8: 62ee32fe (button) folded before Flop
+
+
+Poker Hand #TM5296351551: Tournament #244745703, 63-KO: $5.50 Fifty Stack Bounty Hold'em No Limit - Level1(125/250) - 2025/12/06 23:06:06
+Table '51' 8-max Seat #7 is the button
+Seat 1: f37e1c7 (45,873 in chips)
+Seat 2: eae335d5 (49,700 in chips)
+Seat 3: Hero (49,450 in chips)
+Seat 4: 19487c0d (46,028 in chips)
+Seat 5: ccb4f12b (46,140 in chips)
+Seat 6: 8e068eff (50,000 in chips)
+Seat 7: 53b26dcb (49,445 in chips)
+Seat 8: 62ee32fe (49,325 in chips)
+8e068eff: posts the ante 35
+eae335d5: posts the ante 35
+62ee32fe: posts the ante 35
+19487c0d: posts the ante 35
+Hero: posts the ante 35
+f37e1c7: posts the ante 35
+53b26dcb: posts the ante 35
+ccb4f12b: posts the ante 35
+62ee32fe: posts small blind 125
+f37e1c7: posts big blind 250
+*** HOLE CARDS ***
+Dealt to f37e1c7 
+Dealt to eae335d5 
+Dealt to Hero [2d As]
+Dealt to 19487c0d 
+Dealt to ccb4f12b 
+Dealt to 8e068eff 
+Dealt to 53b26dcb 
+Dealt to 62ee32fe 
+eae335d5: folds
+Hero: folds
+19487c0d: folds
+ccb4f12b: folds
+8e068eff: folds
+53b26dcb: raises 500 to 750
+62ee32fe: folds
+f37e1c7: calls 500
+*** FLOP *** [5h Qd Th]
+f37e1c7: checks
+53b26dcb: checks
+*** TURN *** [5h Qd Th] [5d]
+f37e1c7: checks
+53b26dcb: bets 1,102
+f37e1c7: folds
+Uncalled bet (1,102) returned to 53b26dcb
+*** SHOWDOWN ***
+53b26dcb collected 1,905 from pot
+*** SUMMARY ***
+Total pot 1,905 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5h Qd Th 5d]
+Seat 1: f37e1c7 (big blind) folded on the Turn
+Seat 2: eae335d5 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 19487c0d folded before Flop
+Seat 5: ccb4f12b folded before Flop
+Seat 6: 8e068eff folded before Flop
+Seat 7: 53b26dcb (button) won (1,905)
+Seat 8: 62ee32fe (small blind) folded before Flop
+
+
+Poker Hand #TM5296351521: Tournament #244745703, 63-KO: $5.50 Fifty Stack Bounty Hold'em No Limit - Level1(125/250) - 2025/12/06 23:05:07
+Table '51' 8-max Seat #5 is the button
+Seat 1: f37e1c7 (45,908 in chips)
+Seat 2: eae335d5 (49,735 in chips)
+Seat 3: Hero (49,485 in chips)
+Seat 4: 19487c0d (46,063 in chips)
+Seat 5: ccb4f12b (45,305 in chips)
+Seat 7: 53b26dcb (49,605 in chips)
+Seat 8: 62ee32fe (49,860 in chips)
+eae335d5: posts the ante 35
+62ee32fe: posts the ante 35
+19487c0d: posts the ante 35
+Hero: posts the ante 35
+f37e1c7: posts the ante 35
+53b26dcb: posts the ante 35
+ccb4f12b: posts the ante 35
+53b26dcb: posts small blind 125
+62ee32fe: posts big blind 250
+*** HOLE CARDS ***
+Dealt to f37e1c7 
+Dealt to eae335d5 
+Dealt to Hero [7s Qh]
+Dealt to 19487c0d 
+Dealt to ccb4f12b 
+Dealt to 53b26dcb 
+Dealt to 62ee32fe 
+f37e1c7: folds
+eae335d5: folds
+Hero: folds
+19487c0d: folds
+ccb4f12b: raises 250 to 500
+53b26dcb: folds
+62ee32fe: calls 250
+*** FLOP *** [Jc Jd Qs]
+62ee32fe: checks
+ccb4f12b: bets 482
+62ee32fe: folds
+Uncalled bet (482) returned to ccb4f12b
+*** SHOWDOWN ***
+ccb4f12b collected 1,370 from pot
+*** SUMMARY ***
+Total pot 1,370 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jc Jd Qs]
+Seat 1: f37e1c7 folded before Flop
+Seat 2: eae335d5 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 19487c0d folded before Flop
+Seat 5: ccb4f12b (button) won (1,370)
+Seat 7: 53b26dcb (small blind) folded before Flop
+Seat 8: 62ee32fe (big blind) folded on the Flop
+
+
+Poker Hand #TM5296351460: Tournament #244745703, 63-KO: $5.50 Fifty Stack Bounty Hold'em No Limit - Level1(125/250) - 2025/12/06 23:03:24
+Table '51' 8-max Seat #4 is the button
+Seat 1: f37e1c7 (45,943 in chips)
+Seat 2: eae335d5 (49,770 in chips)
+Seat 3: Hero (49,520 in chips)
+Seat 4: 19487c0d (49,973 in chips)
+Seat 5: ccb4f12b (45,465 in chips)
+Seat 7: 53b26dcb (45,395 in chips)
+Seat 8: 62ee32fe (49,895 in chips)
+eae335d5: posts the ante 35
+62ee32fe: posts the ante 35
+19487c0d: posts the ante 35
+Hero: posts the ante 35
+f37e1c7: posts the ante 35
+53b26dcb: posts the ante 35
+ccb4f12b: posts the ante 35
+ccb4f12b: posts small blind 125
+53b26dcb: posts big blind 250
+*** HOLE CARDS ***
+Dealt to f37e1c7 
+Dealt to eae335d5 
+Dealt to Hero [Qc 2c]
+Dealt to 19487c0d 
+Dealt to ccb4f12b 
+Dealt to 53b26dcb 
+Dealt to 62ee32fe 
+62ee32fe: folds
+f37e1c7: folds
+eae335d5: folds
+Hero: folds
+19487c0d: raises 250 to 500
+ccb4f12b: folds
+53b26dcb: calls 250
+*** FLOP *** [4s Jc Js]
+53b26dcb: checks
+19487c0d: bets 375
+53b26dcb: calls 375
+*** TURN *** [4s Jc Js] [Ac]
+53b26dcb: checks
+19487c0d: bets 3,000
+53b26dcb: calls 3,000
+*** RIVER *** [4s Jc Js Ac] [5s]
+53b26dcb: checks
+19487c0d: checks
+53b26dcb: shows [Ah 4c] (two pair, Aces and Jacks)
+19487c0d: shows [Qd Kc] (a pair of Jacks)
+*** SHOWDOWN ***
+53b26dcb collected 8,120 from pot
+*** SUMMARY ***
+Total pot 8,120 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4s Jc Js Ac 5s]
+Seat 1: f37e1c7 folded before Flop
+Seat 2: eae335d5 folded before Flop
+Seat 3: Hero folded before Flop
+Seat 4: 19487c0d (button) showed [Qd Kc] and lost with a pair of Jacks
+Seat 5: ccb4f12b (small blind) folded before Flop
+Seat 7: 53b26dcb (big blind) showed [Ah 4c] and won (8,120) with two pair, Aces and Jacks
+Seat 8: 62ee32fe folded before Flop
+
+
+Poker Hand #TM5296351422: Tournament #244745703, 63-KO: $5.50 Fifty Stack Bounty Hold'em No Limit - Level1(125/250) - 2025/12/06 23:02:10
+Table '51' 8-max Seat #3 is the button
+Seat 1: f37e1c7 (45,978 in chips)
+Seat 2: eae335d5 (49,805 in chips)
+Seat 3: Hero (49,555 in chips)
+Seat 4: 19487c0d (50,133 in chips)
+Seat 5: ccb4f12b (50,000 in chips)
+Seat 6: 3678ae3d (54,739 in chips)
+Seat 7: 53b26dcb (49,930 in chips)
+Seat 8: 62ee32fe (49,930 in chips)
+eae335d5: posts the ante 35
+62ee32fe: posts the ante 35
+19487c0d: posts the ante 35
+3678ae3d: posts the ante 35
+Hero: posts the ante 35
+f37e1c7: posts the ante 35
+53b26dcb: posts the ante 35
+ccb4f12b: posts the ante 35
+19487c0d: posts small blind 125
+ccb4f12b: posts big blind 250
+*** HOLE CARDS ***
+Dealt to f37e1c7 
+Dealt to eae335d5 
+Dealt to Hero [5d Kc]
+Dealt to 19487c0d 
+Dealt to ccb4f12b 
+Dealt to 3678ae3d 
+Dealt to 53b26dcb 
+Dealt to 62ee32fe 
+3678ae3d: raises 250 to 500
+53b26dcb: raises 1,625 to 2,125
+62ee32fe: folds
+f37e1c7: folds
+eae335d5: folds
+Hero: folds
+19487c0d: folds
+ccb4f12b: calls 1,875
+3678ae3d: calls 1,625
+*** FLOP *** [Ts 4h Ks]
+ccb4f12b: checks
+3678ae3d: checks
+53b26dcb: bets 2,375
+ccb4f12b: calls 2,375
+3678ae3d: raises 50,204 to 52,579 and is all-in
+53b26dcb: folds
+ccb4f12b: folds
+Uncalled bet (50,204) returned to 3678ae3d
+*** SHOWDOWN ***
+3678ae3d collected 13,905 from pot
+*** SUMMARY ***
+Total pot 13,905 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 4h Ks]
+Seat 1: f37e1c7 folded before Flop
+Seat 2: eae335d5 folded before Flop
+Seat 3: Hero (button) folded before Flop
+Seat 4: 19487c0d (small blind) folded before Flop
+Seat 5: ccb4f12b (big blind) folded on the Flop
+Seat 6: 3678ae3d won (13,905)
+Seat 7: 53b26dcb folded on the Flop
+Seat 8: 62ee32fe folded before Flop
+
+
+Poker Hand #TM5296351393: Tournament #244745703, 63-KO: $5.50 Fifty Stack Bounty Hold'em No Limit - Level1(125/250) - 2025/12/06 23:01:14
+Table '51' 8-max Seat #2 is the button
+Seat 1: f37e1c7 (46,013 in chips)
+Seat 2: eae335d5 (49,840 in chips)
+Seat 3: Hero (49,715 in chips)
+Seat 4: 19487c0d (49,965 in chips)
+Seat 5: a1008aec (49,965 in chips)
+Seat 6: 3678ae3d (54,572 in chips)
+Seat 7: 53b26dcb (49,965 in chips)
+Seat 8: 62ee32fe (49,965 in chips)
+eae335d5: posts the ante 35
+62ee32fe: posts the ante 35
+19487c0d: posts the ante 35
+3678ae3d: posts the ante 35
+f37e1c7: posts the ante 35
+a1008aec: posts the ante 35
+Hero: posts the ante 35
+53b26dcb: posts the ante 35
+Hero: posts small blind 125
+19487c0d: posts big blind 250
+*** HOLE CARDS ***
+Dealt to f37e1c7 
+Dealt to eae335d5 
+Dealt to Hero [6c Th]
+Dealt to 19487c0d 
+Dealt to a1008aec 
+Dealt to 3678ae3d 
+Dealt to 53b26dcb 
+Dealt to 62ee32fe 
+a1008aec: folds
+3678ae3d: calls 250
+53b26dcb: folds
+62ee32fe: folds
+f37e1c7: folds
+eae335d5: folds
+Hero: folds
+19487c0d: checks
+*** FLOP *** [6h 6d Kd]
+19487c0d: checks
+3678ae3d: bets 500
+19487c0d: calls 500
+*** TURN *** [6h 6d Kd] [3c]
+19487c0d: checks
+3678ae3d: checks
+*** RIVER *** [6h 6d Kd 3c] [3s]
+19487c0d: bets 500
+3678ae3d: calls 500
+19487c0d: shows [Ad 2d] (two pair, Sixes and Threes)
+3678ae3d: shows [Qc As] (two pair, Sixes and Threes)
+*** SHOWDOWN ***
+3678ae3d collected 1,452 from pot
+19487c0d collected 1,453 from pot
+*** SUMMARY ***
+Total pot 2,905 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 6d Kd 3c 3s]
+Seat 1: f37e1c7 folded before Flop
+Seat 2: eae335d5 (button) folded before Flop
+Seat 3: Hero (small blind) folded before Flop
+Seat 4: 19487c0d (big blind) showed [Ad 2d] and won (1,453) with two pair, Sixes and Threes
+Seat 5: a1008aec folded before Flop
+Seat 6: 3678ae3d showed [Qc As] and won (1,452) with two pair, Sixes and Threes
+Seat 7: 53b26dcb folded before Flop
+Seat 8: 62ee32fe folded before Flop
+
+
+Poker Hand #TM5296351368: Tournament #244745703, 63-KO: $5.50 Fifty Stack Bounty Hold'em No Limit - Level1(125/250) - 2025/12/06 23:00:02
+Table '51' 8-max Seat #1 is the button
+Seat 1: f37e1c7 (50,000 in chips)
+Seat 2: eae335d5 (50,000 in chips)
+Seat 3: Hero (50,000 in chips)
+Seat 4: 19487c0d (50,000 in chips)
+Seat 5: a1008aec (50,000 in chips)
+Seat 6: 3678ae3d (50,000 in chips)
+Seat 7: 53b26dcb (50,000 in chips)
+Seat 8: 62ee32fe (50,000 in chips)
+eae335d5: posts the ante 35
+62ee32fe: posts the ante 35
+19487c0d: posts the ante 35
+3678ae3d: posts the ante 35
+f37e1c7: posts the ante 35
+a1008aec: posts the ante 35
+Hero: posts the ante 35
+53b26dcb: posts the ante 35
+eae335d5: posts small blind 125
+Hero: posts big blind 250
+*** HOLE CARDS ***
+Dealt to f37e1c7 
+Dealt to eae335d5 
+Dealt to Hero [3s 8s]
+Dealt to 19487c0d 
+Dealt to a1008aec 
+Dealt to 3678ae3d 
+Dealt to 53b26dcb 
+Dealt to 62ee32fe 
+19487c0d: folds
+a1008aec: folds
+3678ae3d: raises 500 to 750
+53b26dcb: folds
+62ee32fe: folds
+f37e1c7: raises 1,500 to 2,250
+eae335d5: folds
+Hero: folds
+3678ae3d: calls 1,500
+*** FLOP *** [7s 6s Qh]
+3678ae3d: checks
+f37e1c7: bets 1,702
+3678ae3d: calls 1,702
+*** TURN *** [7s 6s Qh] [Js]
+3678ae3d: bets 4,280
+f37e1c7: folds
+Uncalled bet (4,280) returned to 3678ae3d
+*** SHOWDOWN ***
+3678ae3d collected 8,559 from pot
+*** SUMMARY ***
+Total pot 8,559 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7s 6s Qh Js]
+Seat 1: f37e1c7 (button) folded on the Turn
+Seat 2: eae335d5 (small blind) folded before Flop
+Seat 3: Hero (big blind) folded before Flop
+Seat 4: 19487c0d folded before Flop
+Seat 5: a1008aec folded before Flop
+Seat 6: 3678ae3d won (8,559)
+Seat 7: 53b26dcb folded before Flop
+Seat 8: 62ee32fe folded before Flop
+
+

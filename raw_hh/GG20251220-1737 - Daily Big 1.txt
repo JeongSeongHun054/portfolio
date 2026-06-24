@@ -1,0 +1,59 @@
+Poker Hand #TM5356232996: Tournament #249599114, Daily Big $1 Hold'em No Limit - Level6(150/300) - 2025/12/21 02:37:26
+Table '254' 8-max Seat #2 is the button
+Seat 1: 2a81034c (19,859 in chips)
+Seat 2: 6344f6a0 (7,054 in chips)
+Seat 3: 9f907cdf (11,138 in chips)
+Seat 4: Hero (10,000 in chips)
+Seat 5: ee85070 (7,444 in chips)
+Seat 6: b921f7f3 (18,468 in chips)
+Seat 7: 2f583da6 (25,120 in chips)
+Seat 8: e520dd99 (20,917 in chips)
+e520dd99: posts the ante 35
+2a81034c: posts the ante 35
+ee85070: posts the ante 35
+6344f6a0: posts the ante 35
+2f583da6: posts the ante 35
+b921f7f3: posts the ante 35
+9f907cdf: posts the ante 35
+Hero: posts the ante 35
+9f907cdf: posts small blind 150
+Hero: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 2a81034c 
+Dealt to 6344f6a0 
+Dealt to 9f907cdf 
+Dealt to Hero [6h 6s]
+Dealt to ee85070 
+Dealt to b921f7f3 
+Dealt to 2f583da6 
+Dealt to e520dd99 
+ee85070: folds
+b921f7f3: folds
+2f583da6: folds
+e520dd99: folds
+2a81034c: folds
+6344f6a0: folds
+9f907cdf: raises 10,803 to 11,103 and is all-in
+Hero: calls 9,665 and is all-in
+Uncalled bet (1,138) returned to 9f907cdf
+9f907cdf: shows [3c Jc]
+Hero: shows [6h 6s]
+*** FLOP *** [Jh 5s Tc]
+*** TURN *** [Jh 5s Tc] [8h]
+*** RIVER *** [Jh 5s Tc 8h] [2s]
+2a81034c: shows [7d 9h] (a straight, Jack to Seven)
+*** SHOWDOWN ***
+9f907cdf collected 20,210 from pot
+*** SUMMARY ***
+Total pot 20,210 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh 5s Tc 8h 2s]
+Seat 1: 2a81034c folded before Flop
+Seat 2: 6344f6a0 (button) folded before Flop
+Seat 3: 9f907cdf (small blind) showed [3c Jc] and won (20,210) with a pair of Jacks
+Seat 4: Hero (big blind) showed [6h 6s] and lost with a pair of Sixes
+Seat 5: ee85070 folded before Flop
+Seat 6: b921f7f3 folded before Flop
+Seat 7: 2f583da6 folded before Flop
+Seat 8: e520dd99 folded before Flop
+
+

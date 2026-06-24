@@ -1,0 +1,185 @@
+Poker Hand #TM5355120011: Tournament #249535649, GGMasters Asia $25, $40K GTD Hold'em No Limit - Level1(25/50) - 2025/12/20 20:01:30
+Table '40' 8-max Seat #3 is the button
+Seat 1: 2cb50a95 (9,888 in chips)
+Seat 2: d0d6fbad (9,512 in chips)
+Seat 3: 9e857681 (9,913 in chips)
+Seat 4: ff2a680a (10,205 in chips)
+Seat 5: 516d34c3 (9,838 in chips)
+Seat 6: 86e79989 (10,762 in chips)
+Seat 7: Hero (9,888 in chips)
+Seat 8: 57481ff1 (9,994 in chips)
+9e857681: posts the ante 6
+57481ff1: posts the ante 6
+516d34c3: posts the ante 6
+86e79989: posts the ante 6
+2cb50a95: posts the ante 6
+ff2a680a: posts the ante 6
+Hero: posts the ante 6
+d0d6fbad: posts the ante 6
+ff2a680a: posts small blind 25
+516d34c3: posts big blind 50
+*** HOLE CARDS ***
+Dealt to 2cb50a95 
+Dealt to d0d6fbad 
+Dealt to 9e857681 
+Dealt to ff2a680a 
+Dealt to 516d34c3 
+Dealt to 86e79989 
+Dealt to Hero [Jh Qh]
+Dealt to 57481ff1 
+86e79989: folds
+Hero: raises 50 to 100
+57481ff1: folds
+2cb50a95: folds
+d0d6fbad: folds
+9e857681: calls 100
+ff2a680a: folds
+516d34c3: calls 50
+*** FLOP *** [6d Kd 3h]
+516d34c3: checks
+Hero: checks
+9e857681: checks
+*** TURN *** [6d Kd 3h] [7h]
+516d34c3: checks
+Hero: bets 105
+9e857681: calls 105
+516d34c3: folds
+*** RIVER *** [6d Kd 3h 7h] [4h]
+Hero: bets 255
+9e857681: raises 9,447 to 9,702 and is all-in
+Hero: calls 9,422 and is all-in
+Uncalled bet (25) returned to 9e857681
+9e857681: shows [8h Ah] (a flush Ace high)
+Hero: shows [Jh Qh] (a flush Queen high)
+516d34c3: shows [3s 4d] (two pair, Fours and Threes)
+*** SHOWDOWN ***
+9e857681 collected 19,937 from pot
+*** SUMMARY ***
+Total pot 19,937 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6d Kd 3h 7h 4h]
+Seat 1: 2cb50a95 folded before Flop
+Seat 2: d0d6fbad folded before Flop
+Seat 3: 9e857681 (button) showed [8h Ah] and won (19,937) with a flush Ace high
+Seat 4: ff2a680a (small blind) folded before Flop
+Seat 5: 516d34c3 (big blind) folded on the Turn
+Seat 6: 86e79989 folded before Flop
+Seat 7: Hero showed [Jh Qh] and lost with a flush Queen high
+Seat 8: 57481ff1 folded before Flop
+
+
+Poker Hand #TM5355119995: Tournament #249535649, GGMasters Asia $25, $40K GTD Hold'em No Limit - Level1(25/50) - 2025/12/20 20:00:45
+Table '40' 8-max Seat #2 is the button
+Seat 1: 2cb50a95 (9,994 in chips)
+Seat 2: d0d6fbad (9,969 in chips)
+Seat 3: 9e857681 (9,944 in chips)
+Seat 4: ff2a680a (10,261 in chips)
+Seat 5: 516d34c3 (9,844 in chips)
+Seat 6: 86e79989 (9,994 in chips)
+Seat 7: Hero (9,994 in chips)
+Seat 8: 57481ff1 (10,000 in chips)
+9e857681: posts the ante 6
+57481ff1: posts the ante 6
+516d34c3: posts the ante 6
+86e79989: posts the ante 6
+2cb50a95: posts the ante 6
+ff2a680a: posts the ante 6
+Hero: posts the ante 6
+d0d6fbad: posts the ante 6
+9e857681: posts small blind 25
+ff2a680a: posts big blind 50
+*** HOLE CARDS ***
+Dealt to 2cb50a95 
+Dealt to d0d6fbad 
+Dealt to 9e857681 
+Dealt to ff2a680a 
+Dealt to 516d34c3 
+Dealt to 86e79989 
+Dealt to Hero [Jh Kd]
+Dealt to 57481ff1 
+516d34c3: folds
+86e79989: raises 50 to 100
+Hero: calls 100
+57481ff1: folds
+2cb50a95: calls 100
+d0d6fbad: raises 351 to 451
+9e857681: folds
+ff2a680a: folds
+86e79989: calls 351
+Hero: folds
+2cb50a95: folds
+*** FLOP *** [7s Js 2h]
+86e79989: checks
+d0d6fbad: checks
+*** TURN *** [7s Js 2h] [Kh]
+86e79989: bets 613
+d0d6fbad: folds
+Uncalled bet (613) returned to 86e79989
+*** SHOWDOWN ***
+86e79989 collected 1,225 from pot
+*** SUMMARY ***
+Total pot 1,225 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7s Js 2h Kh]
+Seat 1: 2cb50a95 folded before Flop
+Seat 2: d0d6fbad (button) folded on the Turn
+Seat 3: 9e857681 (small blind) folded before Flop
+Seat 4: ff2a680a (big blind) folded before Flop
+Seat 5: 516d34c3 folded before Flop
+Seat 6: 86e79989 won (1,225)
+Seat 7: Hero folded before Flop
+Seat 8: 57481ff1 folded before Flop
+
+
+Poker Hand #TM5355119992: Tournament #249535649, GGMasters Asia $25, $40K GTD Hold'em No Limit - Level1(25/50) - 2025/12/20 20:00:02
+Table '40' 8-max Seat #1 is the button
+Seat 1: 2cb50a95 (10,000 in chips)
+Seat 2: d0d6fbad (10,000 in chips)
+Seat 3: 9e857681 (10,000 in chips)
+Seat 4: ff2a680a (10,000 in chips)
+Seat 5: 516d34c3 (10,000 in chips)
+Seat 6: 86e79989 (10,000 in chips)
+Seat 7: Hero (10,000 in chips)
+9e857681: posts the ante 6
+516d34c3: posts the ante 6
+86e79989: posts the ante 6
+2cb50a95: posts the ante 6
+ff2a680a: posts the ante 6
+Hero: posts the ante 6
+d0d6fbad: posts the ante 6
+d0d6fbad: posts small blind 25
+9e857681: posts big blind 50
+*** HOLE CARDS ***
+Dealt to 2cb50a95 
+Dealt to d0d6fbad 
+Dealt to 9e857681 
+Dealt to ff2a680a 
+Dealt to 516d34c3 
+Dealt to 86e79989 
+Dealt to Hero [4d 2d]
+ff2a680a: raises 100 to 150
+516d34c3: calls 150
+86e79989: folds
+Hero: folds
+2cb50a95: folds
+d0d6fbad: folds
+9e857681: folds
+*** FLOP *** [Jc Qc 2h]
+ff2a680a: checks
+516d34c3: checks
+*** TURN *** [Jc Qc 2h] [7h]
+ff2a680a: bets 138
+516d34c3: folds
+Uncalled bet (138) returned to ff2a680a
+*** SHOWDOWN ***
+ff2a680a collected 417 from pot
+*** SUMMARY ***
+Total pot 417 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jc Qc 2h 7h]
+Seat 1: 2cb50a95 (button) folded before Flop
+Seat 2: d0d6fbad (small blind) folded before Flop
+Seat 3: 9e857681 (big blind) folded before Flop
+Seat 4: ff2a680a won (417)
+Seat 5: 516d34c3 folded on the Turn
+Seat 6: 86e79989 folded before Flop
+Seat 7: Hero folded before Flop
+
+

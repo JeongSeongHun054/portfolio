@@ -1,0 +1,69 @@
+Poker Hand #TM5323998094: Tournament #248293021, Daily $100,000 #ThanksGG Flipout Hold'em No Limit - Level1(500/1,000) - 2025/12/14 17:45:02
+Table '49' 9-max Seat #7 is the button
+Seat 1: 110cfdbc (39,894 in chips)
+Seat 2: 9e784840 (112,053 in chips)
+Seat 3: 74cdbd31 (2,500 in chips)
+Seat 4: Hero (7,582 in chips)
+Seat 5: f0a11c00 (143,415 in chips)
+Seat 6: 90c690a4 (750 in chips)
+Seat 7: 67f0a847 (9,660 in chips)
+Seat 8: 411471b4 (157,056 in chips)
+Seat 9: 6f41c14b (3,880 in chips)
+9e784840: posts the ante 112,053
+74cdbd31: posts the ante 2,500
+6f41c14b: posts the ante 3,880
+Hero: posts the ante 7,582
+110cfdbc: posts the ante 39,894
+90c690a4: posts the ante 750
+f0a11c00: posts the ante 143,415
+411471b4: posts the ante 157,056
+67f0a847: posts the ante 9,660
+411471b4: posts small blind 500
+6f41c14b: posts big blind 0
+*** HOLE CARDS ***
+Dealt to 110cfdbc 
+Dealt to 9e784840 
+Dealt to 74cdbd31 
+Dealt to Hero [2c Ac]
+Dealt to f0a11c00 
+Dealt to 90c690a4 
+Dealt to 67f0a847 
+Dealt to 411471b4 
+Dealt to 6f41c14b 
+Uncalled bet (13,641) returned to 411471b4
+Uncalled bet (500) returned to 411471b4
+411471b4: shows [4h 3h]
+6f41c14b: shows [5h Qc]
+110cfdbc: shows [Th Kd]
+9e784840: shows [9d Ad]
+74cdbd31: shows [6d 7d]
+Hero: shows [2c Ac]
+f0a11c00: shows [Ts Qh]
+90c690a4: shows [Qd Jc]
+67f0a847: shows [Ah 6c]
+*** FLOP *** [5d Kc 7c]
+*** TURN *** [5d Kc 7c] [3d]
+*** RIVER *** [5d Kc 7c 3d] [Qs]
+*** SHOWDOWN ***
+6f41c14b collected 6,750 from pot
+6f41c14b collected 14,000 from pot
+6f41c14b collected 9,660 from pot
+110cfdbc collected 22,212 from pot
+110cfdbc collected 10,390 from pot
+110cfdbc collected 120,936 from pot
+f0a11c00 collected 216,477 from pot
+f0a11c00 collected 62,724 from pot
+*** SUMMARY ***
+Total pot 463,149 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5d Kc 7c 3d Qs]
+Seat 1: 110cfdbc showed [Th Kd] and won (153,538) with a pair of Kings
+Seat 2: 9e784840 showed [9d Ad] and lost with Ace high
+Seat 3: 74cdbd31 showed [6d 7d] and lost with a pair of Sevens
+Seat 4: Hero showed [2c Ac] and lost with Ace high
+Seat 5: f0a11c00 showed [Ts Qh] and won (279,201) with a pair of Queens
+Seat 6: 90c690a4 showed [Qd Jc] and lost with a pair of Queens
+Seat 7: 67f0a847 (button) showed [Ah 6c] and lost with Ace high
+Seat 8: 411471b4 (small blind) showed [4h 3h] and lost with a pair of Threes
+Seat 9: 6f41c14b (big blind) showed [5h Qc] and won (30,410) with two pair, Queens and Fives
+
+

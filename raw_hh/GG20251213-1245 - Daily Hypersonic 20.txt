@@ -1,0 +1,3074 @@
+Poker Hand #TM5322885977: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level12(300/600) - 2025/12/13 22:39:04
+Table '22' 6-max Seat #2 is the button
+Seat 1: 2f1b2e5b (20,431 in chips)
+Seat 2: Hero (12,672 in chips)
+Seat 3: 84b2a834 (24,200 in chips)
+Seat 4: 968abf9e (9,820 in chips)
+Seat 5: b1f53ee4 (12,070 in chips)
+Seat 6: 686a8a00 (26,962 in chips)
+968abf9e: posts the ante 90
+Hero: posts the ante 90
+84b2a834: posts the ante 90
+2f1b2e5b: posts the ante 90
+b1f53ee4: posts the ante 90
+686a8a00: posts the ante 90
+84b2a834: posts small blind 300
+968abf9e: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Jh Kh]
+Dealt to 84b2a834 
+Dealt to 968abf9e 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+b1f53ee4: folds
+686a8a00: folds
+2f1b2e5b: folds
+Hero: raises 600 to 1,200
+84b2a834: raises 22,910 to 24,110 and is all-in
+968abf9e: folds
+Hero: calls 11,382 and is all-in
+Uncalled bet (11,528) returned to 84b2a834
+84b2a834: shows [6s 6h]
+Hero: shows [Jh Kh]
+*** FLOP *** [7c Qc 8d]
+*** TURN *** [7c Qc 8d] [3s]
+*** RIVER *** [7c Qc 8d 3s] [4c]
+*** SHOWDOWN ***
+84b2a834 collected 26,304 from pot
+*** SUMMARY ***
+Total pot 26,304 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7c Qc 8d 3s 4c]
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero (button) showed [Jh Kh] and lost with King high
+Seat 3: 84b2a834 (small blind) showed [6s 6h] and won (26,304) with a pair of Sixes
+Seat 4: 968abf9e (big blind) folded before Flop
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 686a8a00 folded before Flop
+
+
+Poker Hand #TM5322885972: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level12(300/600) - 2025/12/13 22:38:36
+Table '22' 6-max Seat #1 is the button
+Seat 1: 2f1b2e5b (20,521 in chips)
+Seat 2: Hero (14,562 in chips)
+Seat 3: 84b2a834 (21,950 in chips)
+Seat 4: 968abf9e (9,910 in chips)
+Seat 5: b1f53ee4 (12,160 in chips)
+Seat 6: 686a8a00 (27,052 in chips)
+968abf9e: posts the ante 90
+Hero: posts the ante 90
+84b2a834: posts the ante 90
+2f1b2e5b: posts the ante 90
+b1f53ee4: posts the ante 90
+686a8a00: posts the ante 90
+Hero: posts small blind 300
+84b2a834: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Js Tc]
+Dealt to 84b2a834 
+Dealt to 968abf9e 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+968abf9e: folds
+b1f53ee4: folds
+686a8a00: folds
+2f1b2e5b: folds
+Hero: raises 1,200 to 1,800
+84b2a834: raises 20,060 to 21,860 and is all-in
+Hero: folds
+Uncalled bet (20,060) returned to 84b2a834
+*** SHOWDOWN ***
+84b2a834 collected 4,140 from pot
+*** SUMMARY ***
+Total pot 4,140 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b (button) folded before Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 84b2a834 (big blind) collected (4,140)
+Seat 4: 968abf9e folded before Flop
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 686a8a00 folded before Flop
+
+
+Poker Hand #TM5322885964: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level12(300/600) - 2025/12/13 22:37:41
+Table '22' 6-max Seat #6 is the button
+Seat 1: 2f1b2e5b (21,211 in chips)
+Seat 2: Hero (13,512 in chips)
+Seat 3: 84b2a834 (22,040 in chips)
+Seat 4: 968abf9e (10,000 in chips)
+Seat 5: b1f53ee4 (12,250 in chips)
+Seat 6: 686a8a00 (27,142 in chips)
+968abf9e: posts the ante 90
+Hero: posts the ante 90
+84b2a834: posts the ante 90
+b1f53ee4: posts the ante 90
+2f1b2e5b: posts the ante 90
+686a8a00: posts the ante 90
+2f1b2e5b: posts small blind 300
+Hero: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [9d 4d]
+Dealt to 84b2a834 
+Dealt to 968abf9e 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+84b2a834: folds
+968abf9e: folds
+b1f53ee4: folds
+686a8a00: folds
+2f1b2e5b: calls 300
+Hero: checks
+*** FLOP *** [Js 8d Jc]
+2f1b2e5b: checks
+Hero: checks
+*** TURN *** [Js 8d Jc] [5s]
+2f1b2e5b: checks
+Hero: checks
+*** RIVER *** [Js 8d Jc 5s] [Qc]
+2f1b2e5b: checks
+Hero: bets 600
+2f1b2e5b: folds
+Uncalled bet (600) returned to Hero
+*** SHOWDOWN ***
+Hero collected 1,740 from pot
+*** SUMMARY ***
+Total pot 1,740 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Js 8d Jc 5s Qc]
+Seat 1: 2f1b2e5b (small blind) folded on the River
+Seat 2: Hero (big blind) won (1,740)
+Seat 3: 84b2a834 folded before Flop
+Seat 4: 968abf9e folded before Flop
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 686a8a00 (button) folded before Flop
+
+
+Poker Hand #TM5322885959: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level12(300/600) - 2025/12/13 22:37:25
+Table '22' 6-max Seat #5 is the button
+Seat 1: 2f1b2e5b (20,551 in chips)
+Seat 2: Hero (13,602 in chips)
+Seat 3: 84b2a834 (22,130 in chips)
+Seat 5: b1f53ee4 (12,340 in chips)
+Seat 6: 686a8a00 (27,532 in chips)
+Hero: posts the ante 90
+84b2a834: posts the ante 90
+b1f53ee4: posts the ante 90
+2f1b2e5b: posts the ante 90
+686a8a00: posts the ante 90
+686a8a00: posts small blind 300
+2f1b2e5b: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [7h 3s]
+Dealt to 84b2a834 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+Hero: folds
+84b2a834: folds
+b1f53ee4: folds
+686a8a00: folds
+Uncalled bet (300) returned to 2f1b2e5b
+*** SHOWDOWN ***
+2f1b2e5b collected 1,050 from pot
+*** SUMMARY ***
+Total pot 1,050 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b (big blind) collected (1,050)
+Seat 2: Hero folded before Flop
+Seat 3: 84b2a834 folded before Flop
+Seat 5: b1f53ee4 (button) folded before Flop
+Seat 6: 686a8a00 (small blind) folded before Flop
+
+
+Poker Hand #TM5322885955: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level12(300/600) - 2025/12/13 22:37:00
+Table '22' 6-max Seat #3 is the button
+Seat 1: 2f1b2e5b (20,641 in chips)
+Seat 2: Hero (12,342 in chips)
+Seat 3: 84b2a834 (22,220 in chips)
+Seat 5: b1f53ee4 (12,730 in chips)
+Seat 6: 686a8a00 (28,222 in chips)
+Hero: posts the ante 90
+84b2a834: posts the ante 90
+2f1b2e5b: posts the ante 90
+b1f53ee4: posts the ante 90
+686a8a00: posts the ante 90
+b1f53ee4: posts small blind 300
+686a8a00: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Qs Jc]
+Dealt to 84b2a834 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+2f1b2e5b: folds
+Hero: raises 600 to 1,200
+84b2a834: folds
+b1f53ee4: folds
+686a8a00: folds
+Uncalled bet (600) returned to Hero
+*** SHOWDOWN ***
+Hero collected 1,950 from pot
+*** SUMMARY ***
+Total pot 1,950 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero collected (1,950)
+Seat 3: 84b2a834 (button) folded before Flop
+Seat 5: b1f53ee4 (small blind) folded before Flop
+Seat 6: 686a8a00 (big blind) folded before Flop
+
+
+Poker Hand #TM5322885946: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level12(300/600) - 2025/12/13 22:36:20
+Table '22' 6-max Seat #2 is the button
+Seat 1: 2f1b2e5b (20,731 in chips)
+Seat 2: Hero (12,432 in chips)
+Seat 3: 84b2a834 (14,276 in chips)
+Seat 4: 799a79fe (7,584 in chips)
+Seat 5: b1f53ee4 (12,820 in chips)
+Seat 6: 686a8a00 (28,312 in chips)
+799a79fe: posts the ante 90
+Hero: posts the ante 90
+84b2a834: posts the ante 90
+2f1b2e5b: posts the ante 90
+b1f53ee4: posts the ante 90
+686a8a00: posts the ante 90
+84b2a834: posts small blind 300
+799a79fe: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Ks 3h]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+b1f53ee4: folds
+686a8a00: folds
+2f1b2e5b: folds
+Hero: folds
+84b2a834: raises 900 to 1,500
+799a79fe: raises 5,994 to 7,494 and is all-in
+84b2a834: calls 5,994
+799a79fe: shows [3c Ah]
+84b2a834: shows [Qc Ac]
+*** FLOP *** [4c 7h 8s]
+*** TURN *** [4c 7h 8s] [9d]
+*** RIVER *** [4c 7h 8s 9d] [Qh]
+*** SHOWDOWN ***
+84b2a834 collected 15,528 from pot
+*** SUMMARY ***
+Total pot 15,528 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c 7h 8s 9d Qh]
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 3: 84b2a834 (small blind) showed [Qc Ac] and won (15,528) with a pair of Queens
+Seat 4: 799a79fe (big blind) showed [3c Ah] and lost with Ace high
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 686a8a00 folded before Flop
+
+
+Poker Hand #TM5322885939: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level12(300/600) - 2025/12/13 22:35:45
+Table '22' 6-max Seat #1 is the button
+Seat 1: 2f1b2e5b (18,781 in chips)
+Seat 2: Hero (12,822 in chips)
+Seat 3: 84b2a834 (15,566 in chips)
+Seat 4: 799a79fe (7,674 in chips)
+Seat 5: b1f53ee4 (12,910 in chips)
+Seat 6: 686a8a00 (28,402 in chips)
+799a79fe: posts the ante 90
+Hero: posts the ante 90
+84b2a834: posts the ante 90
+2f1b2e5b: posts the ante 90
+b1f53ee4: posts the ante 90
+686a8a00: posts the ante 90
+Hero: posts small blind 300
+84b2a834: posts big blind 600
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [2h 7s]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+799a79fe: folds
+b1f53ee4: folds
+686a8a00: folds
+2f1b2e5b: raises 600 to 1,200
+Hero: folds
+84b2a834: calls 600
+*** FLOP *** [4s Ad 7d]
+84b2a834: checks
+2f1b2e5b: bets 900
+84b2a834: folds
+Uncalled bet (900) returned to 2f1b2e5b
+*** SHOWDOWN ***
+2f1b2e5b collected 3,240 from pot
+*** SUMMARY ***
+Total pot 3,240 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4s Ad 7d]
+Seat 1: 2f1b2e5b (button) won (3,240)
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 84b2a834 (big blind) folded on the Flop
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 686a8a00 folded before Flop
+
+
+Poker Hand #TM5322885932: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level11(250/500) - 2025/12/13 22:35:01
+Table '22' 6-max Seat #6 is the button
+Seat 1: 2f1b2e5b (17,906 in chips)
+Seat 2: Hero (13,397 in chips)
+Seat 3: 84b2a834 (15,641 in chips)
+Seat 4: 799a79fe (7,749 in chips)
+Seat 5: b1f53ee4 (12,985 in chips)
+Seat 6: 686a8a00 (28,477 in chips)
+799a79fe: posts the ante 75
+Hero: posts the ante 75
+84b2a834: posts the ante 75
+b1f53ee4: posts the ante 75
+2f1b2e5b: posts the ante 75
+686a8a00: posts the ante 75
+2f1b2e5b: posts small blind 250
+Hero: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [6d 9c]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+84b2a834: folds
+799a79fe: folds
+b1f53ee4: folds
+686a8a00: folds
+2f1b2e5b: calls 250
+Hero: checks
+*** FLOP *** [2d Kc 2s]
+2f1b2e5b: checks
+Hero: checks
+*** TURN *** [2d Kc 2s] [Jh]
+2f1b2e5b: bets 750
+Hero: folds
+Uncalled bet (750) returned to 2f1b2e5b
+*** SHOWDOWN ***
+2f1b2e5b collected 1,450 from pot
+*** SUMMARY ***
+Total pot 1,450 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2d Kc 2s Jh]
+Seat 1: 2f1b2e5b (small blind) won (1,450)
+Seat 2: Hero (big blind) folded on the Turn
+Seat 3: 84b2a834 folded before Flop
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 686a8a00 (button) folded before Flop
+
+
+Poker Hand #TM5322885923: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level11(250/500) - 2025/12/13 22:34:14
+Table '22' 6-max Seat #5 is the button
+Seat 1: 2f1b2e5b (18,981 in chips)
+Seat 2: Hero (11,772 in chips)
+Seat 3: 84b2a834 (15,716 in chips)
+Seat 4: 799a79fe (7,824 in chips)
+Seat 5: b1f53ee4 (13,060 in chips)
+Seat 6: 686a8a00 (28,802 in chips)
+799a79fe: posts the ante 75
+Hero: posts the ante 75
+84b2a834: posts the ante 75
+b1f53ee4: posts the ante 75
+2f1b2e5b: posts the ante 75
+686a8a00: posts the ante 75
+686a8a00: posts small blind 250
+2f1b2e5b: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Td Ad]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+Hero: raises 500 to 1,000
+84b2a834: folds
+799a79fe: folds
+b1f53ee4: folds
+686a8a00: folds
+2f1b2e5b: calls 500
+*** FLOP *** [6h 7d 2h]
+2f1b2e5b: checks
+Hero: checks
+*** TURN *** [6h 7d 2h] [As]
+2f1b2e5b: checks
+Hero: bets 500
+2f1b2e5b: folds
+Uncalled bet (500) returned to Hero
+*** SHOWDOWN ***
+Hero collected 2,700 from pot
+*** SUMMARY ***
+Total pot 2,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 7d 2h As]
+Seat 1: 2f1b2e5b (big blind) folded on the Turn
+Seat 2: Hero won (2,700)
+Seat 3: 84b2a834 folded before Flop
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 (button) folded before Flop
+Seat 6: 686a8a00 (small blind) folded before Flop
+
+
+Poker Hand #TM5322885916: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level11(250/500) - 2025/12/13 22:33:38
+Table '22' 6-max Seat #4 is the button
+Seat 1: 2f1b2e5b (19,056 in chips)
+Seat 2: Hero (11,847 in chips)
+Seat 3: 84b2a834 (16,791 in chips)
+Seat 4: 799a79fe (7,899 in chips)
+Seat 5: b1f53ee4 (13,385 in chips)
+Seat 6: 686a8a00 (27,177 in chips)
+799a79fe: posts the ante 75
+Hero: posts the ante 75
+84b2a834: posts the ante 75
+2f1b2e5b: posts the ante 75
+b1f53ee4: posts the ante 75
+686a8a00: posts the ante 75
+b1f53ee4: posts small blind 250
+686a8a00: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Qc 6s]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+2f1b2e5b: folds
+Hero: folds
+84b2a834: raises 500 to 1,000
+799a79fe: folds
+b1f53ee4: folds
+686a8a00: raises 4,250 to 5,250
+84b2a834: folds
+Uncalled bet (4,250) returned to 686a8a00
+*** SHOWDOWN ***
+686a8a00 collected 2,700 from pot
+*** SUMMARY ***
+Total pot 2,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 84b2a834 folded before Flop
+Seat 4: 799a79fe (button) folded before Flop
+Seat 5: b1f53ee4 (small blind) folded before Flop
+Seat 6: 686a8a00 (big blind) collected (2,700)
+
+
+Poker Hand #TM5322885911: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level11(250/500) - 2025/12/13 22:33:10
+Table '22' 6-max Seat #3 is the button
+Seat 1: 2f1b2e5b (19,131 in chips)
+Seat 2: Hero (11,922 in chips)
+Seat 3: 84b2a834 (16,866 in chips)
+Seat 4: 799a79fe (8,224 in chips)
+Seat 5: b1f53ee4 (13,960 in chips)
+Seat 6: 686a8a00 (26,052 in chips)
+799a79fe: posts the ante 75
+Hero: posts the ante 75
+84b2a834: posts the ante 75
+2f1b2e5b: posts the ante 75
+b1f53ee4: posts the ante 75
+686a8a00: posts the ante 75
+799a79fe: posts small blind 250
+b1f53ee4: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [As 4c]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+686a8a00: raises 500 to 1,000
+2f1b2e5b: folds
+Hero: folds
+84b2a834: folds
+799a79fe: folds
+b1f53ee4: folds
+Uncalled bet (500) returned to 686a8a00
+*** SHOWDOWN ***
+686a8a00 collected 1,700 from pot
+*** SUMMARY ***
+Total pot 1,700 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 84b2a834 (button) folded before Flop
+Seat 4: 799a79fe (small blind) folded before Flop
+Seat 5: b1f53ee4 (big blind) folded before Flop
+Seat 6: 686a8a00 collected (1,700)
+
+
+Poker Hand #TM5322885903: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level11(250/500) - 2025/12/13 22:32:33
+Table '22' 6-max Seat #2 is the button
+Seat 1: 2f1b2e5b (19,206 in chips)
+Seat 2: Hero (11,997 in chips)
+Seat 3: 84b2a834 (17,191 in chips)
+Seat 4: 799a79fe (3,837 in chips)
+Seat 5: b1f53ee4 (17,797 in chips)
+Seat 6: 686a8a00 (26,127 in chips)
+799a79fe: posts the ante 75
+Hero: posts the ante 75
+84b2a834: posts the ante 75
+2f1b2e5b: posts the ante 75
+b1f53ee4: posts the ante 75
+686a8a00: posts the ante 75
+84b2a834: posts small blind 250
+799a79fe: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [7s 4c]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+b1f53ee4: raises 500 to 1,000
+686a8a00: folds
+2f1b2e5b: folds
+Hero: folds
+84b2a834: folds
+799a79fe: raises 2,762 to 3,762 and is all-in
+b1f53ee4: calls 2,762
+799a79fe: shows [Qs Kd]
+b1f53ee4: shows [4h Ah]
+*** FLOP *** [9h Kc 9d]
+*** TURN *** [9h Kc 9d] [4s]
+*** RIVER *** [9h Kc 9d 4s] [7d]
+*** SHOWDOWN ***
+799a79fe collected 8,224 from pot
+*** SUMMARY ***
+Total pot 8,224 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9h Kc 9d 4s 7d]
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 3: 84b2a834 (small blind) folded before Flop
+Seat 4: 799a79fe (big blind) showed [Qs Kd] and won (8,224) with two pair, Kings and Nines
+Seat 5: b1f53ee4 showed [4h Ah] and lost with two pair, Nines and Fours
+Seat 6: 686a8a00 folded before Flop
+
+
+Poker Hand #TM5322885897: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level11(250/500) - 2025/12/13 22:31:51
+Table '22' 6-max Seat #1 is the button
+Seat 1: 2f1b2e5b (19,281 in chips)
+Seat 2: Hero (12,322 in chips)
+Seat 3: 84b2a834 (14,509 in chips)
+Seat 4: 799a79fe (3,912 in chips)
+Seat 5: b1f53ee4 (17,872 in chips)
+Seat 6: 686a8a00 (28,259 in chips)
+799a79fe: posts the ante 75
+Hero: posts the ante 75
+84b2a834: posts the ante 75
+2f1b2e5b: posts the ante 75
+b1f53ee4: posts the ante 75
+686a8a00: posts the ante 75
+Hero: posts small blind 250
+84b2a834: posts big blind 500
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [6c 5h]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+799a79fe: folds
+b1f53ee4: folds
+686a8a00: raises 600 to 1,100
+2f1b2e5b: folds
+Hero: folds
+84b2a834: calls 600
+*** FLOP *** [2c Ks 7c]
+84b2a834: checks
+686a8a00: bets 957
+84b2a834: raises 1,589 to 2,546
+686a8a00: folds
+Uncalled bet (1,589) returned to 84b2a834
+*** SHOWDOWN ***
+84b2a834 collected 4,814 from pot
+*** SUMMARY ***
+Total pot 4,814 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2c Ks 7c]
+Seat 1: 2f1b2e5b (button) folded before Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 84b2a834 (big blind) won (4,814)
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 686a8a00 folded on the Flop
+
+
+Poker Hand #TM5322885888: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level10(225/450) - 2025/12/13 22:31:17
+Table '22' 6-max Seat #6 is the button
+Seat 1: 2f1b2e5b (18,506 in chips)
+Seat 2: Hero (12,837 in chips)
+Seat 3: 84b2a834 (14,574 in chips)
+Seat 4: 799a79fe (3,977 in chips)
+Seat 5: b1f53ee4 (17,937 in chips)
+Seat 6: 686a8a00 (28,324 in chips)
+799a79fe: posts the ante 65
+Hero: posts the ante 65
+84b2a834: posts the ante 65
+b1f53ee4: posts the ante 65
+2f1b2e5b: posts the ante 65
+686a8a00: posts the ante 65
+2f1b2e5b: posts small blind 225
+Hero: posts big blind 450
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [As 5c]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+84b2a834: folds
+799a79fe: folds
+b1f53ee4: folds
+686a8a00: folds
+2f1b2e5b: calls 225
+Hero: checks
+*** FLOP *** [9s 9h 4h]
+2f1b2e5b: checks
+Hero: checks
+*** TURN *** [9s 9h 4h] [8c]
+2f1b2e5b: bets 633
+Hero: folds
+Uncalled bet (633) returned to 2f1b2e5b
+*** SHOWDOWN ***
+2f1b2e5b collected 1,290 from pot
+*** SUMMARY ***
+Total pot 1,290 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9s 9h 4h 8c]
+Seat 1: 2f1b2e5b (small blind) won (1,290)
+Seat 2: Hero (big blind) folded on the Turn
+Seat 3: 84b2a834 folded before Flop
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 686a8a00 (button) folded before Flop
+
+
+Poker Hand #TM5322885881: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level10(225/450) - 2025/12/13 22:30:47
+Table '22' 6-max Seat #5 is the button
+Seat 1: 2f1b2e5b (19,021 in chips)
+Seat 2: Hero (12,902 in chips)
+Seat 3: 84b2a834 (14,639 in chips)
+Seat 4: 799a79fe (4,042 in chips)
+Seat 5: b1f53ee4 (18,002 in chips)
+Seat 6: 686a8a00 (27,549 in chips)
+799a79fe: posts the ante 65
+Hero: posts the ante 65
+84b2a834: posts the ante 65
+b1f53ee4: posts the ante 65
+2f1b2e5b: posts the ante 65
+686a8a00: posts the ante 65
+686a8a00: posts small blind 225
+2f1b2e5b: posts big blind 450
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [3h 7c]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+Hero: folds
+84b2a834: folds
+799a79fe: folds
+b1f53ee4: folds
+686a8a00: calls 225
+2f1b2e5b: checks
+*** FLOP *** [9d 8h Ks]
+686a8a00: bets 450
+2f1b2e5b: folds
+Uncalled bet (450) returned to 686a8a00
+*** SHOWDOWN ***
+686a8a00 collected 1,290 from pot
+*** SUMMARY ***
+Total pot 1,290 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9d 8h Ks]
+Seat 1: 2f1b2e5b (big blind) folded on the Flop
+Seat 2: Hero folded before Flop
+Seat 3: 84b2a834 folded before Flop
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 (button) folded before Flop
+Seat 6: 686a8a00 (small blind) won (1,290)
+
+
+Poker Hand #TM5322885876: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level10(225/450) - 2025/12/13 22:30:28
+Table '22' 6-max Seat #4 is the button
+Seat 1: 2f1b2e5b (18,021 in chips)
+Seat 2: Hero (12,967 in chips)
+Seat 3: 84b2a834 (14,704 in chips)
+Seat 4: 799a79fe (4,107 in chips)
+Seat 5: b1f53ee4 (18,292 in chips)
+Seat 6: 686a8a00 (28,064 in chips)
+799a79fe: posts the ante 65
+Hero: posts the ante 65
+84b2a834: posts the ante 65
+2f1b2e5b: posts the ante 65
+b1f53ee4: posts the ante 65
+686a8a00: posts the ante 65
+b1f53ee4: posts small blind 225
+686a8a00: posts big blind 450
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [4s Jc]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+2f1b2e5b: raises 450 to 900
+Hero: folds
+84b2a834: folds
+799a79fe: folds
+b1f53ee4: folds
+686a8a00: folds
+Uncalled bet (450) returned to 2f1b2e5b
+*** SHOWDOWN ***
+2f1b2e5b collected 1,515 from pot
+*** SUMMARY ***
+Total pot 1,515 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b collected (1,515)
+Seat 2: Hero folded before Flop
+Seat 3: 84b2a834 folded before Flop
+Seat 4: 799a79fe (button) folded before Flop
+Seat 5: b1f53ee4 (small blind) folded before Flop
+Seat 6: 686a8a00 (big blind) folded before Flop
+
+
+Poker Hand #TM5322885870: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level10(225/450) - 2025/12/13 22:29:58
+Table '22' 6-max Seat #3 is the button
+Seat 1: 2f1b2e5b (18,086 in chips)
+Seat 2: Hero (13,032 in chips)
+Seat 3: 84b2a834 (14,769 in chips)
+Seat 4: 799a79fe (4,397 in chips)
+Seat 5: b1f53ee4 (18,807 in chips)
+Seat 6: 686a8a00 (27,064 in chips)
+799a79fe: posts the ante 65
+Hero: posts the ante 65
+84b2a834: posts the ante 65
+2f1b2e5b: posts the ante 65
+b1f53ee4: posts the ante 65
+686a8a00: posts the ante 65
+799a79fe: posts small blind 225
+b1f53ee4: posts big blind 450
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Ah 6h]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+686a8a00: raises 450 to 900
+2f1b2e5b: folds
+Hero: folds
+84b2a834: folds
+799a79fe: folds
+b1f53ee4: folds
+Uncalled bet (450) returned to 686a8a00
+*** SHOWDOWN ***
+686a8a00 collected 1,515 from pot
+*** SUMMARY ***
+Total pot 1,515 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 84b2a834 (button) folded before Flop
+Seat 4: 799a79fe (small blind) folded before Flop
+Seat 5: b1f53ee4 (big blind) folded before Flop
+Seat 6: 686a8a00 collected (1,515)
+
+
+Poker Hand #TM5322885865: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level10(225/450) - 2025/12/13 22:29:37
+Table '22' 6-max Seat #2 is the button
+Seat 1: 2f1b2e5b (18,151 in chips)
+Seat 2: Hero (13,097 in chips)
+Seat 3: 84b2a834 (15,059 in chips)
+Seat 4: 799a79fe (4,912 in chips)
+Seat 5: b1f53ee4 (18,872 in chips)
+Seat 6: 686a8a00 (26,064 in chips)
+799a79fe: posts the ante 65
+Hero: posts the ante 65
+84b2a834: posts the ante 65
+2f1b2e5b: posts the ante 65
+b1f53ee4: posts the ante 65
+686a8a00: posts the ante 65
+84b2a834: posts small blind 225
+799a79fe: posts big blind 450
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [8h 3d]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+b1f53ee4: folds
+686a8a00: raises 450 to 900
+2f1b2e5b: folds
+Hero: folds
+84b2a834: folds
+799a79fe: folds
+Uncalled bet (450) returned to 686a8a00
+*** SHOWDOWN ***
+686a8a00 collected 1,515 from pot
+*** SUMMARY ***
+Total pot 1,515 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 3: 84b2a834 (small blind) folded before Flop
+Seat 4: 799a79fe (big blind) folded before Flop
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 686a8a00 collected (1,515)
+
+
+Poker Hand #TM5322885861: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level10(225/450) - 2025/12/13 22:29:10
+Table '22' 6-max Seat #1 is the button
+Seat 1: 2f1b2e5b (18,216 in chips)
+Seat 2: Hero (12,322 in chips)
+Seat 3: 84b2a834 (15,574 in chips)
+Seat 4: 799a79fe (4,977 in chips)
+Seat 5: b1f53ee4 (18,937 in chips)
+Seat 6: 686a8a00 (26,129 in chips)
+799a79fe: posts the ante 65
+Hero: posts the ante 65
+84b2a834: posts the ante 65
+2f1b2e5b: posts the ante 65
+b1f53ee4: posts the ante 65
+686a8a00: posts the ante 65
+Hero: posts small blind 225
+84b2a834: posts big blind 450
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Qd Kc]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+799a79fe: folds
+b1f53ee4: folds
+686a8a00: folds
+2f1b2e5b: folds
+Hero: raises 11,807 to 12,257 and is all-in
+84b2a834: folds
+Uncalled bet (11,807) returned to Hero
+*** SHOWDOWN ***
+Hero collected 1,290 from pot
+*** SUMMARY ***
+Total pot 1,290 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b (button) folded before Flop
+Seat 2: Hero (small blind) collected (1,290)
+Seat 3: 84b2a834 (big blind) folded before Flop
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 686a8a00 folded before Flop
+
+
+Poker Hand #TM5322885851: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level10(225/450) - 2025/12/13 22:28:35
+Table '22' 6-max Seat #6 is the button
+Seat 1: 2f1b2e5b (18,506 in chips)
+Seat 2: Hero (10,872 in chips)
+Seat 3: 84b2a834 (16,539 in chips)
+Seat 4: 799a79fe (5,042 in chips)
+Seat 5: b1f53ee4 (19,002 in chips)
+Seat 6: 686a8a00 (26,194 in chips)
+799a79fe: posts the ante 65
+Hero: posts the ante 65
+84b2a834: posts the ante 65
+b1f53ee4: posts the ante 65
+2f1b2e5b: posts the ante 65
+686a8a00: posts the ante 65
+2f1b2e5b: posts small blind 225
+Hero: posts big blind 450
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Qh Qc]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+84b2a834: raises 450 to 900
+799a79fe: folds
+b1f53ee4: folds
+686a8a00: folds
+2f1b2e5b: folds
+Hero: raises 3,600 to 4,500
+84b2a834: folds
+Uncalled bet (3,600) returned to Hero
+*** SHOWDOWN ***
+Hero collected 2,415 from pot
+*** SUMMARY ***
+Total pot 2,415 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b (small blind) folded before Flop
+Seat 2: Hero (big blind) collected (2,415)
+Seat 3: 84b2a834 folded before Flop
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 686a8a00 (button) folded before Flop
+
+
+Poker Hand #TM5322885846: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level10(225/450) - 2025/12/13 22:28:05
+Table '22' 6-max Seat #5 is the button
+Seat 1: 2f1b2e5b (19,021 in chips)
+Seat 2: Hero (10,937 in chips)
+Seat 3: 84b2a834 (17,504 in chips)
+Seat 4: 799a79fe (5,107 in chips)
+Seat 5: b1f53ee4 (17,102 in chips)
+Seat 6: 686a8a00 (26,484 in chips)
+799a79fe: posts the ante 65
+Hero: posts the ante 65
+84b2a834: posts the ante 65
+b1f53ee4: posts the ante 65
+2f1b2e5b: posts the ante 65
+686a8a00: posts the ante 65
+686a8a00: posts small blind 225
+2f1b2e5b: posts big blind 450
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [2c 9s]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+Hero: folds
+84b2a834: raises 450 to 900
+799a79fe: folds
+b1f53ee4: raises 1,800 to 2,700
+686a8a00: folds
+2f1b2e5b: folds
+84b2a834: folds
+Uncalled bet (1,800) returned to b1f53ee4
+*** SHOWDOWN ***
+b1f53ee4 collected 2,865 from pot
+*** SUMMARY ***
+Total pot 2,865 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b (big blind) folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 84b2a834 folded before Flop
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 (button) collected (2,865)
+Seat 6: 686a8a00 (small blind) folded before Flop
+
+
+Poker Hand #TM5322885833: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level9(200/400) - 2025/12/13 22:27:05
+Table '22' 6-max Seat #4 is the button
+Seat 1: 2f1b2e5b (19,081 in chips)
+Seat 2: Hero (10,997 in chips)
+Seat 3: 84b2a834 (13,098 in chips)
+Seat 4: 799a79fe (5,167 in chips)
+Seat 5: b1f53ee4 (17,362 in chips)
+Seat 6: 686a8a00 (30,450 in chips)
+799a79fe: posts the ante 60
+Hero: posts the ante 60
+84b2a834: posts the ante 60
+2f1b2e5b: posts the ante 60
+b1f53ee4: posts the ante 60
+686a8a00: posts the ante 60
+b1f53ee4: posts small blind 200
+686a8a00: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Ac 3h]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+2f1b2e5b: folds
+Hero: folds
+84b2a834: raises 400 to 800
+799a79fe: folds
+b1f53ee4: folds
+686a8a00: calls 400
+*** FLOP *** [4c 8d 4d]
+686a8a00: checks
+84b2a834: bets 713
+686a8a00: calls 713
+*** TURN *** [4c 8d 4d] [Qh]
+686a8a00: checks
+84b2a834: bets 2,393
+686a8a00: calls 2,393
+*** RIVER *** [4c 8d 4d Qh] [Jc]
+686a8a00: checks
+84b2a834: checks
+686a8a00: shows [9h 8h] (two pair, Eights and Fours)
+84b2a834: shows [Th Tc] (two pair, Tens and Fours)
+*** SHOWDOWN ***
+84b2a834 collected 8,372 from pot
+*** SUMMARY ***
+Total pot 8,372 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c 8d 4d Qh Jc]
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 84b2a834 showed [Th Tc] and won (8,372) with two pair, Tens and Fours
+Seat 4: 799a79fe (button) folded before Flop
+Seat 5: b1f53ee4 (small blind) folded before Flop
+Seat 6: 686a8a00 (big blind) showed [9h 8h] and lost with two pair, Eights and Fours
+
+
+Poker Hand #TM5322885826: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level9(200/400) - 2025/12/13 22:26:37
+Table '22' 6-max Seat #3 is the button
+Seat 1: 2f1b2e5b (19,141 in chips)
+Seat 2: Hero (11,057 in chips)
+Seat 3: 84b2a834 (13,958 in chips)
+Seat 4: 799a79fe (3,667 in chips)
+Seat 5: b1f53ee4 (17,822 in chips)
+Seat 6: 686a8a00 (30,510 in chips)
+799a79fe: posts the ante 60
+Hero: posts the ante 60
+84b2a834: posts the ante 60
+2f1b2e5b: posts the ante 60
+b1f53ee4: posts the ante 60
+686a8a00: posts the ante 60
+799a79fe: posts small blind 200
+b1f53ee4: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Ah 2d]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+686a8a00: folds
+2f1b2e5b: folds
+Hero: folds
+84b2a834: raises 400 to 800
+799a79fe: raises 2,807 to 3,607 and is all-in
+b1f53ee4: folds
+84b2a834: folds
+Uncalled bet (2,807) returned to 799a79fe
+*** SHOWDOWN ***
+799a79fe collected 2,360 from pot
+*** SUMMARY ***
+Total pot 2,360 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 84b2a834 (button) folded before Flop
+Seat 4: 799a79fe (small blind) collected (2,360)
+Seat 5: b1f53ee4 (big blind) folded before Flop
+Seat 6: 686a8a00 folded before Flop
+
+
+Poker Hand #TM5322885821: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level9(200/400) - 2025/12/13 22:26:18
+Table '22' 6-max Seat #2 is the button
+Seat 1: 2f1b2e5b (19,201 in chips)
+Seat 2: Hero (11,117 in chips)
+Seat 3: 84b2a834 (13,258 in chips)
+Seat 4: 799a79fe (4,127 in chips)
+Seat 5: b1f53ee4 (17,882 in chips)
+Seat 6: 686a8a00 (30,570 in chips)
+799a79fe: posts the ante 60
+Hero: posts the ante 60
+84b2a834: posts the ante 60
+2f1b2e5b: posts the ante 60
+b1f53ee4: posts the ante 60
+686a8a00: posts the ante 60
+84b2a834: posts small blind 200
+799a79fe: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [6s 5h]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+b1f53ee4: folds
+686a8a00: folds
+2f1b2e5b: folds
+Hero: folds
+84b2a834: raises 12,798 to 13,198 and is all-in
+799a79fe: folds
+Uncalled bet (12,798) returned to 84b2a834
+*** SHOWDOWN ***
+84b2a834 collected 1,160 from pot
+*** SUMMARY ***
+Total pot 1,160 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 3: 84b2a834 (small blind) collected (1,160)
+Seat 4: 799a79fe (big blind) folded before Flop
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 686a8a00 folded before Flop
+
+
+Poker Hand #TM5322885814: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level9(200/400) - 2025/12/13 22:25:37
+Table '22' 6-max Seat #1 is the button
+Seat 1: 2f1b2e5b (19,261 in chips)
+Seat 2: Hero (11,377 in chips)
+Seat 3: 84b2a834 (11,958 in chips)
+Seat 4: 799a79fe (4,187 in chips)
+Seat 5: b1f53ee4 (18,742 in chips)
+Seat 6: 686a8a00 (30,630 in chips)
+799a79fe: posts the ante 60
+Hero: posts the ante 60
+84b2a834: posts the ante 60
+2f1b2e5b: posts the ante 60
+b1f53ee4: posts the ante 60
+686a8a00: posts the ante 60
+Hero: posts small blind 200
+84b2a834: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [3h 8c]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+799a79fe: folds
+b1f53ee4: raises 400 to 800
+686a8a00: folds
+2f1b2e5b: folds
+Hero: folds
+84b2a834: calls 400
+*** FLOP *** [2s 6h 4d]
+84b2a834: checks
+b1f53ee4: checks
+*** TURN *** [2s 6h 4d] [4s]
+84b2a834: bets 1,620
+b1f53ee4: folds
+Uncalled bet (1,620) returned to 84b2a834
+*** SHOWDOWN ***
+84b2a834 collected 2,160 from pot
+*** SUMMARY ***
+Total pot 2,160 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2s 6h 4d 4s]
+Seat 1: 2f1b2e5b (button) folded before Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 84b2a834 (big blind) won (2,160)
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 folded on the Turn
+Seat 6: 686a8a00 folded before Flop
+
+
+Poker Hand #TM5322885807: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level9(200/400) - 2025/12/13 22:25:06
+Table '22' 6-max Seat #6 is the button
+Seat 1: 2f1b2e5b (19,521 in chips)
+Seat 2: Hero (11,837 in chips)
+Seat 3: 84b2a834 (12,018 in chips)
+Seat 4: 799a79fe (4,247 in chips)
+Seat 5: b1f53ee4 (17,842 in chips)
+Seat 6: 686a8a00 (30,690 in chips)
+799a79fe: posts the ante 60
+Hero: posts the ante 60
+84b2a834: posts the ante 60
+b1f53ee4: posts the ante 60
+2f1b2e5b: posts the ante 60
+686a8a00: posts the ante 60
+2f1b2e5b: posts small blind 200
+Hero: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [7d 3c]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+84b2a834: folds
+799a79fe: folds
+b1f53ee4: raises 400 to 800
+686a8a00: folds
+2f1b2e5b: folds
+Hero: folds
+Uncalled bet (400) returned to b1f53ee4
+*** SHOWDOWN ***
+b1f53ee4 collected 1,360 from pot
+*** SUMMARY ***
+Total pot 1,360 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b (small blind) folded before Flop
+Seat 2: Hero (big blind) folded before Flop
+Seat 3: 84b2a834 folded before Flop
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 collected (1,360)
+Seat 6: 686a8a00 (button) folded before Flop
+
+
+Poker Hand #TM5322885803: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level9(200/400) - 2025/12/13 22:24:50
+Table '22' 6-max Seat #5 is the button
+Seat 1: 2f1b2e5b (19,021 in chips)
+Seat 2: Hero (11,897 in chips)
+Seat 3: 84b2a834 (12,078 in chips)
+Seat 4: 799a79fe (4,307 in chips)
+Seat 5: b1f53ee4 (17,902 in chips)
+Seat 6: 686a8a00 (30,950 in chips)
+799a79fe: posts the ante 60
+Hero: posts the ante 60
+84b2a834: posts the ante 60
+b1f53ee4: posts the ante 60
+2f1b2e5b: posts the ante 60
+686a8a00: posts the ante 60
+686a8a00: posts small blind 200
+2f1b2e5b: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [8d Ks]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+Hero: folds
+84b2a834: folds
+799a79fe: folds
+b1f53ee4: folds
+686a8a00: folds
+Uncalled bet (200) returned to 2f1b2e5b
+*** SHOWDOWN ***
+2f1b2e5b collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b (big blind) collected (760)
+Seat 2: Hero folded before Flop
+Seat 3: 84b2a834 folded before Flop
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 (button) folded before Flop
+Seat 6: 686a8a00 (small blind) folded before Flop
+
+
+Poker Hand #TM5322885789: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level9(200/400) - 2025/12/13 22:23:50
+Table '22' 6-max Seat #4 is the button
+Seat 1: 2f1b2e5b (19,081 in chips)
+Seat 2: Hero (11,957 in chips)
+Seat 3: 84b2a834 (9,698 in chips)
+Seat 4: 799a79fe (4,367 in chips)
+Seat 5: b1f53ee4 (18,162 in chips)
+Seat 6: 686a8a00 (32,890 in chips)
+799a79fe: posts the ante 60
+Hero: posts the ante 60
+84b2a834: posts the ante 60
+2f1b2e5b: posts the ante 60
+b1f53ee4: posts the ante 60
+686a8a00: posts the ante 60
+b1f53ee4: posts small blind 200
+686a8a00: posts big blind 400
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [6h Tc]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 686a8a00 
+2f1b2e5b: folds
+Hero: folds
+84b2a834: raises 400 to 800
+799a79fe: folds
+b1f53ee4: folds
+686a8a00: calls 400
+*** FLOP *** [9c 5s Jd]
+686a8a00: checks
+84b2a834: bets 1,080
+686a8a00: calls 1,080
+*** TURN *** [9c 5s Jd] [Td]
+686a8a00: checks
+84b2a834: bets 3,040
+686a8a00: folds
+Uncalled bet (3,040) returned to 84b2a834
+*** SHOWDOWN ***
+84b2a834 collected 4,320 from pot
+*** SUMMARY ***
+Total pot 4,320 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9c 5s Jd Td]
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 84b2a834 won (4,320)
+Seat 4: 799a79fe (button) folded before Flop
+Seat 5: b1f53ee4 (small blind) folded before Flop
+Seat 6: 686a8a00 (big blind) folded on the Turn
+
+
+Poker Hand #TM5322885772: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level8(175/350) - 2025/12/13 22:22:50
+Table '22' 6-max Seat #3 is the button
+Seat 1: 2f1b2e5b (19,131 in chips)
+Seat 2: Hero (13,372 in chips)
+Seat 3: 84b2a834 (9,748 in chips)
+Seat 4: 799a79fe (4,592 in chips)
+Seat 5: b1f53ee4 (16,422 in chips)
+799a79fe: posts the ante 50
+Hero: posts the ante 50
+84b2a834: posts the ante 50
+2f1b2e5b: posts the ante 50
+b1f53ee4: posts the ante 50
+799a79fe: posts small blind 175
+b1f53ee4: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Jd Qc]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+2f1b2e5b: folds
+Hero: raises 350 to 700
+84b2a834: folds
+799a79fe: folds
+b1f53ee4: calls 350
+*** FLOP *** [5d 7s 2h]
+b1f53ee4: checks
+Hero: bets 665
+b1f53ee4: raises 1,042 to 1,707
+Hero: folds
+Uncalled bet (1,042) returned to b1f53ee4
+*** SHOWDOWN ***
+b1f53ee4 collected 3,155 from pot
+*** SUMMARY ***
+Total pot 3,155 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5d 7s 2h]
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero folded on the Flop
+Seat 3: 84b2a834 (button) folded before Flop
+Seat 4: 799a79fe (small blind) folded before Flop
+Seat 5: b1f53ee4 (big blind) won (3,155)
+
+
+Poker Hand #TM5322885758: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level8(175/350) - 2025/12/13 22:22:05
+Table '22' 6-max Seat #2 is the button
+Seat 1: 2f1b2e5b (19,181 in chips)
+Seat 2: Hero (13,422 in chips)
+Seat 3: 84b2a834 (9,973 in chips)
+Seat 4: 799a79fe (4,010 in chips)
+Seat 5: b1f53ee4 (16,472 in chips)
+Seat 6: 1d81f996 (207 in chips)
+1d81f996: posts the ante 50
+799a79fe: posts the ante 50
+Hero: posts the ante 50
+84b2a834: posts the ante 50
+2f1b2e5b: posts the ante 50
+b1f53ee4: posts the ante 50
+84b2a834: posts small blind 175
+799a79fe: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [3d Kh]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+b1f53ee4: folds
+1d81f996: calls 157 and is all-in
+2f1b2e5b: folds
+Hero: folds
+84b2a834: folds
+Uncalled bet (175) returned to 799a79fe
+799a79fe: shows [5c 4h]
+1d81f996: shows [Kd 9s]
+*** FLOP *** [Qh 3h Ac]
+*** TURN *** [Qh 3h Ac] [2s]
+*** RIVER *** [Qh 3h Ac 2s] [Qs]
+*** SHOWDOWN ***
+799a79fe collected 771 from pot
+799a79fe collected 36 from pot
+*** SUMMARY ***
+Total pot 807 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qh 3h Ac 2s Qs]
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 3: 84b2a834 (small blind) folded before Flop
+Seat 4: 799a79fe (big blind) showed [5c 4h] and won (807) with a straight, Ace to Five
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 1d81f996 showed [Kd 9s] and lost with a pair of Queens
+
+
+Poker Hand #TM5322885741: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level8(175/350) - 2025/12/13 22:21:13
+Table '22' 6-max Seat #1 is the button
+Seat 1: 2f1b2e5b (8,878 in chips)
+Seat 2: Hero (13,647 in chips)
+Seat 3: 84b2a834 (10,373 in chips)
+Seat 4: 799a79fe (4,760 in chips)
+Seat 5: b1f53ee4 (16,522 in chips)
+Seat 6: 1d81f996 (9,085 in chips)
+1d81f996: posts the ante 50
+799a79fe: posts the ante 50
+Hero: posts the ante 50
+84b2a834: posts the ante 50
+2f1b2e5b: posts the ante 50
+b1f53ee4: posts the ante 50
+Hero: posts small blind 175
+84b2a834: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [3h Td]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+799a79fe: raises 350 to 700
+b1f53ee4: folds
+1d81f996: raises 735 to 1,435
+2f1b2e5b: raises 7,393 to 8,828 and is all-in
+Hero: folds
+84b2a834: folds
+799a79fe: folds
+1d81f996: calls 7,393
+2f1b2e5b: shows [9c 9d]
+1d81f996: shows [As Kd]
+*** FLOP *** [8s 4h 2h]
+*** TURN *** [8s 4h 2h] [Th]
+*** RIVER *** [8s 4h 2h Th] [8c]
+*** SHOWDOWN ***
+2f1b2e5b collected 19,181 from pot
+*** SUMMARY ***
+Total pot 19,181 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s 4h 2h Th 8c]
+Seat 1: 2f1b2e5b (button) showed [9c 9d] and won (19,181) with two pair, Nines and Eights
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 84b2a834 (big blind) folded before Flop
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 1d81f996 showed [As Kd] and lost with a pair of Eights
+
+
+Poker Hand #TM5322885732: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level8(175/350) - 2025/12/13 22:20:35
+Table '22' 6-max Seat #6 is the button
+Seat 1: 2f1b2e5b (9,103 in chips)
+Seat 2: Hero (14,047 in chips)
+Seat 3: 84b2a834 (9,598 in chips)
+Seat 4: 799a79fe (4,810 in chips)
+Seat 5: b1f53ee4 (16,572 in chips)
+Seat 6: 1d81f996 (9,135 in chips)
+1d81f996: posts the ante 50
+799a79fe: posts the ante 50
+Hero: posts the ante 50
+84b2a834: posts the ante 50
+b1f53ee4: posts the ante 50
+2f1b2e5b: posts the ante 50
+2f1b2e5b: posts small blind 175
+Hero: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [4s Ts]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+84b2a834: raises 350 to 700
+799a79fe: folds
+b1f53ee4: folds
+1d81f996: folds
+2f1b2e5b: folds
+Hero: folds
+Uncalled bet (350) returned to 84b2a834
+*** SHOWDOWN ***
+84b2a834 collected 1,175 from pot
+*** SUMMARY ***
+Total pot 1,175 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b (small blind) folded before Flop
+Seat 2: Hero (big blind) folded before Flop
+Seat 3: 84b2a834 collected (1,175)
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 1d81f996 (button) folded before Flop
+
+
+Poker Hand #TM5322885721: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level8(175/350) - 2025/12/13 22:19:41
+Table '22' 6-max Seat #5 is the button
+Seat 1: 2f1b2e5b (9,503 in chips)
+Seat 2: Hero (10,178 in chips)
+Seat 3: 84b2a834 (9,648 in chips)
+Seat 4: 799a79fe (4,860 in chips)
+Seat 5: b1f53ee4 (19,716 in chips)
+Seat 6: 1d81f996 (9,360 in chips)
+799a79fe: posts the ante 50
+1d81f996: posts the ante 50
+Hero: posts the ante 50
+84b2a834: posts the ante 50
+b1f53ee4: posts the ante 50
+2f1b2e5b: posts the ante 50
+1d81f996: posts small blind 175
+2f1b2e5b: posts big blind 350
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Td Ts]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+Hero: raises 350 to 700
+84b2a834: folds
+799a79fe: folds
+b1f53ee4: raises 1,225 to 1,925
+1d81f996: folds
+2f1b2e5b: folds
+Hero: calls 1,225
+*** FLOP *** [5d 4c 3c]
+Hero: checks
+b1f53ee4: bets 1,169
+Hero: raises 7,034 to 8,203 and is all-in
+b1f53ee4: folds
+Uncalled bet (7,034) returned to Hero
+*** SHOWDOWN ***
+Hero collected 7,013 from pot
+*** SUMMARY ***
+Total pot 7,013 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5d 4c 3c]
+Seat 1: 2f1b2e5b (big blind) folded before Flop
+Seat 2: Hero won (7,013)
+Seat 3: 84b2a834 folded before Flop
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 (button) folded on the Flop
+Seat 6: 1d81f996 (small blind) folded before Flop
+
+
+Poker Hand #TM5322885708: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level7(150/300) - 2025/12/13 22:18:52
+Table '22' 6-max Seat #4 is the button
+Seat 1: 2f1b2e5b (9,548 in chips)
+Seat 2: Hero (9,203 in chips)
+Seat 3: 84b2a834 (9,693 in chips)
+Seat 4: 799a79fe (4,905 in chips)
+Seat 5: b1f53ee4 (19,911 in chips)
+Seat 6: 1d81f996 (10,005 in chips)
+799a79fe: posts the ante 45
+1d81f996: posts the ante 45
+Hero: posts the ante 45
+84b2a834: posts the ante 45
+2f1b2e5b: posts the ante 45
+b1f53ee4: posts the ante 45
+b1f53ee4: posts small blind 150
+1d81f996: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Kd Kc]
+Dealt to 84b2a834 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+2f1b2e5b: folds
+Hero: raises 300 to 600
+84b2a834: folds
+799a79fe: folds
+b1f53ee4: folds
+1d81f996: calls 300
+*** FLOP *** [Ah 8d Ks]
+1d81f996: checks
+Hero: bets 570
+1d81f996: folds
+Uncalled bet (570) returned to Hero
+*** SHOWDOWN ***
+Hero collected 1,620 from pot
+*** SUMMARY ***
+Total pot 1,620 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ah 8d Ks]
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero won (1,620)
+Seat 3: 84b2a834 folded before Flop
+Seat 4: 799a79fe (button) folded before Flop
+Seat 5: b1f53ee4 (small blind) folded before Flop
+Seat 6: 1d81f996 (big blind) folded on the Flop
+
+
+Poker Hand #TM5322885696: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level7(150/300) - 2025/12/13 22:17:54
+Table '22' 6-max Seat #2 is the button
+Seat 1: 2f1b2e5b (9,593 in chips)
+Seat 2: Hero (10,786 in chips)
+Seat 4: 799a79fe (5,100 in chips)
+Seat 5: b1f53ee4 (20,256 in chips)
+Seat 6: 1d81f996 (7,837 in chips)
+1d81f996: posts the ante 45
+799a79fe: posts the ante 45
+Hero: posts the ante 45
+2f1b2e5b: posts the ante 45
+b1f53ee4: posts the ante 45
+799a79fe: posts small blind 150
+b1f53ee4: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Th 9h]
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+1d81f996: raises 300 to 600
+2f1b2e5b: folds
+Hero: calls 600
+799a79fe: folds
+b1f53ee4: folds
+*** FLOP *** [8s Jc 5s]
+1d81f996: bets 938
+Hero: calls 938
+*** TURN *** [8s Jc 5s] [Td]
+1d81f996: bets 2,814
+Hero: folds
+Uncalled bet (2,814) returned to 1d81f996
+*** SHOWDOWN ***
+1d81f996 collected 3,751 from pot
+*** SUMMARY ***
+Total pot 3,751 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8s Jc 5s Td]
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero (button) folded on the Turn
+Seat 4: 799a79fe (small blind) folded before Flop
+Seat 5: b1f53ee4 (big blind) folded before Flop
+Seat 6: 1d81f996 won (3,751)
+
+
+Poker Hand #TM5322885675: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level7(150/300) - 2025/12/13 22:16:33
+Table '22' 6-max Seat #1 is the button
+Seat 1: 2f1b2e5b (12,017 in chips)
+Seat 2: Hero (7,627 in chips)
+Seat 4: 799a79fe (5,745 in chips)
+Seat 5: b1f53ee4 (20,301 in chips)
+Seat 6: 1d81f996 (7,882 in chips)
+1d81f996: posts the ante 45
+799a79fe: posts the ante 45
+Hero: posts the ante 45
+2f1b2e5b: posts the ante 45
+b1f53ee4: posts the ante 45
+Hero: posts small blind 150
+799a79fe: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [8c 8s]
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+b1f53ee4: folds
+1d81f996: folds
+2f1b2e5b: raises 300 to 600
+Hero: calls 450
+799a79fe: calls 300
+*** FLOP *** [5c 9d Ad]
+Hero: checks
+799a79fe: checks
+2f1b2e5b: bets 669
+Hero: calls 669
+799a79fe: folds
+*** TURN *** [5c 9d Ad] [3h]
+Hero: checks
+2f1b2e5b: bets 1,110
+Hero: calls 1,110
+*** RIVER *** [5c 9d Ad 3h] [2c]
+Hero: checks
+2f1b2e5b: checks
+Hero: shows [8c 8s] (a pair of Eights)
+2f1b2e5b: shows [7h 7d] (a pair of Sevens)
+*** SHOWDOWN ***
+Hero collected 5,583 from pot
+*** SUMMARY ***
+Total pot 5,583 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5c 9d Ad 3h 2c]
+Seat 1: 2f1b2e5b (button) showed [7h 7d] and lost with a pair of Sevens
+Seat 2: Hero (small blind) showed [8c 8s] and won (5,583) with a pair of Eights
+Seat 4: 799a79fe (big blind) folded on the Flop
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 1d81f996 folded before Flop
+
+
+Poker Hand #TM5322885670: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level7(150/300) - 2025/12/13 22:15:54
+Table '22' 6-max Seat #6 is the button
+Seat 1: 2f1b2e5b (12,362 in chips)
+Seat 2: Hero (7,102 in chips)
+Seat 3: 8ef5f73 (10,768 in chips)
+Seat 4: 799a79fe (5,790 in chips)
+Seat 5: b1f53ee4 (20,346 in chips)
+Seat 6: 1d81f996 (7,927 in chips)
+8ef5f73: posts the ante 45
+1d81f996: posts the ante 45
+799a79fe: posts the ante 45
+Hero: posts the ante 45
+b1f53ee4: posts the ante 45
+2f1b2e5b: posts the ante 45
+2f1b2e5b: posts small blind 150
+Hero: posts big blind 300
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Ah As]
+Dealt to 8ef5f73 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+8ef5f73: folds
+799a79fe: folds
+b1f53ee4: folds
+1d81f996: folds
+2f1b2e5b: calls 150
+Hero: raises 600 to 900
+2f1b2e5b: folds
+Uncalled bet (600) returned to Hero
+*** SHOWDOWN ***
+Hero collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b (small blind) folded before Flop
+Seat 2: Hero (big blind) collected (870)
+Seat 3: 8ef5f73 folded before Flop
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 1d81f996 (button) folded before Flop
+
+
+Poker Hand #TM5322885664: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level6(125/250) - 2025/12/13 22:15:25
+Table '22' 6-max Seat #5 is the button
+Seat 1: 2f1b2e5b (12,647 in chips)
+Seat 2: Hero (6,552 in chips)
+Seat 3: 8ef5f73 (10,803 in chips)
+Seat 4: 799a79fe (5,825 in chips)
+Seat 5: b1f53ee4 (20,381 in chips)
+Seat 6: 1d81f996 (8,087 in chips)
+8ef5f73: posts the ante 35
+799a79fe: posts the ante 35
+1d81f996: posts the ante 35
+Hero: posts the ante 35
+b1f53ee4: posts the ante 35
+2f1b2e5b: posts the ante 35
+1d81f996: posts small blind 125
+2f1b2e5b: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Ad Tc]
+Dealt to 8ef5f73 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+Hero: raises 250 to 500
+8ef5f73: folds
+799a79fe: folds
+b1f53ee4: folds
+1d81f996: folds
+2f1b2e5b: folds
+Uncalled bet (250) returned to Hero
+*** SHOWDOWN ***
+Hero collected 835 from pot
+*** SUMMARY ***
+Total pot 835 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b (big blind) folded before Flop
+Seat 2: Hero collected (835)
+Seat 3: 8ef5f73 folded before Flop
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 (button) folded before Flop
+Seat 6: 1d81f996 (small blind) folded before Flop
+
+
+Poker Hand #TM5322885656: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level6(125/250) - 2025/12/13 22:14:53
+Table '22' 6-max Seat #4 is the button
+Seat 1: 2f1b2e5b (12,682 in chips)
+Seat 2: Hero (6,587 in chips)
+Seat 3: 8ef5f73 (10,838 in chips)
+Seat 4: 799a79fe (5,275 in chips)
+Seat 5: b1f53ee4 (20,541 in chips)
+Seat 6: 1d81f996 (8,372 in chips)
+8ef5f73: posts the ante 35
+799a79fe: posts the ante 35
+1d81f996: posts the ante 35
+Hero: posts the ante 35
+2f1b2e5b: posts the ante 35
+b1f53ee4: posts the ante 35
+b1f53ee4: posts small blind 125
+1d81f996: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [9c 5h]
+Dealt to 8ef5f73 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+2f1b2e5b: folds
+Hero: folds
+8ef5f73: folds
+799a79fe: raises 250 to 500
+b1f53ee4: folds
+1d81f996: folds
+Uncalled bet (250) returned to 799a79fe
+*** SHOWDOWN ***
+799a79fe collected 835 from pot
+*** SUMMARY ***
+Total pot 835 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 8ef5f73 folded before Flop
+Seat 4: 799a79fe (button) collected (835)
+Seat 5: b1f53ee4 (small blind) folded before Flop
+Seat 6: 1d81f996 (big blind) folded before Flop
+
+
+Poker Hand #TM5322885641: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level6(125/250) - 2025/12/13 22:13:53
+Table '22' 6-max Seat #3 is the button
+Seat 1: 2f1b2e5b (12,717 in chips)
+Seat 2: Hero (6,622 in chips)
+Seat 3: 8ef5f73 (10,873 in chips)
+Seat 4: 799a79fe (5,915 in chips)
+Seat 5: b1f53ee4 (19,761 in chips)
+Seat 6: 1d81f996 (8,407 in chips)
+8ef5f73: posts the ante 35
+1d81f996: posts the ante 35
+799a79fe: posts the ante 35
+Hero: posts the ante 35
+2f1b2e5b: posts the ante 35
+b1f53ee4: posts the ante 35
+799a79fe: posts small blind 125
+b1f53ee4: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [6d As]
+Dealt to 8ef5f73 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+1d81f996: folds
+2f1b2e5b: folds
+Hero: folds
+8ef5f73: folds
+799a79fe: calls 125
+b1f53ee4: checks
+*** FLOP *** [Qs 4h 7c]
+799a79fe: checks
+b1f53ee4: checks
+*** TURN *** [Qs 4h 7c] [Kd]
+799a79fe: checks
+b1f53ee4: checks
+*** RIVER *** [Qs 4h 7c Kd] [Qd]
+799a79fe: checks
+b1f53ee4: bets 355
+799a79fe: calls 355
+b1f53ee4: shows [2d Kh] (two pair, Kings and Queens)
+799a79fe: shows [4c 6c] (two pair, Queens and Fours)
+*** SHOWDOWN ***
+b1f53ee4 collected 1,420 from pot
+*** SUMMARY ***
+Total pot 1,420 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs 4h 7c Kd Qd]
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: 8ef5f73 (button) folded before Flop
+Seat 4: 799a79fe (small blind) showed [4c 6c] and lost with two pair, Queens and Fours
+Seat 5: b1f53ee4 (big blind) showed [2d Kh] and won (1,420) with two pair, Kings and Queens
+Seat 6: 1d81f996 folded before Flop
+
+
+Poker Hand #TM5322885633: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level6(125/250) - 2025/12/13 22:13:16
+Table '22' 6-max Seat #2 is the button
+Seat 1: 2f1b2e5b (11,542 in chips)
+Seat 2: Hero (6,657 in chips)
+Seat 3: 8ef5f73 (11,408 in chips)
+Seat 4: 799a79fe (6,450 in chips)
+Seat 5: b1f53ee4 (19,796 in chips)
+Seat 6: 1d81f996 (8,442 in chips)
+8ef5f73: posts the ante 35
+1d81f996: posts the ante 35
+799a79fe: posts the ante 35
+Hero: posts the ante 35
+2f1b2e5b: posts the ante 35
+b1f53ee4: posts the ante 35
+8ef5f73: posts small blind 125
+799a79fe: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Jc 7c]
+Dealt to 8ef5f73 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+b1f53ee4: folds
+1d81f996: folds
+2f1b2e5b: raises 250 to 500
+Hero: folds
+8ef5f73: calls 375
+799a79fe: calls 250
+*** FLOP *** [Ad 8s 3h]
+8ef5f73: checks
+799a79fe: checks
+2f1b2e5b: bets 565
+8ef5f73: folds
+799a79fe: folds
+Uncalled bet (565) returned to 2f1b2e5b
+*** SHOWDOWN ***
+2f1b2e5b collected 1,710 from pot
+*** SUMMARY ***
+Total pot 1,710 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ad 8s 3h]
+Seat 1: 2f1b2e5b won (1,710)
+Seat 2: Hero (button) folded before Flop
+Seat 3: 8ef5f73 (small blind) folded on the Flop
+Seat 4: 799a79fe (big blind) folded on the Flop
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 1d81f996 folded before Flop
+
+
+Poker Hand #TM5322885623: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level6(125/250) - 2025/12/13 22:12:03
+Table '22' 6-max Seat #1 is the button
+Seat 1: 2f1b2e5b (11,577 in chips)
+Seat 2: Hero (6,817 in chips)
+Seat 3: 8ef5f73 (9,940 in chips)
+Seat 4: 799a79fe (6,485 in chips)
+Seat 5: b1f53ee4 (19,831 in chips)
+Seat 6: 1d81f996 (9,645 in chips)
+8ef5f73: posts the ante 35
+1d81f996: posts the ante 35
+799a79fe: posts the ante 35
+Hero: posts the ante 35
+2f1b2e5b: posts the ante 35
+b1f53ee4: posts the ante 35
+Hero: posts small blind 125
+8ef5f73: posts big blind 250
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [9h 8s]
+Dealt to 8ef5f73 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+799a79fe: folds
+b1f53ee4: folds
+1d81f996: raises 250 to 500
+2f1b2e5b: folds
+Hero: folds
+8ef5f73: calls 250
+*** FLOP *** [7h 5d As]
+8ef5f73: checks
+1d81f996: checks
+*** TURN *** [7h 5d As] [8d]
+8ef5f73: checks
+1d81f996: bets 668
+8ef5f73: calls 668
+*** RIVER *** [7h 5d As 8d] [Ad]
+8ef5f73: checks
+1d81f996: checks
+8ef5f73: shows [Jc 5h] (two pair, Aces and Fives)
+1d81f996: shows [Kh Ts] (a pair of Aces)
+*** SHOWDOWN ***
+8ef5f73 collected 2,671 from pot
+*** SUMMARY ***
+Total pot 2,671 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [7h 5d As 8d Ad]
+Seat 1: 2f1b2e5b (button) folded before Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: 8ef5f73 (big blind) showed [Jc 5h] and won (2,671) with two pair, Aces and Fives
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 1d81f996 showed [Kh Ts] and lost with a pair of Aces
+
+
+Poker Hand #TM5322885610: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level5(100/200) - 2025/12/13 22:11:01
+Table '22' 6-max Seat #6 is the button
+Seat 1: 2f1b2e5b (12,007 in chips)
+Seat 2: Hero (7,247 in chips)
+Seat 3: 8ef5f73 (9,970 in chips)
+Seat 4: 799a79fe (6,515 in chips)
+Seat 5: b1f53ee4 (18,881 in chips)
+Seat 6: 1d81f996 (9,675 in chips)
+8ef5f73: posts the ante 30
+1d81f996: posts the ante 30
+799a79fe: posts the ante 30
+Hero: posts the ante 30
+b1f53ee4: posts the ante 30
+2f1b2e5b: posts the ante 30
+2f1b2e5b: posts small blind 100
+Hero: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Jd Qs]
+Dealt to 8ef5f73 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+8ef5f73: folds
+799a79fe: folds
+b1f53ee4: raises 200 to 400
+1d81f996: folds
+2f1b2e5b: calls 300
+Hero: calls 200
+*** FLOP *** [8c Ac 9s]
+2f1b2e5b: checks
+Hero: checks
+b1f53ee4: bets 345
+2f1b2e5b: folds
+Hero: folds
+Uncalled bet (345) returned to b1f53ee4
+*** SHOWDOWN ***
+b1f53ee4 collected 1,380 from pot
+*** SUMMARY ***
+Total pot 1,380 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c Ac 9s]
+Seat 1: 2f1b2e5b (small blind) folded on the Flop
+Seat 2: Hero (big blind) folded on the Flop
+Seat 3: 8ef5f73 folded before Flop
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 won (1,380)
+Seat 6: 1d81f996 (button) folded before Flop
+
+
+Poker Hand #TM5322885597: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level5(100/200) - 2025/12/13 22:10:07
+Table '22' 6-max Seat #5 is the button
+Seat 1: 2f1b2e5b (12,437 in chips)
+Seat 2: Hero (6,597 in chips)
+Seat 3: 8ef5f73 (10,000 in chips)
+Seat 4: 799a79fe (6,545 in chips)
+Seat 5: b1f53ee4 (18,911 in chips)
+Seat 6: 1d81f996 (9,805 in chips)
+8ef5f73: posts the ante 30
+799a79fe: posts the ante 30
+1d81f996: posts the ante 30
+Hero: posts the ante 30
+b1f53ee4: posts the ante 30
+2f1b2e5b: posts the ante 30
+1d81f996: posts small blind 100
+2f1b2e5b: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Qs Kh]
+Dealt to 8ef5f73 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+Hero: raises 200 to 400
+8ef5f73: folds
+799a79fe: folds
+b1f53ee4: folds
+1d81f996: folds
+2f1b2e5b: calls 200
+*** FLOP *** [Tc 4c Qd]
+2f1b2e5b: checks
+Hero: bets 380
+2f1b2e5b: folds
+Uncalled bet (380) returned to Hero
+*** SHOWDOWN ***
+Hero collected 1,080 from pot
+*** SUMMARY ***
+Total pot 1,080 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Tc 4c Qd]
+Seat 1: 2f1b2e5b (big blind) folded on the Flop
+Seat 2: Hero won (1,080)
+Seat 3: 8ef5f73 folded before Flop
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 (button) folded before Flop
+Seat 6: 1d81f996 (small blind) folded before Flop
+
+
+Poker Hand #TM5322885583: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level5(100/200) - 2025/12/13 22:08:40
+Table '22' 6-max Seat #4 is the button
+Seat 1: 2f1b2e5b (12,467 in chips)
+Seat 2: Hero (6,627 in chips)
+Seat 4: 799a79fe (6,575 in chips)
+Seat 5: b1f53ee4 (14,384 in chips)
+Seat 6: 1d81f996 (14,242 in chips)
+799a79fe: posts the ante 30
+1d81f996: posts the ante 30
+Hero: posts the ante 30
+2f1b2e5b: posts the ante 30
+b1f53ee4: posts the ante 30
+b1f53ee4: posts small blind 100
+1d81f996: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [8s 5h]
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+2f1b2e5b: folds
+Hero: folds
+799a79fe: folds
+b1f53ee4: calls 100
+1d81f996: raises 400 to 600
+b1f53ee4: calls 400
+*** FLOP *** [9s Jc 9d]
+b1f53ee4: checks
+1d81f996: bets 675
+b1f53ee4: raises 891 to 1,566
+1d81f996: calls 891
+*** TURN *** [9s Jc 9d] [Qs]
+b1f53ee4: checks
+1d81f996: bets 2,241
+b1f53ee4: calls 2,241
+*** RIVER *** [9s Jc 9d Qs] [Kc]
+b1f53ee4: checks
+1d81f996: checks
+b1f53ee4: shows [Jh Kh] (two pair, Kings and Jacks)
+1d81f996: shows [As Qc] (two pair, Queens and Nines)
+*** SHOWDOWN ***
+b1f53ee4 collected 8,964 from pot
+*** SUMMARY ***
+Total pot 8,964 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [9s Jc 9d Qs Kc]
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero folded before Flop
+Seat 4: 799a79fe (button) folded before Flop
+Seat 5: b1f53ee4 (small blind) showed [Jh Kh] and won (8,964) with two pair, Kings and Jacks
+Seat 6: 1d81f996 (big blind) showed [As Qc] and lost with two pair, Queens and Nines
+
+
+Poker Hand #TM5322885571: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level5(100/200) - 2025/12/13 22:07:40
+Table '22' 6-max Seat #2 is the button
+Seat 1: 2f1b2e5b (12,497 in chips)
+Seat 2: Hero (7,057 in chips)
+Seat 3: da049f6 (4,618 in chips)
+Seat 4: 799a79fe (6,805 in chips)
+Seat 5: b1f53ee4 (14,414 in chips)
+Seat 6: 1d81f996 (8,904 in chips)
+1d81f996: posts the ante 30
+799a79fe: posts the ante 30
+Hero: posts the ante 30
+2f1b2e5b: posts the ante 30
+b1f53ee4: posts the ante 30
+da049f6: posts the ante 30
+da049f6: posts small blind 100
+799a79fe: posts big blind 200
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Jh 8h]
+Dealt to da049f6 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+b1f53ee4: folds
+1d81f996: raises 200 to 400
+2f1b2e5b: folds
+Hero: calls 400
+da049f6: raises 4,188 to 4,588 and is all-in
+799a79fe: folds
+1d81f996: raises 4,286 to 8,874 and is all-in
+Hero: folds
+Uncalled bet (4,286) returned to 1d81f996
+1d81f996: shows [As Kh]
+da049f6: shows [Qh Kd]
+*** FLOP *** [8c 2h Td]
+*** TURN *** [8c 2h Td] [6s]
+*** RIVER *** [8c 2h Td 6s] [7c]
+*** SHOWDOWN ***
+1d81f996 collected 9,956 from pot
+*** SUMMARY ***
+Total pot 9,956 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [8c 2h Td 6s 7c]
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 3: da049f6 (small blind) showed [Qh Kd] and lost with King high
+Seat 4: 799a79fe (big blind) folded before Flop
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 1d81f996 showed [As Kh] and won (9,956) with Ace high
+
+
+Poker Hand #TM5322885562: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level4(80/160) - 2025/12/13 22:07:02
+Table '22' 6-max Seat #1 is the button
+Seat 1: 2f1b2e5b (12,522 in chips)
+Seat 2: Hero (7,162 in chips)
+Seat 3: da049f6 (4,803 in chips)
+Seat 4: 799a79fe (6,440 in chips)
+Seat 5: b1f53ee4 (14,439 in chips)
+Seat 6: 1d81f996 (8,929 in chips)
+1d81f996: posts the ante 25
+799a79fe: posts the ante 25
+Hero: posts the ante 25
+2f1b2e5b: posts the ante 25
+b1f53ee4: posts the ante 25
+da049f6: posts the ante 25
+Hero: posts small blind 80
+da049f6: posts big blind 160
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [3c Jd]
+Dealt to da049f6 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+799a79fe: raises 160 to 320
+b1f53ee4: folds
+1d81f996: folds
+2f1b2e5b: folds
+Hero: folds
+da049f6: folds
+Uncalled bet (160) returned to 799a79fe
+*** SHOWDOWN ***
+799a79fe collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b (button) folded before Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: da049f6 (big blind) folded before Flop
+Seat 4: 799a79fe collected (550)
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 1d81f996 folded before Flop
+
+
+Poker Hand #TM5322885558: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level4(80/160) - 2025/12/13 22:06:30
+Table '22' 6-max Seat #6 is the button
+Seat 1: 2f1b2e5b (12,627 in chips)
+Seat 2: Hero (7,347 in chips)
+Seat 3: da049f6 (4,828 in chips)
+Seat 4: 799a79fe (6,075 in chips)
+Seat 5: b1f53ee4 (14,464 in chips)
+Seat 6: 1d81f996 (8,954 in chips)
+1d81f996: posts the ante 25
+799a79fe: posts the ante 25
+Hero: posts the ante 25
+b1f53ee4: posts the ante 25
+2f1b2e5b: posts the ante 25
+da049f6: posts the ante 25
+2f1b2e5b: posts small blind 80
+Hero: posts big blind 160
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [8d 5d]
+Dealt to da049f6 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+da049f6: folds
+799a79fe: raises 160 to 320
+b1f53ee4: folds
+1d81f996: folds
+2f1b2e5b: folds
+Hero: folds
+Uncalled bet (160) returned to 799a79fe
+*** SHOWDOWN ***
+799a79fe collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b (small blind) folded before Flop
+Seat 2: Hero (big blind) folded before Flop
+Seat 3: da049f6 folded before Flop
+Seat 4: 799a79fe collected (550)
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 1d81f996 (button) folded before Flop
+
+
+Poker Hand #TM5322885550: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level4(80/160) - 2025/12/13 22:05:34
+Table '22' 6-max Seat #5 is the button
+Seat 1: 2f1b2e5b (9,200 in chips)
+Seat 2: Hero (7,372 in chips)
+Seat 3: da049f6 (8,075 in chips)
+Seat 4: 799a79fe (6,100 in chips)
+Seat 5: b1f53ee4 (14,489 in chips)
+Seat 6: 1d81f996 (9,059 in chips)
+799a79fe: posts the ante 25
+1d81f996: posts the ante 25
+Hero: posts the ante 25
+b1f53ee4: posts the ante 25
+2f1b2e5b: posts the ante 25
+da049f6: posts the ante 25
+1d81f996: posts small blind 80
+2f1b2e5b: posts big blind 160
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [5s 9s]
+Dealt to da049f6 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+Hero: folds
+da049f6: raises 160 to 320
+799a79fe: folds
+b1f53ee4: folds
+1d81f996: folds
+2f1b2e5b: calls 160
+*** FLOP *** [Qc Js Th]
+2f1b2e5b: checks
+da049f6: checks
+*** TURN *** [Qc Js Th] [Ah]
+2f1b2e5b: checks
+da049f6: bets 435
+2f1b2e5b: raises 815 to 1,250
+da049f6: calls 815
+*** RIVER *** [Qc Js Th Ah] [7c]
+2f1b2e5b: bets 1,652
+da049f6: calls 1,652
+2f1b2e5b: shows [Ks 6s] (a straight, Ace to Ten)
+da049f6: shows [7h 4h] (a pair of Sevens)
+*** SHOWDOWN ***
+2f1b2e5b collected 6,674 from pot
+*** SUMMARY ***
+Total pot 6,674 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qc Js Th Ah 7c]
+Seat 1: 2f1b2e5b (big blind) showed [Ks 6s] and won (6,674) with a straight, Ace to Ten
+Seat 2: Hero folded before Flop
+Seat 3: da049f6 showed [7h 4h] and lost with a pair of Sevens
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 (button) folded before Flop
+Seat 6: 1d81f996 (small blind) folded before Flop
+
+
+Poker Hand #TM5322885537: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level4(80/160) - 2025/12/13 22:04:10
+Table '22' 6-max Seat #4 is the button
+Seat 1: 2f1b2e5b (9,225 in chips)
+Seat 2: Hero (7,397 in chips)
+Seat 3: da049f6 (9,725 in chips)
+Seat 4: 799a79fe (6,125 in chips)
+Seat 5: b1f53ee4 (14,594 in chips)
+Seat 6: 1d81f996 (7,229 in chips)
+799a79fe: posts the ante 25
+1d81f996: posts the ante 25
+Hero: posts the ante 25
+2f1b2e5b: posts the ante 25
+b1f53ee4: posts the ante 25
+da049f6: posts the ante 25
+b1f53ee4: posts small blind 80
+1d81f996: posts big blind 160
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Ks 2h]
+Dealt to da049f6 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+2f1b2e5b: folds
+Hero: folds
+da049f6: raises 160 to 320
+799a79fe: folds
+b1f53ee4: folds
+1d81f996: calls 160
+*** FLOP *** [Ts 5c 3d]
+1d81f996: bets 435
+da049f6: calls 435
+*** TURN *** [Ts 5c 3d] [9c]
+1d81f996: bets 870
+da049f6: calls 870
+*** RIVER *** [Ts 5c 3d 9c] [3h]
+1d81f996: bets 1,740
+da049f6: folds
+Uncalled bet (1,740) returned to 1d81f996
+*** SHOWDOWN ***
+1d81f996 collected 3,480 from pot
+*** SUMMARY ***
+Total pot 3,480 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 5c 3d 9c 3h]
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: da049f6 folded on the River
+Seat 4: 799a79fe (button) folded before Flop
+Seat 5: b1f53ee4 (small blind) folded before Flop
+Seat 6: 1d81f996 (big blind) won (3,480)
+
+
+Poker Hand #TM5322885530: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level4(80/160) - 2025/12/13 22:03:37
+Table '22' 6-max Seat #3 is the button
+Seat 1: 2f1b2e5b (9,570 in chips)
+Seat 2: Hero (7,422 in chips)
+Seat 3: da049f6 (9,750 in chips)
+Seat 4: 799a79fe (5,520 in chips)
+Seat 5: b1f53ee4 (14,779 in chips)
+Seat 6: 1d81f996 (7,254 in chips)
+1d81f996: posts the ante 25
+799a79fe: posts the ante 25
+Hero: posts the ante 25
+2f1b2e5b: posts the ante 25
+b1f53ee4: posts the ante 25
+da049f6: posts the ante 25
+799a79fe: posts small blind 80
+b1f53ee4: posts big blind 160
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [8d 4c]
+Dealt to da049f6 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+1d81f996: folds
+2f1b2e5b: raises 160 to 320
+Hero: folds
+da049f6: folds
+799a79fe: raises 5,175 to 5,495 and is all-in
+b1f53ee4: folds
+2f1b2e5b: folds
+Uncalled bet (5,175) returned to 799a79fe
+*** SHOWDOWN ***
+799a79fe collected 950 from pot
+*** SUMMARY ***
+Total pot 950 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: da049f6 (button) folded before Flop
+Seat 4: 799a79fe (small blind) collected (950)
+Seat 5: b1f53ee4 (big blind) folded before Flop
+Seat 6: 1d81f996 folded before Flop
+
+
+Poker Hand #TM5322885515: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level3(70/140) - 2025/12/13 22:02:10
+Table '22' 6-max Seat #2 is the button
+Seat 1: 2f1b2e5b (9,590 in chips)
+Seat 2: Hero (7,442 in chips)
+Seat 3: da049f6 (9,840 in chips)
+Seat 4: 799a79fe (9,950 in chips)
+Seat 5: b1f53ee4 (10,199 in chips)
+Seat 6: 1d81f996 (7,274 in chips)
+1d81f996: posts the ante 20
+799a79fe: posts the ante 20
+Hero: posts the ante 20
+2f1b2e5b: posts the ante 20
+b1f53ee4: posts the ante 20
+da049f6: posts the ante 20
+da049f6: posts small blind 70
+799a79fe: posts big blind 140
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [6h Ks]
+Dealt to da049f6 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+b1f53ee4: raises 140 to 280
+1d81f996: folds
+2f1b2e5b: folds
+Hero: folds
+da049f6: folds
+799a79fe: raises 1,053 to 1,333
+b1f53ee4: raises 1,747 to 3,080
+799a79fe: calls 1,747
+*** FLOP *** [2h 8c 3h]
+799a79fe: checks
+b1f53ee4: bets 1,330
+799a79fe: calls 1,330
+*** TURN *** [2h 8c 3h] [5d]
+799a79fe: checks
+b1f53ee4: checks
+*** RIVER *** [2h 8c 3h 5d] [Ad]
+799a79fe: checks
+b1f53ee4: bets 5,769 and is all-in
+799a79fe: folds
+Uncalled bet (5,769) returned to b1f53ee4
+*** SHOWDOWN ***
+b1f53ee4 collected 9,010 from pot
+*** SUMMARY ***
+Total pot 9,010 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2h 8c 3h 5d Ad]
+Seat 1: 2f1b2e5b folded before Flop
+Seat 2: Hero (button) folded before Flop
+Seat 3: da049f6 (small blind) folded before Flop
+Seat 4: 799a79fe (big blind) folded on the River
+Seat 5: b1f53ee4 won (9,010)
+Seat 6: 1d81f996 folded before Flop
+
+
+Poker Hand #TM5322885508: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level3(70/140) - 2025/12/13 22:01:32
+Table '22' 6-max Seat #1 is the button
+Seat 1: 2f1b2e5b (9,610 in chips)
+Seat 2: Hero (7,532 in chips)
+Seat 3: da049f6 (10,000 in chips)
+Seat 4: 799a79fe (10,250 in chips)
+Seat 5: b1f53ee4 (9,609 in chips)
+Seat 6: 1d81f996 (7,294 in chips)
+1d81f996: posts the ante 20
+799a79fe: posts the ante 20
+Hero: posts the ante 20
+2f1b2e5b: posts the ante 20
+b1f53ee4: posts the ante 20
+da049f6: posts the ante 20
+Hero: posts small blind 70
+da049f6: posts big blind 140
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [Ks 5d]
+Dealt to da049f6 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+799a79fe: raises 140 to 280
+b1f53ee4: raises 490 to 770
+1d81f996: folds
+2f1b2e5b: folds
+Hero: folds
+da049f6: folds
+799a79fe: folds
+Uncalled bet (490) returned to b1f53ee4
+*** SHOWDOWN ***
+b1f53ee4 collected 890 from pot
+*** SUMMARY ***
+Total pot 890 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 2f1b2e5b (button) folded before Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 3: da049f6 (big blind) folded before Flop
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 collected (890)
+Seat 6: 1d81f996 folded before Flop
+
+
+Poker Hand #TM5322885498: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level3(70/140) - 2025/12/13 21:54:51
+Table '22' 6-max Seat #6 is the button
+Seat 1: 2f1b2e5b (9,700 in chips)
+Seat 2: Hero (7,692 in chips)
+Seat 3: 22866224 (11,869 in chips)
+Seat 4: 799a79fe (10,270 in chips)
+Seat 5: b1f53ee4 (9,629 in chips)
+Seat 6: 1d81f996 (7,608 in chips)
+1d81f996: posts the ante 20
+799a79fe: posts the ante 20
+Hero: posts the ante 20
+b1f53ee4: posts the ante 20
+2f1b2e5b: posts the ante 20
+22866224: posts the ante 20
+2f1b2e5b: posts small blind 70
+Hero: posts big blind 140
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [As 8h]
+Dealt to 22866224 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+22866224: raises 154 to 294
+799a79fe: folds
+b1f53ee4: folds
+1d81f996: calls 294
+2f1b2e5b: folds
+Hero: folds
+*** FLOP *** [3s 4s 9h]
+22866224: bets 459
+1d81f996: folds
+Uncalled bet (459) returned to 22866224
+*** SHOWDOWN ***
+22866224 collected 918 from pot
+*** SUMMARY ***
+Total pot 918 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3s 4s 9h]
+Seat 1: 2f1b2e5b (small blind) folded before Flop
+Seat 2: Hero (big blind) folded before Flop
+Seat 3: 22866224 won (918)
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 folded before Flop
+Seat 6: 1d81f996 (button) folded on the Flop
+
+
+Poker Hand #TM5322885486: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level3(70/140) - 2025/12/13 21:53:53
+Table '22' 6-max Seat #5 is the button
+Seat 1: 2f1b2e5b (10,000 in chips)
+Seat 2: Hero (8,472 in chips)
+Seat 3: 22866224 (11,889 in chips)
+Seat 4: 799a79fe (10,290 in chips)
+Seat 5: b1f53ee4 (9,649 in chips)
+Seat 6: 1d81f996 (6,468 in chips)
+799a79fe: posts the ante 20
+1d81f996: posts the ante 20
+Hero: posts the ante 20
+b1f53ee4: posts the ante 20
+2f1b2e5b: posts the ante 20
+22866224: posts the ante 20
+1d81f996: posts small blind 70
+2f1b2e5b: posts big blind 140
+*** HOLE CARDS ***
+Dealt to 2f1b2e5b 
+Dealt to Hero [9h Th]
+Dealt to 22866224 
+Dealt to 799a79fe 
+Dealt to b1f53ee4 
+Dealt to 1d81f996 
+Hero: raises 140 to 280
+22866224: folds
+799a79fe: folds
+b1f53ee4: folds
+1d81f996: calls 210
+2f1b2e5b: calls 140
+*** FLOP *** [Js Qs 5c]
+1d81f996: bets 480
+2f1b2e5b: folds
+Hero: calls 480
+*** TURN *** [Js Qs 5c] [As]
+1d81f996: bets 960
+Hero: folds
+Uncalled bet (960) returned to 1d81f996
+*** SHOWDOWN ***
+1d81f996 collected 1,920 from pot
+*** SUMMARY ***
+Total pot 1,920 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Js Qs 5c As]
+Seat 1: 2f1b2e5b (big blind) folded on the Flop
+Seat 2: Hero folded on the Turn
+Seat 3: 22866224 folded before Flop
+Seat 4: 799a79fe folded before Flop
+Seat 5: b1f53ee4 (button) folded before Flop
+Seat 6: 1d81f996 (small blind) won (1,920)
+
+
+Poker Hand #TM5322935327: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level2(60/120) - 2025/12/13 21:52:36
+Table '5' 6-max Seat #4 is the button
+Seat 1: Hero (8,490 in chips)
+Seat 2: c8f43e75 (10,728 in chips)
+Seat 3: c02cad26 (6,938 in chips)
+Seat 4: c039cc99 (11,101 in chips)
+Seat 5: 366d222b (8,253 in chips)
+Seat 6: 25c75fc7 (9,423 in chips)
+25c75fc7: posts the ante 18
+c039cc99: posts the ante 18
+366d222b: posts the ante 18
+c8f43e75: posts the ante 18
+Hero: posts the ante 18
+c02cad26: posts the ante 18
+366d222b: posts small blind 60
+25c75fc7: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Hero [Kd 7d]
+Dealt to c8f43e75 
+Dealt to c02cad26 
+Dealt to c039cc99 
+Dealt to 366d222b 
+Dealt to 25c75fc7 
+Hero: folds
+c8f43e75: folds
+c02cad26: folds
+c039cc99: raises 120 to 240
+366d222b: raises 531 to 771
+25c75fc7: folds
+c039cc99: folds
+Uncalled bet (531) returned to 366d222b
+*** SHOWDOWN ***
+366d222b collected 708 from pot
+*** SUMMARY ***
+Total pot 708 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: c8f43e75 folded before Flop
+Seat 3: c02cad26 folded before Flop
+Seat 4: c039cc99 (button) folded before Flop
+Seat 5: 366d222b (small blind) collected (708)
+Seat 6: 25c75fc7 (big blind) folded before Flop
+
+
+Poker Hand #TM5322935322: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level2(60/120) - 2025/12/13 21:52:10
+Table '5' 6-max Seat #3 is the button
+Seat 1: Hero (8,508 in chips)
+Seat 2: c8f43e75 (10,746 in chips)
+Seat 3: c02cad26 (6,956 in chips)
+Seat 4: c039cc99 (10,891 in chips)
+Seat 5: 366d222b (8,391 in chips)
+Seat 6: 25c75fc7 (9,441 in chips)
+25c75fc7: posts the ante 18
+366d222b: posts the ante 18
+c039cc99: posts the ante 18
+c8f43e75: posts the ante 18
+Hero: posts the ante 18
+c02cad26: posts the ante 18
+c039cc99: posts small blind 60
+366d222b: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Hero [4s 7c]
+Dealt to c8f43e75 
+Dealt to c02cad26 
+Dealt to c039cc99 
+Dealt to 366d222b 
+Dealt to 25c75fc7 
+25c75fc7: folds
+Hero: folds
+c8f43e75: folds
+c02cad26: folds
+c039cc99: raises 300 to 420
+366d222b: folds
+Uncalled bet (300) returned to c039cc99
+*** SHOWDOWN ***
+c039cc99 collected 348 from pot
+*** SUMMARY ***
+Total pot 348 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: c8f43e75 folded before Flop
+Seat 3: c02cad26 (button) folded before Flop
+Seat 4: c039cc99 (small blind) collected (348)
+Seat 5: 366d222b (big blind) folded before Flop
+Seat 6: 25c75fc7 folded before Flop
+
+
+Poker Hand #TM5322935308: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level2(60/120) - 2025/12/13 21:50:47
+Table '5' 6-max Seat #2 is the button
+Seat 1: Hero (8,526 in chips)
+Seat 2: c8f43e75 (10,764 in chips)
+Seat 3: c02cad26 (7,034 in chips)
+Seat 4: c039cc99 (9,994 in chips)
+Seat 5: 366d222b (8,649 in chips)
+Seat 6: 25c75fc7 (9,966 in chips)
+25c75fc7: posts the ante 18
+366d222b: posts the ante 18
+c039cc99: posts the ante 18
+c8f43e75: posts the ante 18
+Hero: posts the ante 18
+c02cad26: posts the ante 18
+c02cad26: posts small blind 60
+c039cc99: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Hero [3c 8s]
+Dealt to c8f43e75 
+Dealt to c02cad26 
+Dealt to c039cc99 
+Dealt to 366d222b 
+Dealt to 25c75fc7 
+366d222b: raises 120 to 240
+25c75fc7: calls 240
+Hero: folds
+c8f43e75: folds
+c02cad26: folds
+c039cc99: calls 120
+*** FLOP *** [6h 5h 2d]
+c039cc99: bets 267
+366d222b: folds
+25c75fc7: calls 267
+*** TURN *** [6h 5h 2d] [Ts]
+c039cc99: bets 569
+25c75fc7: folds
+Uncalled bet (569) returned to c039cc99
+*** SHOWDOWN ***
+c039cc99 collected 1,422 from pot
+*** SUMMARY ***
+Total pot 1,422 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 5h 2d Ts]
+Seat 1: Hero folded before Flop
+Seat 2: c8f43e75 (button) folded before Flop
+Seat 3: c02cad26 (small blind) folded before Flop
+Seat 4: c039cc99 (big blind) won (1,422)
+Seat 5: 366d222b folded on the Flop
+Seat 6: 25c75fc7 folded on the Turn
+
+
+Poker Hand #TM5322935299: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level2(60/120) - 2025/12/13 21:50:21
+Table '5' 6-max Seat #1 is the button
+Seat 1: Hero (8,544 in chips)
+Seat 2: c8f43e75 (10,842 in chips)
+Seat 3: c02cad26 (7,172 in chips)
+Seat 4: c039cc99 (9,724 in chips)
+Seat 5: 366d222b (8,667 in chips)
+Seat 6: 25c75fc7 (9,984 in chips)
+25c75fc7: posts the ante 18
+366d222b: posts the ante 18
+c039cc99: posts the ante 18
+c8f43e75: posts the ante 18
+Hero: posts the ante 18
+c02cad26: posts the ante 18
+c8f43e75: posts small blind 60
+c02cad26: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Hero [2h 4c]
+Dealt to c8f43e75 
+Dealt to c02cad26 
+Dealt to c039cc99 
+Dealt to 366d222b 
+Dealt to 25c75fc7 
+c039cc99: raises 120 to 240
+366d222b: folds
+25c75fc7: folds
+Hero: folds
+c8f43e75: folds
+c02cad26: folds
+Uncalled bet (120) returned to c039cc99
+*** SHOWDOWN ***
+c039cc99 collected 408 from pot
+*** SUMMARY ***
+Total pot 408 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (button) folded before Flop
+Seat 2: c8f43e75 (small blind) folded before Flop
+Seat 3: c02cad26 (big blind) folded before Flop
+Seat 4: c039cc99 collected (408)
+Seat 5: 366d222b folded before Flop
+Seat 6: 25c75fc7 folded before Flop
+
+
+Poker Hand #TM5322935290: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level2(60/120) - 2025/12/13 21:49:28
+Table '5' 6-max Seat #6 is the button
+Seat 1: Hero (8,802 in chips)
+Seat 2: c8f43e75 (10,272 in chips)
+Seat 3: c02cad26 (7,190 in chips)
+Seat 4: c039cc99 (9,982 in chips)
+Seat 5: 366d222b (8,685 in chips)
+Seat 6: 25c75fc7 (10,002 in chips)
+25c75fc7: posts the ante 18
+366d222b: posts the ante 18
+c039cc99: posts the ante 18
+c8f43e75: posts the ante 18
+Hero: posts the ante 18
+c02cad26: posts the ante 18
+Hero: posts small blind 60
+c8f43e75: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Hero [9d Td]
+Dealt to c8f43e75 
+Dealt to c02cad26 
+Dealt to c039cc99 
+Dealt to 366d222b 
+Dealt to 25c75fc7 
+c02cad26: folds
+c039cc99: raises 120 to 240
+366d222b: folds
+25c75fc7: folds
+Hero: calls 180
+c8f43e75: raises 960 to 1,200
+c039cc99: folds
+Hero: folds
+Uncalled bet (960) returned to c8f43e75
+*** SHOWDOWN ***
+c8f43e75 collected 828 from pot
+*** SUMMARY ***
+Total pot 828 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (small blind) folded before Flop
+Seat 2: c8f43e75 (big blind) collected (828)
+Seat 3: c02cad26 folded before Flop
+Seat 4: c039cc99 folded before Flop
+Seat 5: 366d222b folded before Flop
+Seat 6: 25c75fc7 (button) folded before Flop
+
+
+Poker Hand #TM5322935285: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level2(60/120) - 2025/12/13 21:49:04
+Table '5' 6-max Seat #5 is the button
+Seat 1: Hero (8,940 in chips)
+Seat 2: c8f43e75 (10,290 in chips)
+Seat 3: c02cad26 (6,920 in chips)
+Seat 4: c039cc99 (10,000 in chips)
+Seat 5: 366d222b (8,703 in chips)
+Seat 6: 25c75fc7 (10,080 in chips)
+25c75fc7: posts the ante 18
+366d222b: posts the ante 18
+c039cc99: posts the ante 18
+c8f43e75: posts the ante 18
+Hero: posts the ante 18
+c02cad26: posts the ante 18
+25c75fc7: posts small blind 60
+Hero: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Hero [4s 3c]
+Dealt to c8f43e75 
+Dealt to c02cad26 
+Dealt to c039cc99 
+Dealt to 366d222b 
+Dealt to 25c75fc7 
+c8f43e75: folds
+c02cad26: raises 120 to 240
+c039cc99: folds
+366d222b: folds
+25c75fc7: folds
+Hero: folds
+Uncalled bet (120) returned to c02cad26
+*** SHOWDOWN ***
+c02cad26 collected 408 from pot
+*** SUMMARY ***
+Total pot 408 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (big blind) folded before Flop
+Seat 2: c8f43e75 folded before Flop
+Seat 3: c02cad26 collected (408)
+Seat 4: c039cc99 folded before Flop
+Seat 5: 366d222b (button) folded before Flop
+Seat 6: 25c75fc7 (small blind) folded before Flop
+
+
+Poker Hand #TM5322935282: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level1(50/100) - 2025/12/13 21:48:48
+Table '5' 6-max Seat #3 is the button
+Seat 1: Hero (8,955 in chips)
+Seat 2: c8f43e75 (10,305 in chips)
+Seat 3: c02cad26 (6,935 in chips)
+Seat 5: 366d222b (8,768 in chips)
+Seat 6: 25c75fc7 (9,970 in chips)
+25c75fc7: posts the ante 15
+366d222b: posts the ante 15
+c8f43e75: posts the ante 15
+Hero: posts the ante 15
+c02cad26: posts the ante 15
+366d222b: posts small blind 50
+25c75fc7: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [9d 8s]
+Dealt to c8f43e75 
+Dealt to c02cad26 
+Dealt to 366d222b 
+Dealt to 25c75fc7 
+Hero: folds
+c8f43e75: folds
+c02cad26: folds
+366d222b: folds
+Uncalled bet (50) returned to 25c75fc7
+*** SHOWDOWN ***
+25c75fc7 collected 175 from pot
+*** SUMMARY ***
+Total pot 175 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: c8f43e75 folded before Flop
+Seat 3: c02cad26 (button) folded before Flop
+Seat 5: 366d222b (small blind) folded before Flop
+Seat 6: 25c75fc7 (big blind) collected (175)
+
+
+Poker Hand #TM5322935276: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level1(50/100) - 2025/12/13 21:48:21
+Table '5' 6-max Seat #2 is the button
+Seat 1: Hero (9,170 in chips)
+Seat 2: c8f43e75 (9,895 in chips)
+Seat 3: c02cad26 (7,000 in chips)
+Seat 5: 366d222b (8,883 in chips)
+Seat 6: 25c75fc7 (9,985 in chips)
+25c75fc7: posts the ante 15
+366d222b: posts the ante 15
+c8f43e75: posts the ante 15
+Hero: posts the ante 15
+c02cad26: posts the ante 15
+c02cad26: posts small blind 50
+366d222b: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [Td Kd]
+Dealt to c8f43e75 
+Dealt to c02cad26 
+Dealt to 366d222b 
+Dealt to 25c75fc7 
+25c75fc7: folds
+Hero: raises 100 to 200
+c8f43e75: raises 450 to 650
+c02cad26: folds
+366d222b: folds
+Hero: folds
+Uncalled bet (450) returned to c8f43e75
+*** SHOWDOWN ***
+c8f43e75 collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: c8f43e75 (button) collected (625)
+Seat 3: c02cad26 (small blind) folded before Flop
+Seat 5: 366d222b (big blind) folded before Flop
+Seat 6: 25c75fc7 folded before Flop
+
+
+Poker Hand #TM5322935261: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level1(50/100) - 2025/12/13 21:47:14
+Table '5' 6-max Seat #1 is the button
+Seat 1: Hero (9,805 in chips)
+Seat 2: c8f43e75 (9,960 in chips)
+Seat 3: c02cad26 (9,955 in chips)
+Seat 4: 558b9b1b (11,382 in chips)
+Seat 5: 366d222b (8,898 in chips)
+Seat 6: 25c75fc7 (10,000 in chips)
+25c75fc7: posts the ante 15
+366d222b: posts the ante 15
+c8f43e75: posts the ante 15
+Hero: posts the ante 15
+c02cad26: posts the ante 15
+558b9b1b: posts the ante 15
+c8f43e75: posts small blind 50
+c02cad26: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [As Jc]
+Dealt to c8f43e75 
+Dealt to c02cad26 
+Dealt to 558b9b1b 
+Dealt to 366d222b 
+Dealt to 25c75fc7 
+558b9b1b: raises 120 to 220
+366d222b: folds
+25c75fc7: folds
+Hero: calls 220
+c8f43e75: folds
+c02cad26: calls 120
+*** FLOP *** [Ks 5d Jd]
+c02cad26: checks
+558b9b1b: checks
+Hero: checks
+*** TURN *** [Ks 5d Jd] [4c]
+c02cad26: bets 400
+558b9b1b: calls 400
+Hero: calls 400
+*** RIVER *** [Ks 5d Jd 4c] [Qc]
+c02cad26: bets 1,000
+558b9b1b: raises 1,320 to 2,320
+Hero: folds
+c02cad26: calls 1,320
+558b9b1b: shows [Ts Ac] (a straight, Ace to Ten)
+c02cad26: shows [Kh Qh] (two pair, Kings and Queens)
+*** SHOWDOWN ***
+558b9b1b collected 6,640 from pot
+*** SUMMARY ***
+Total pot 6,640 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks 5d Jd 4c Qc]
+Seat 1: Hero (button) folded on the River
+Seat 2: c8f43e75 (small blind) folded before Flop
+Seat 3: c02cad26 (big blind) showed [Kh Qh] and lost with two pair, Kings and Queens
+Seat 4: 558b9b1b showed [Ts Ac] and won (6,640) with a straight, Ace to Ten
+Seat 5: 366d222b folded before Flop
+Seat 6: 25c75fc7 folded before Flop
+
+
+Poker Hand #TM5322935249: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level1(50/100) - 2025/12/13 21:46:23
+Table '5' 6-max Seat #5 is the button
+Seat 1: Hero (9,870 in chips)
+Seat 2: c8f43e75 (10,195 in chips)
+Seat 3: c02cad26 (9,970 in chips)
+Seat 4: 558b9b1b (11,617 in chips)
+Seat 5: 366d222b (8,348 in chips)
+366d222b: posts the ante 15
+c8f43e75: posts the ante 15
+Hero: posts the ante 15
+c02cad26: posts the ante 15
+558b9b1b: posts the ante 15
+Hero: posts small blind 50
+c8f43e75: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [7h Qd]
+Dealt to c8f43e75 
+Dealt to c02cad26 
+Dealt to 558b9b1b 
+Dealt to 366d222b 
+c02cad26: folds
+558b9b1b: raises 120 to 220
+366d222b: calls 220
+Hero: folds
+c8f43e75: calls 120
+*** FLOP *** [Kh 7d 7c]
+c8f43e75: checks
+558b9b1b: checks
+366d222b: bets 260
+c8f43e75: folds
+558b9b1b: folds
+Uncalled bet (260) returned to 366d222b
+*** SHOWDOWN ***
+366d222b collected 785 from pot
+*** SUMMARY ***
+Total pot 785 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Kh 7d 7c]
+Seat 1: Hero (small blind) folded before Flop
+Seat 2: c8f43e75 (big blind) folded on the Flop
+Seat 3: c02cad26 folded before Flop
+Seat 4: 558b9b1b folded on the Flop
+Seat 5: 366d222b (button) won (785)
+
+
+Poker Hand #TM5322935236: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level1(50/100) - 2025/12/13 21:45:21
+Table '5' 6-max Seat #4 is the button
+Seat 1: Hero (9,985 in chips)
+Seat 2: c8f43e75 (10,210 in chips)
+Seat 3: c02cad26 (9,985 in chips)
+Seat 4: 558b9b1b (9,935 in chips)
+Seat 5: 366d222b (9,885 in chips)
+366d222b: posts the ante 15
+c8f43e75: posts the ante 15
+Hero: posts the ante 15
+c02cad26: posts the ante 15
+558b9b1b: posts the ante 15
+366d222b: posts small blind 50
+Hero: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [7d 4h]
+Dealt to c8f43e75 
+Dealt to c02cad26 
+Dealt to 558b9b1b 
+Dealt to 366d222b 
+c8f43e75: folds
+c02cad26: folds
+558b9b1b: raises 200 to 300
+366d222b: raises 582 to 882
+Hero: folds
+558b9b1b: calls 582
+*** FLOP *** [2s Jc 6c]
+366d222b: bets 640
+558b9b1b: calls 640
+*** TURN *** [2s Jc 6c] [Ah]
+366d222b: checks
+558b9b1b: checks
+*** RIVER *** [2s Jc 6c Ah] [Kd]
+366d222b: checks
+558b9b1b: checks
+366d222b: shows [9h 9c] (a pair of Nines)
+558b9b1b: shows [Qc Js] (a pair of Jacks)
+*** SHOWDOWN ***
+558b9b1b collected 3,219 from pot
+*** SUMMARY ***
+Total pot 3,219 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2s Jc 6c Ah Kd]
+Seat 1: Hero (big blind) folded before Flop
+Seat 2: c8f43e75 folded before Flop
+Seat 3: c02cad26 folded before Flop
+Seat 4: 558b9b1b (button) showed [Qc Js] and won (3,219) with a pair of Jacks
+Seat 5: 366d222b (small blind) showed [9h 9c] and lost with a pair of Nines
+
+
+Poker Hand #TM5322935231: Tournament #248112590, Daily Hypersonic $20 Hold'em No Limit - Level1(50/100) - 2025/12/13 21:45:02
+Table '5' 6-max Seat #3 is the button
+Seat 1: Hero (10,000 in chips)
+Seat 2: c8f43e75 (10,000 in chips)
+Seat 3: c02cad26 (10,000 in chips)
+Seat 4: 558b9b1b (10,000 in chips)
+Seat 5: 366d222b (10,000 in chips)
+366d222b: posts the ante 15
+c8f43e75: posts the ante 15
+Hero: posts the ante 15
+c02cad26: posts the ante 15
+558b9b1b: posts the ante 15
+558b9b1b: posts small blind 50
+366d222b: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Hero [6c 8h]
+Dealt to c8f43e75 
+Dealt to c02cad26 
+Dealt to 558b9b1b 
+Dealt to 366d222b 
+Hero: folds
+c8f43e75: raises 100 to 200
+c02cad26: folds
+558b9b1b: folds
+366d222b: folds
+Uncalled bet (100) returned to c8f43e75
+*** SHOWDOWN ***
+c8f43e75 collected 325 from pot
+*** SUMMARY ***
+Total pot 325 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: c8f43e75 collected (325)
+Seat 3: c02cad26 (button) folded before Flop
+Seat 4: 558b9b1b (small blind) folded before Flop
+Seat 5: 366d222b (big blind) folded before Flop
+
+

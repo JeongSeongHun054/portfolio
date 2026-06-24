@@ -1,0 +1,236 @@
+Poker Hand #TM5296230947: Tournament #244745689, 61-NLH: $8.88 Crazy Eights Asia [8-Max] Hold'em No Limit - Level6(100/200) - 2025/12/06 20:43:01
+Table '71' 8-max Seat #1 is the button
+Seat 1: Hero (9,007 in chips)
+Seat 2: 7159a291 (9,750 in chips)
+Seat 3: 8e025835 (14,808 in chips)
+Seat 4: 53d49fd2 (9,458 in chips)
+Seat 5: bfcefa41 (20,296 in chips)
+Seat 6: d4bd199b (6,993 in chips)
+Seat 7: a028dfc8 (18,856 in chips)
+Seat 8: b2edc2ab (22,846 in chips)
+d4bd199b: posts the ante 25
+b2edc2ab: posts the ante 25
+Hero: posts the ante 25
+53d49fd2: posts the ante 25
+8e025835: posts the ante 25
+a028dfc8: posts the ante 25
+bfcefa41: posts the ante 25
+7159a291: posts the ante 25
+7159a291: posts small blind 100
+8e025835: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [6h 6s]
+Dealt to 7159a291 
+Dealt to 8e025835 
+Dealt to 53d49fd2 
+Dealt to bfcefa41 
+Dealt to d4bd199b 
+Dealt to a028dfc8 
+Dealt to b2edc2ab 
+53d49fd2: folds
+bfcefa41: folds
+d4bd199b: folds
+a028dfc8: folds
+b2edc2ab: folds
+Hero: raises 300 to 500
+7159a291: raises 1,300 to 1,800
+8e025835: folds
+Hero: calls 1,300
+*** FLOP *** [5h 3s Qc]
+7159a291: checks
+Hero: bets 7,182 and is all-in
+7159a291: calls 7,182
+Hero: shows [6h 6s] (a pair of Sixes)
+7159a291: shows [Ks Kh] (a pair of Kings)
+*** TURN *** [5h 3s Qc] [8d]
+*** RIVER *** [5h 3s Qc 8d] [7s]
+*** SHOWDOWN ***
+7159a291 collected 18,364 from pot
+*** SUMMARY ***
+Total pot 18,364 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5h 3s Qc 8d 7s]
+Seat 1: Hero (button) showed [6h 6s] and lost with a pair of Sixes
+Seat 2: 7159a291 (small blind) showed [Ks Kh] and won (18,364) with a pair of Kings
+Seat 3: 8e025835 (big blind) folded before Flop
+Seat 4: 53d49fd2 folded before Flop
+Seat 5: bfcefa41 folded before Flop
+Seat 6: d4bd199b folded before Flop
+Seat 7: a028dfc8 folded before Flop
+Seat 8: b2edc2ab folded before Flop
+
+
+Poker Hand #TM5296230919: Tournament #244745689, 61-NLH: $8.88 Crazy Eights Asia [8-Max] Hold'em No Limit - Level6(100/200) - 2025/12/06 20:41:54
+Table '71' 8-max Seat #8 is the button
+Seat 1: Hero (9,132 in chips)
+Seat 2: 7159a291 (9,975 in chips)
+Seat 3: 8e025835 (14,833 in chips)
+Seat 4: 53d49fd2 (9,483 in chips)
+Seat 5: bfcefa41 (9,723 in chips)
+Seat 6: d4bd199b (7,018 in chips)
+Seat 7: a028dfc8 (19,281 in chips)
+Seat 8: b2edc2ab (32,569 in chips)
+d4bd199b: posts the ante 25
+b2edc2ab: posts the ante 25
+Hero: posts the ante 25
+53d49fd2: posts the ante 25
+8e025835: posts the ante 25
+a028dfc8: posts the ante 25
+bfcefa41: posts the ante 25
+7159a291: posts the ante 25
+Hero: posts small blind 100
+7159a291: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [Kh 2d]
+Dealt to 7159a291 
+Dealt to 8e025835 
+Dealt to 53d49fd2 
+Dealt to bfcefa41 
+Dealt to d4bd199b 
+Dealt to a028dfc8 
+Dealt to b2edc2ab 
+8e025835: folds
+53d49fd2: folds
+bfcefa41: raises 200 to 400
+d4bd199b: folds
+a028dfc8: calls 400
+b2edc2ab: raises 1,400 to 1,800
+Hero: folds
+7159a291: folds
+bfcefa41: raises 3,200 to 5,000
+a028dfc8: folds
+b2edc2ab: raises 13,625 to 18,625
+bfcefa41: calls 4,698 and is all-in
+Uncalled bet (8,927) returned to b2edc2ab
+b2edc2ab: shows [Js Jh]
+bfcefa41: shows [Qd Qs]
+*** FLOP *** [Ac 3d 5s]
+*** TURN *** [Ac 3d 5s] [5c]
+*** RIVER *** [Ac 3d 5s 5c] [8s]
+*** SHOWDOWN ***
+bfcefa41 collected 20,296 from pot
+*** SUMMARY ***
+Total pot 20,296 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ac 3d 5s 5c 8s]
+Seat 1: Hero (small blind) folded before Flop
+Seat 2: 7159a291 (big blind) folded before Flop
+Seat 3: 8e025835 folded before Flop
+Seat 4: 53d49fd2 folded before Flop
+Seat 5: bfcefa41 showed [Qd Qs] and won (20,296) with two pair, Queens and Fives
+Seat 6: d4bd199b folded before Flop
+Seat 7: a028dfc8 folded before Flop
+Seat 8: b2edc2ab (button) showed [Js Jh] and lost with two pair, Jacks and Fives
+
+
+Poker Hand #TM5296230884: Tournament #244745689, 61-NLH: $8.88 Crazy Eights Asia [8-Max] Hold'em No Limit - Level6(100/200) - 2025/12/06 20:40:22
+Table '71' 8-max Seat #7 is the button
+Seat 1: Hero (10,582 in chips)
+Seat 2: 7159a291 (10,000 in chips)
+Seat 3: 8e025835 (10,198 in chips)
+Seat 4: 53d49fd2 (9,508 in chips)
+Seat 5: bfcefa41 (9,748 in chips)
+Seat 6: d4bd199b (9,978 in chips)
+Seat 7: a028dfc8 (19,306 in chips)
+Seat 8: b2edc2ab (32,694 in chips)
+d4bd199b: posts the ante 25
+b2edc2ab: posts the ante 25
+Hero: posts the ante 25
+53d49fd2: posts the ante 25
+8e025835: posts the ante 25
+a028dfc8: posts the ante 25
+bfcefa41: posts the ante 25
+7159a291: posts the ante 25
+b2edc2ab: posts small blind 100
+Hero: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Hero [Ah Jh]
+Dealt to 7159a291 
+Dealt to 8e025835 
+Dealt to 53d49fd2 
+Dealt to bfcefa41 
+Dealt to d4bd199b 
+Dealt to a028dfc8 
+Dealt to b2edc2ab 
+7159a291: folds
+8e025835: raises 220 to 420
+53d49fd2: folds
+bfcefa41: folds
+d4bd199b: raises 1,005 to 1,425
+a028dfc8: folds
+b2edc2ab: folds
+Hero: calls 1,225
+8e025835: calls 1,005
+*** FLOP *** [2d 2h 8s]
+Hero: checks
+8e025835: checks
+d4bd199b: bets 1,510
+Hero: folds
+8e025835: raises 2,507 to 4,017
+d4bd199b: folds
+Uncalled bet (2,507) returned to 8e025835
+*** SHOWDOWN ***
+8e025835 collected 7,595 from pot
+*** SUMMARY ***
+Total pot 7,595 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2d 2h 8s]
+Seat 1: Hero (big blind) folded on the Flop
+Seat 2: 7159a291 folded before Flop
+Seat 3: 8e025835 won (7,595)
+Seat 4: 53d49fd2 folded before Flop
+Seat 5: bfcefa41 folded before Flop
+Seat 6: d4bd199b folded on the Flop
+Seat 7: a028dfc8 (button) folded before Flop
+Seat 8: b2edc2ab (small blind) folded before Flop
+
+
+Poker Hand #TM5296230868: Tournament #244745689, 61-NLH: $8.88 Crazy Eights Asia [8-Max] Hold'em No Limit - Level5(90/180) - 2025/12/06 20:39:40
+Table '71' 8-max Seat #6 is the button
+Seat 1: Hero (10,000 in chips)
+Seat 3: 8e025835 (10,220 in chips)
+Seat 4: 53d49fd2 (9,530 in chips)
+Seat 5: bfcefa41 (9,770 in chips)
+Seat 6: d4bd199b (10,000 in chips)
+Seat 7: a028dfc8 (19,418 in chips)
+Seat 8: b2edc2ab (33,076 in chips)
+d4bd199b: posts the ante 22
+b2edc2ab: posts the ante 22
+Hero: posts the ante 22
+53d49fd2: posts the ante 22
+8e025835: posts the ante 22
+a028dfc8: posts the ante 22
+bfcefa41: posts the ante 22
+a028dfc8: posts small blind 90
+b2edc2ab: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Hero [Ah Jc]
+Dealt to 8e025835 
+Dealt to 53d49fd2 
+Dealt to bfcefa41 
+Dealt to d4bd199b 
+Dealt to a028dfc8 
+Dealt to b2edc2ab 
+Hero: raises 180 to 360
+8e025835: folds
+53d49fd2: folds
+bfcefa41: folds
+d4bd199b: folds
+a028dfc8: folds
+b2edc2ab: calls 180
+*** FLOP *** [Qs Tc As]
+b2edc2ab: checks
+Hero: bets 378
+b2edc2ab: folds
+Uncalled bet (378) returned to Hero
+*** SHOWDOWN ***
+Hero collected 964 from pot
+*** SUMMARY ***
+Total pot 964 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qs Tc As]
+Seat 1: Hero won (964)
+Seat 3: 8e025835 folded before Flop
+Seat 4: 53d49fd2 folded before Flop
+Seat 5: bfcefa41 folded before Flop
+Seat 6: d4bd199b (button) folded before Flop
+Seat 7: a028dfc8 (small blind) folded before Flop
+Seat 8: b2edc2ab (big blind) folded on the Flop
+
+

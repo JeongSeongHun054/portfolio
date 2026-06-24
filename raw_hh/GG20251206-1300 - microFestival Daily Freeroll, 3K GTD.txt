@@ -1,0 +1,516 @@
+Poker Hand #TM5295617973: Tournament #244751576, microFestival: Daily Freeroll, $3K GTD Hold'em No Limit - Level2(60/120) - 2025/12/06 22:08:09
+Table '24' 8-max Seat #7 is the button
+Seat 1: 93d17daf (10,245 in chips)
+Seat 2: Hero (1,095 in chips)
+Seat 3: cadb8edd (11,485 in chips)
+Seat 4: adcf2b8d (17,495 in chips)
+Seat 5: f19706b6 (9,735 in chips)
+Seat 6: 70b39dfe (10,099 in chips)
+Seat 7: 89d1f0ee (9,665 in chips)
+Seat 8: f323617d (9,275 in chips)
+f19706b6: posts the ante 15
+adcf2b8d: posts the ante 15
+cadb8edd: posts the ante 15
+Hero: posts the ante 15
+70b39dfe: posts the ante 15
+89d1f0ee: posts the ante 15
+93d17daf: posts the ante 15
+f323617d: posts the ante 15
+f323617d: posts small blind 60
+93d17daf: posts big blind 120
+*** HOLE CARDS ***
+Dealt to 93d17daf 
+Dealt to Hero [5h 5d]
+Dealt to cadb8edd 
+Dealt to adcf2b8d 
+Dealt to f19706b6 
+Dealt to 70b39dfe 
+Dealt to 89d1f0ee 
+Dealt to f323617d 
+Hero: raises 960 to 1,080 and is all-in
+cadb8edd: folds
+adcf2b8d: calls 1,080
+f19706b6: folds
+70b39dfe: folds
+89d1f0ee: folds
+f323617d: calls 1,020
+93d17daf: folds
+*** FLOP *** [2d Ts 7c]
+f323617d: checks
+adcf2b8d: bets 3,480
+f323617d: folds
+Uncalled bet (3,480) returned to adcf2b8d
+adcf2b8d: shows [Jc Th] (a pair of Tens)
+Hero: shows [5h 5d] (a pair of Fives)
+*** TURN *** [2d Ts 7c] [2s]
+*** RIVER *** [2d Ts 7c 2s] [4c]
+*** SHOWDOWN ***
+adcf2b8d collected 3,480 from pot
+*** SUMMARY ***
+Total pot 3,480 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2d Ts 7c 2s 4c]
+Seat 1: 93d17daf (big blind) folded before Flop
+Seat 2: Hero showed [5h 5d] and lost with two pair, Fives and Twos
+Seat 3: cadb8edd folded before Flop
+Seat 4: adcf2b8d showed [Jc Th] and won (3,480) with two pair, Tens and Twos
+Seat 5: f19706b6 folded before Flop
+Seat 6: 70b39dfe folded before Flop
+Seat 7: 89d1f0ee (button) folded before Flop
+Seat 8: f323617d (small blind) folded on the Flop
+
+
+Poker Hand #TM5295617951: Tournament #244751576, microFestival: Daily Freeroll, $3K GTD Hold'em No Limit - Level2(60/120) - 2025/12/06 22:07:45
+Table '24' 8-max Seat #6 is the button
+Seat 1: 93d17daf (9,960 in chips)
+Seat 2: Hero (1,110 in chips)
+Seat 3: cadb8edd (11,500 in chips)
+Seat 4: adcf2b8d (17,510 in chips)
+Seat 5: f19706b6 (9,750 in chips)
+Seat 6: 70b39dfe (10,114 in chips)
+Seat 7: 89d1f0ee (9,740 in chips)
+Seat 8: f323617d (9,410 in chips)
+f19706b6: posts the ante 15
+adcf2b8d: posts the ante 15
+cadb8edd: posts the ante 15
+Hero: posts the ante 15
+70b39dfe: posts the ante 15
+89d1f0ee: posts the ante 15
+93d17daf: posts the ante 15
+f323617d: posts the ante 15
+89d1f0ee: posts small blind 60
+f323617d: posts big blind 120
+*** HOLE CARDS ***
+Dealt to 93d17daf 
+Dealt to Hero [8s 9c]
+Dealt to cadb8edd 
+Dealt to adcf2b8d 
+Dealt to f19706b6 
+Dealt to 70b39dfe 
+Dealt to 89d1f0ee 
+Dealt to f323617d 
+93d17daf: raises 120 to 240
+Hero: folds
+cadb8edd: folds
+adcf2b8d: folds
+f19706b6: folds
+70b39dfe: folds
+89d1f0ee: folds
+f323617d: folds
+Uncalled bet (120) returned to 93d17daf
+*** SHOWDOWN ***
+93d17daf collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 93d17daf collected (420)
+Seat 2: Hero folded before Flop
+Seat 3: cadb8edd folded before Flop
+Seat 4: adcf2b8d folded before Flop
+Seat 5: f19706b6 folded before Flop
+Seat 6: 70b39dfe (button) folded before Flop
+Seat 7: 89d1f0ee (small blind) folded before Flop
+Seat 8: f323617d (big blind) folded before Flop
+
+
+Poker Hand #TM5295617920: Tournament #244751576, microFestival: Daily Freeroll, $3K GTD Hold'em No Limit - Level2(60/120) - 2025/12/06 22:07:14
+Table '24' 8-max Seat #5 is the button
+Seat 1: 93d17daf (9,675 in chips)
+Seat 2: Hero (1,125 in chips)
+Seat 3: cadb8edd (11,515 in chips)
+Seat 4: adcf2b8d (17,525 in chips)
+Seat 5: f19706b6 (9,765 in chips)
+Seat 6: 70b39dfe (10,189 in chips)
+Seat 7: 89d1f0ee (9,875 in chips)
+Seat 8: f323617d (9,425 in chips)
+f19706b6: posts the ante 15
+adcf2b8d: posts the ante 15
+cadb8edd: posts the ante 15
+Hero: posts the ante 15
+70b39dfe: posts the ante 15
+89d1f0ee: posts the ante 15
+93d17daf: posts the ante 15
+f323617d: posts the ante 15
+70b39dfe: posts small blind 60
+89d1f0ee: posts big blind 120
+*** HOLE CARDS ***
+Dealt to 93d17daf 
+Dealt to Hero [5h 6d]
+Dealt to cadb8edd 
+Dealt to adcf2b8d 
+Dealt to f19706b6 
+Dealt to 70b39dfe 
+Dealt to 89d1f0ee 
+Dealt to f323617d 
+f323617d: folds
+93d17daf: raises 360 to 480
+Hero: folds
+cadb8edd: folds
+adcf2b8d: folds
+f19706b6: folds
+70b39dfe: folds
+89d1f0ee: folds
+Uncalled bet (360) returned to 93d17daf
+*** SHOWDOWN ***
+93d17daf collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: 93d17daf collected (420)
+Seat 2: Hero folded before Flop
+Seat 3: cadb8edd folded before Flop
+Seat 4: adcf2b8d folded before Flop
+Seat 5: f19706b6 (button) folded before Flop
+Seat 6: 70b39dfe (small blind) folded before Flop
+Seat 7: 89d1f0ee (big blind) folded before Flop
+Seat 8: f323617d folded before Flop
+
+
+Poker Hand #TM5295617858: Tournament #244751576, microFestival: Daily Freeroll, $3K GTD Hold'em No Limit - Level2(60/120) - 2025/12/06 22:06:14
+Table '24' 8-max Seat #4 is the button
+Seat 1: 93d17daf (9,690 in chips)
+Seat 2: Hero (1,140 in chips)
+Seat 3: cadb8edd (10,000 in chips)
+Seat 4: adcf2b8d (18,770 in chips)
+Seat 5: f19706b6 (9,840 in chips)
+Seat 6: 70b39dfe (10,324 in chips)
+Seat 7: 89d1f0ee (9,890 in chips)
+Seat 8: f323617d (9,440 in chips)
+f19706b6: posts the ante 15
+adcf2b8d: posts the ante 15
+cadb8edd: posts the ante 15
+Hero: posts the ante 15
+70b39dfe: posts the ante 15
+89d1f0ee: posts the ante 15
+93d17daf: posts the ante 15
+f323617d: posts the ante 15
+f19706b6: posts small blind 60
+70b39dfe: posts big blind 120
+*** HOLE CARDS ***
+Dealt to 93d17daf 
+Dealt to Hero [4s Kh]
+Dealt to cadb8edd 
+Dealt to adcf2b8d 
+Dealt to f19706b6 
+Dealt to 70b39dfe 
+Dealt to 89d1f0ee 
+Dealt to f323617d 
+89d1f0ee: folds
+f323617d: folds
+93d17daf: folds
+Hero: folds
+cadb8edd: raises 420 to 540
+adcf2b8d: calls 540
+f19706b6: folds
+70b39dfe: folds
+*** FLOP *** [5s 3c 5d]
+cadb8edd: bets 690
+adcf2b8d: calls 690
+*** TURN *** [5s 3c 5d] [9h]
+cadb8edd: bets 1,380
+adcf2b8d: folds
+Uncalled bet (1,380) returned to cadb8edd
+*** SHOWDOWN ***
+cadb8edd collected 2,760 from pot
+*** SUMMARY ***
+Total pot 2,760 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [5s 3c 5d 9h]
+Seat 1: 93d17daf folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: cadb8edd won (2,760)
+Seat 4: adcf2b8d (button) folded on the Turn
+Seat 5: f19706b6 (small blind) folded before Flop
+Seat 6: 70b39dfe (big blind) folded before Flop
+Seat 7: 89d1f0ee folded before Flop
+Seat 8: f323617d folded before Flop
+
+
+Poker Hand #TM5295617747: Tournament #244751576, microFestival: Daily Freeroll, $3K GTD Hold'em No Limit - Level1(50/100) - 2025/12/06 22:04:12
+Table '24' 8-max Seat #2 is the button
+Seat 1: 93d17daf (9,802 in chips)
+Seat 2: Hero (1,152 in chips)
+Seat 4: adcf2b8d (18,882 in chips)
+Seat 5: f19706b6 (9,952 in chips)
+Seat 6: 70b39dfe (9,952 in chips)
+Seat 7: 89d1f0ee (9,902 in chips)
+Seat 8: f323617d (9,452 in chips)
+f19706b6: posts the ante 12
+adcf2b8d: posts the ante 12
+Hero: posts the ante 12
+70b39dfe: posts the ante 12
+89d1f0ee: posts the ante 12
+93d17daf: posts the ante 12
+f323617d: posts the ante 12
+adcf2b8d: posts small blind 50
+f19706b6: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 93d17daf 
+Dealt to Hero [5d 2c]
+Dealt to adcf2b8d 
+Dealt to f19706b6 
+Dealt to 70b39dfe 
+Dealt to 89d1f0ee 
+Dealt to f323617d 
+70b39dfe: calls 100
+89d1f0ee: folds
+f323617d: folds
+93d17daf: calls 100
+Hero: folds
+adcf2b8d: calls 50
+f19706b6: checks
+*** FLOP *** [2s Kh 6d]
+adcf2b8d: checks
+f19706b6: checks
+70b39dfe: checks
+93d17daf: checks
+*** TURN *** [2s Kh 6d] [4s]
+adcf2b8d: checks
+f19706b6: checks
+70b39dfe: bets 280
+93d17daf: folds
+adcf2b8d: folds
+f19706b6: folds
+Uncalled bet (280) returned to 70b39dfe
+*** SHOWDOWN ***
+70b39dfe collected 484 from pot
+*** SUMMARY ***
+Total pot 484 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2s Kh 6d 4s]
+Seat 1: 93d17daf folded on the Turn
+Seat 2: Hero (button) folded before Flop
+Seat 4: adcf2b8d (small blind) folded on the Turn
+Seat 5: f19706b6 (big blind) folded on the Turn
+Seat 6: 70b39dfe won (484)
+Seat 7: 89d1f0ee folded before Flop
+Seat 8: f323617d folded before Flop
+
+
+Poker Hand #TM5295617713: Tournament #244751576, microFestival: Daily Freeroll, $3K GTD Hold'em No Limit - Level1(50/100) - 2025/12/06 22:03:36
+Table '24' 8-max Seat #1 is the button
+Seat 1: 93d17daf (9,814 in chips)
+Seat 2: Hero (1,214 in chips)
+Seat 4: adcf2b8d (19,094 in chips)
+Seat 5: f19706b6 (9,964 in chips)
+Seat 6: 70b39dfe (9,964 in chips)
+Seat 7: 89d1f0ee (9,914 in chips)
+Seat 8: f323617d (9,130 in chips)
+f19706b6: posts the ante 12
+adcf2b8d: posts the ante 12
+Hero: posts the ante 12
+70b39dfe: posts the ante 12
+89d1f0ee: posts the ante 12
+93d17daf: posts the ante 12
+f323617d: posts the ante 12
+Hero: posts small blind 50
+adcf2b8d: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 93d17daf 
+Dealt to Hero [2c 4s]
+Dealt to adcf2b8d 
+Dealt to f19706b6 
+Dealt to 70b39dfe 
+Dealt to 89d1f0ee 
+Dealt to f323617d 
+f19706b6: folds
+70b39dfe: folds
+89d1f0ee: folds
+f323617d: raises 100 to 200
+93d17daf: folds
+Hero: folds
+adcf2b8d: calls 100
+*** FLOP *** [Qh 3s 6c]
+adcf2b8d: checks
+f323617d: bets 200
+adcf2b8d: folds
+Uncalled bet (200) returned to f323617d
+*** SHOWDOWN ***
+f323617d collected 534 from pot
+*** SUMMARY ***
+Total pot 534 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Qh 3s 6c]
+Seat 1: 93d17daf (button) folded before Flop
+Seat 2: Hero (small blind) folded before Flop
+Seat 4: adcf2b8d (big blind) folded on the Flop
+Seat 5: f19706b6 folded before Flop
+Seat 6: 70b39dfe folded before Flop
+Seat 7: 89d1f0ee folded before Flop
+Seat 8: f323617d won (534)
+
+
+Poker Hand #TM5295617652: Tournament #244751576, microFestival: Daily Freeroll, $3K GTD Hold'em No Limit - Level1(50/100) - 2025/12/06 22:02:18
+Table '24' 8-max Seat #8 is the button
+Seat 1: 93d17daf (9,876 in chips)
+Seat 2: Hero (546 in chips)
+Seat 3: cacf9b28 (10,918 in chips)
+Seat 4: adcf2b8d (19,106 in chips)
+Seat 5: f19706b6 (9,976 in chips)
+Seat 6: 70b39dfe (9,976 in chips)
+Seat 7: 89d1f0ee (9,926 in chips)
+Seat 8: f323617d (9,676 in chips)
+f19706b6: posts the ante 12
+adcf2b8d: posts the ante 12
+Hero: posts the ante 12
+70b39dfe: posts the ante 12
+cacf9b28: posts the ante 12
+89d1f0ee: posts the ante 12
+f323617d: posts the ante 12
+93d17daf: posts the ante 12
+93d17daf: posts small blind 50
+Hero: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 93d17daf 
+Dealt to Hero [As Qs]
+Dealt to cacf9b28 
+Dealt to adcf2b8d 
+Dealt to f19706b6 
+Dealt to 70b39dfe 
+Dealt to 89d1f0ee 
+Dealt to f323617d 
+cacf9b28: folds
+adcf2b8d: folds
+f19706b6: folds
+70b39dfe: folds
+89d1f0ee: folds
+f323617d: raises 100 to 200
+93d17daf: folds
+Hero: raises 334 to 534 and is all-in
+f323617d: calls 334
+Hero: shows [As Qs]
+f323617d: shows [Kd Ah]
+*** FLOP *** [Jh 7d Qc]
+*** TURN *** [Jh 7d Qc] [Qd]
+*** RIVER *** [Jh 7d Qc Qd] [5h]
+*** SHOWDOWN ***
+Hero collected 1,214 from pot
+*** SUMMARY ***
+Total pot 1,214 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Jh 7d Qc Qd 5h]
+Seat 1: 93d17daf (small blind) folded before Flop
+Seat 2: Hero (big blind) showed [As Qs] and won (1,214) with three of a kind, Queens
+Seat 3: cacf9b28 folded before Flop
+Seat 4: adcf2b8d folded before Flop
+Seat 5: f19706b6 folded before Flop
+Seat 6: 70b39dfe folded before Flop
+Seat 7: 89d1f0ee folded before Flop
+Seat 8: f323617d (button) showed [Kd Ah] and lost with a pair of Queens
+
+
+Poker Hand #TM5295617608: Tournament #244751576, microFestival: Daily Freeroll, $3K GTD Hold'em No Limit - Level1(50/100) - 2025/12/06 22:01:25
+Table '24' 8-max Seat #7 is the button
+Seat 1: 93d17daf (9,988 in chips)
+Seat 2: Hero (9,988 in chips)
+Seat 3: cacf9b28 (10,930 in chips)
+Seat 4: adcf2b8d (9,442 in chips)
+Seat 5: f19706b6 (9,988 in chips)
+Seat 6: 70b39dfe (9,988 in chips)
+Seat 7: 89d1f0ee (9,938 in chips)
+Seat 8: f323617d (9,738 in chips)
+f19706b6: posts the ante 12
+adcf2b8d: posts the ante 12
+Hero: posts the ante 12
+70b39dfe: posts the ante 12
+cacf9b28: posts the ante 12
+89d1f0ee: posts the ante 12
+93d17daf: posts the ante 12
+f323617d: posts the ante 12
+f323617d: posts small blind 50
+93d17daf: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 93d17daf 
+Dealt to Hero [Ad Jh]
+Dealt to cacf9b28 
+Dealt to adcf2b8d 
+Dealt to f19706b6 
+Dealt to 70b39dfe 
+Dealt to 89d1f0ee 
+Dealt to f323617d 
+Hero: raises 100 to 200
+cacf9b28: folds
+adcf2b8d: raises 9,230 to 9,430 and is all-in
+f19706b6: folds
+70b39dfe: folds
+89d1f0ee: folds
+f323617d: folds
+93d17daf: folds
+Hero: calls 9,230
+adcf2b8d: shows [Qd Tc]
+Hero: shows [Ad Jh]
+*** FLOP *** [Ts 5c 4d]
+*** TURN *** [Ts 5c 4d] [Kh]
+*** RIVER *** [Ts 5c 4d Kh] [4s]
+*** SHOWDOWN ***
+adcf2b8d collected 19,106 from pot
+*** SUMMARY ***
+Total pot 19,106 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ts 5c 4d Kh 4s]
+Seat 1: 93d17daf (big blind) folded before Flop
+Seat 2: Hero showed [Ad Jh] and lost with a pair of Fours
+Seat 3: cacf9b28 folded before Flop
+Seat 4: adcf2b8d showed [Qd Tc] and won (19,106) with two pair, Tens and Fours
+Seat 5: f19706b6 folded before Flop
+Seat 6: 70b39dfe folded before Flop
+Seat 7: 89d1f0ee (button) folded before Flop
+Seat 8: f323617d (small blind) folded before Flop
+
+
+Poker Hand #TM5295617583: Tournament #244751576, microFestival: Daily Freeroll, $3K GTD Hold'em No Limit - Level1(50/100) - 2025/12/06 22:00:02
+Table '24' 8-max Seat #6 is the button
+Seat 1: 93d17daf (10,000 in chips)
+Seat 2: Hero (10,000 in chips)
+Seat 3: cacf9b28 (10,000 in chips)
+Seat 4: adcf2b8d (10,000 in chips)
+Seat 5: f19706b6 (10,000 in chips)
+Seat 6: 70b39dfe (10,000 in chips)
+Seat 7: 89d1f0ee (10,000 in chips)
+Seat 8: f323617d (10,000 in chips)
+f19706b6: posts the ante 12
+adcf2b8d: posts the ante 12
+Hero: posts the ante 12
+70b39dfe: posts the ante 12
+cacf9b28: posts the ante 12
+89d1f0ee: posts the ante 12
+93d17daf: posts the ante 12
+f323617d: posts the ante 12
+89d1f0ee: posts small blind 50
+f323617d: posts big blind 100
+*** HOLE CARDS ***
+Dealt to 93d17daf 
+Dealt to Hero [Ts Qd]
+Dealt to cacf9b28 
+Dealt to adcf2b8d 
+Dealt to f19706b6 
+Dealt to 70b39dfe 
+Dealt to 89d1f0ee 
+Dealt to f323617d 
+93d17daf: folds
+Hero: folds
+cacf9b28: raises 150 to 250
+adcf2b8d: calls 250
+f19706b6: folds
+70b39dfe: folds
+89d1f0ee: folds
+f323617d: calls 150
+*** FLOP *** [4c 2d Ks]
+f323617d: checks
+cacf9b28: bets 296
+adcf2b8d: calls 296
+f323617d: folds
+*** TURN *** [4c 2d Ks] [Ah]
+cacf9b28: checks
+adcf2b8d: checks
+*** RIVER *** [4c 2d Ks Ah] [6h]
+cacf9b28: bets 600
+adcf2b8d: folds
+Uncalled bet (600) returned to cacf9b28
+*** SHOWDOWN ***
+cacf9b28 collected 1,488 from pot
+*** SUMMARY ***
+Total pot 1,488 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [4c 2d Ks Ah 6h]
+Seat 1: 93d17daf folded before Flop
+Seat 2: Hero folded before Flop
+Seat 3: cacf9b28 won (1,488)
+Seat 4: adcf2b8d folded on the River
+Seat 5: f19706b6 folded before Flop
+Seat 6: 70b39dfe (button) folded before Flop
+Seat 7: 89d1f0ee (small blind) folded before Flop
+Seat 8: f323617d (big blind) folded on the Flop
+
+

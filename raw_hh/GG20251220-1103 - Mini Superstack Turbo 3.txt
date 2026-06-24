@@ -1,0 +1,406 @@
+Poker Hand #TM5354445870: Tournament #249528270, Mini Superstack Turbo $3 Hold'em No Limit - Level8(300/600) - 2025/12/20 20:07:58
+Table '32' 8-max Seat #2 is the button
+Seat 1: Hero (48,695 in chips)
+Seat 2: 6048473d (50,315 in chips)
+Seat 4: ad5b474e (56,780 in chips)
+Seat 5: 4200f37b (49,222 in chips)
+Seat 6: cdf03d8 (54,150 in chips)
+Seat 7: 9514b0eb (85,100 in chips)
+Seat 8: 4f50b6c5 (63,580 in chips)
+9514b0eb: posts the ante 75
+ad5b474e: posts the ante 75
+6048473d: posts the ante 75
+Hero: posts the ante 75
+4f50b6c5: posts the ante 75
+cdf03d8: posts the ante 75
+4200f37b: posts the ante 75
+ad5b474e: posts small blind 300
+4200f37b: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [Ts As]
+Dealt to 6048473d 
+Dealt to ad5b474e 
+Dealt to 4200f37b 
+Dealt to cdf03d8 
+Dealt to 9514b0eb 
+Dealt to 4f50b6c5 
+cdf03d8: folds
+9514b0eb: folds
+4f50b6c5: folds
+Hero: raises 600 to 1,200
+6048473d: calls 1,200
+ad5b474e: calls 900
+4200f37b: raises 2,663 to 3,863
+Hero: calls 2,663
+6048473d: calls 2,663
+ad5b474e: folds
+*** FLOP *** [3s 8d 5s]
+4200f37b: bets 4,394
+Hero: calls 4,394
+6048473d: calls 4,394
+*** TURN *** [3s 8d 5s] [Jd]
+4200f37b: checks
+Hero: checks
+6048473d: bets 13,248
+4200f37b: folds
+Hero: raises 27,115 to 40,363 and is all-in
+6048473d: calls 27,115
+Hero: shows [Ts As] (Ace high)
+6048473d: shows [4c 4s] (a pair of Fours)
+*** RIVER *** [3s 8d 5s Jd] [7c]
+ad5b474e: shows [Js] (a pair of Jacks)
+*** SHOWDOWN ***
+6048473d collected 107,222 from pot
+*** SUMMARY ***
+Total pot 107,222 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [3s 8d 5s Jd 7c]
+Seat 1: Hero showed [Ts As] and lost with Ace high
+Seat 2: 6048473d (button) showed [4c 4s] and won (107,222) with a pair of Fours
+Seat 4: ad5b474e (small blind) folded before Flop
+Seat 5: 4200f37b (big blind) folded on the Turn
+Seat 6: cdf03d8 folded before Flop
+Seat 7: 9514b0eb folded before Flop
+Seat 8: 4f50b6c5 folded before Flop
+
+
+Poker Hand #TM5354445865: Tournament #249528270, Mini Superstack Turbo $3 Hold'em No Limit - Level8(300/600) - 2025/12/20 20:07:21
+Table '32' 8-max Seat #1 is the button
+Seat 1: Hero (48,770 in chips)
+Seat 2: 6048473d (50,690 in chips)
+Seat 4: ad5b474e (56,030 in chips)
+Seat 5: 4200f37b (49,297 in chips)
+Seat 6: cdf03d8 (54,225 in chips)
+Seat 7: 9514b0eb (85,175 in chips)
+Seat 8: 4f50b6c5 (63,655 in chips)
+9514b0eb: posts the ante 75
+ad5b474e: posts the ante 75
+Hero: posts the ante 75
+6048473d: posts the ante 75
+4f50b6c5: posts the ante 75
+cdf03d8: posts the ante 75
+4200f37b: posts the ante 75
+6048473d: posts small blind 300
+ad5b474e: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [2s 9c]
+Dealt to 6048473d 
+Dealt to ad5b474e 
+Dealt to 4200f37b 
+Dealt to cdf03d8 
+Dealt to 9514b0eb 
+Dealt to 4f50b6c5 
+4200f37b: folds
+cdf03d8: folds
+9514b0eb: folds
+4f50b6c5: folds
+Hero: folds
+6048473d: folds
+Uncalled bet (300) returned to ad5b474e
+*** SHOWDOWN ***
+ad5b474e collected 1,125 from pot
+*** SUMMARY ***
+Total pot 1,125 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (button) folded before Flop
+Seat 2: 6048473d (small blind) folded before Flop
+Seat 4: ad5b474e (big blind) collected (1,125)
+Seat 5: 4200f37b folded before Flop
+Seat 6: cdf03d8 folded before Flop
+Seat 7: 9514b0eb folded before Flop
+Seat 8: 4f50b6c5 folded before Flop
+
+
+Poker Hand #TM5354445861: Tournament #249528270, Mini Superstack Turbo $3 Hold'em No Limit - Level8(300/600) - 2025/12/20 20:06:49
+Table '32' 8-max Seat #8 is the button
+Seat 1: Hero (49,145 in chips)
+Seat 2: 6048473d (49,865 in chips)
+Seat 3: f1547ebf (88,508 in chips)
+Seat 4: ad5b474e (56,105 in chips)
+Seat 5: 4200f37b (49,372 in chips)
+Seat 6: cdf03d8 (54,300 in chips)
+Seat 7: 9514b0eb (85,250 in chips)
+Seat 8: 4f50b6c5 (63,730 in chips)
+9514b0eb: posts the ante 75
+ad5b474e: posts the ante 75
+6048473d: posts the ante 75
+Hero: posts the ante 75
+f1547ebf: posts the ante 75
+4f50b6c5: posts the ante 75
+cdf03d8: posts the ante 75
+4200f37b: posts the ante 75
+Hero: posts small blind 300
+6048473d: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [9c Jd]
+Dealt to 6048473d 
+Dealt to f1547ebf 
+Dealt to ad5b474e 
+Dealt to 4200f37b 
+Dealt to cdf03d8 
+Dealt to 9514b0eb 
+Dealt to 4f50b6c5 
+f1547ebf: folds
+ad5b474e: folds
+4200f37b: folds
+cdf03d8: folds
+9514b0eb: folds
+4f50b6c5: folds
+Hero: folds
+Uncalled bet (300) returned to 6048473d
+*** SHOWDOWN ***
+6048473d collected 1,200 from pot
+*** SUMMARY ***
+Total pot 1,200 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero (small blind) folded before Flop
+Seat 2: 6048473d (big blind) collected (1,200)
+Seat 3: f1547ebf folded before Flop
+Seat 4: ad5b474e folded before Flop
+Seat 5: 4200f37b folded before Flop
+Seat 6: cdf03d8 folded before Flop
+Seat 7: 9514b0eb folded before Flop
+Seat 8: 4f50b6c5 (button) folded before Flop
+
+
+Poker Hand #TM5354445850: Tournament #249528270, Mini Superstack Turbo $3 Hold'em No Limit - Level8(300/600) - 2025/12/20 20:05:48
+Table '32' 8-max Seat #7 is the button
+Seat 1: Hero (49,820 in chips)
+Seat 2: 6048473d (49,940 in chips)
+Seat 3: f1547ebf (88,083 in chips)
+Seat 4: ad5b474e (55,680 in chips)
+Seat 5: 4200f37b (48,947 in chips)
+Seat 6: cdf03d8 (54,375 in chips)
+Seat 7: 9514b0eb (85,325 in chips)
+Seat 8: 4f50b6c5 (64,105 in chips)
+9514b0eb: posts the ante 75
+ad5b474e: posts the ante 75
+6048473d: posts the ante 75
+Hero: posts the ante 75
+f1547ebf: posts the ante 75
+cdf03d8: posts the ante 75
+4f50b6c5: posts the ante 75
+4200f37b: posts the ante 75
+4f50b6c5: posts small blind 300
+Hero: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Hero [7c Jd]
+Dealt to 6048473d 
+Dealt to f1547ebf 
+Dealt to ad5b474e 
+Dealt to 4200f37b 
+Dealt to cdf03d8 
+Dealt to 9514b0eb 
+Dealt to 4f50b6c5 
+6048473d: folds
+f1547ebf: raises 720 to 1,320
+ad5b474e: calls 1,320
+4200f37b: calls 1,320
+cdf03d8: folds
+9514b0eb: folds
+4f50b6c5: folds
+Hero: folds
+*** FLOP *** [6h 2h Qh]
+f1547ebf: checks
+ad5b474e: checks
+4200f37b: checks
+*** TURN *** [6h 2h Qh] [Ah]
+f1547ebf: checks
+ad5b474e: checks
+4200f37b: checks
+*** RIVER *** [6h 2h Qh Ah] [4h]
+f1547ebf: checks
+ad5b474e: checks
+4200f37b: checks
+f1547ebf: shows [Kd Tc] (a flush Ace high)
+ad5b474e: shows [7d Ac] (a flush Ace high)
+4200f37b: shows [8c Ad] (a flush Ace high)
+*** SHOWDOWN ***
+4200f37b collected 1,820 from pot
+f1547ebf collected 1,820 from pot
+ad5b474e collected 1,820 from pot
+*** SUMMARY ***
+Total pot 5,460 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [6h 2h Qh Ah 4h]
+Seat 1: Hero (big blind) folded before Flop
+Seat 2: 6048473d folded before Flop
+Seat 3: f1547ebf showed [Kd Tc] and won (1,820) with a flush Ace high
+Seat 4: ad5b474e showed [7d Ac] and won (1,820) with a flush Ace high
+Seat 5: 4200f37b showed [8c Ad] and won (1,820) with a flush Ace high
+Seat 6: cdf03d8 folded before Flop
+Seat 7: 9514b0eb (button) folded before Flop
+Seat 8: 4f50b6c5 (small blind) folded before Flop
+
+
+Poker Hand #TM5354445838: Tournament #249528270, Mini Superstack Turbo $3 Hold'em No Limit - Level7(250/500) - 2025/12/20 20:04:36
+Table '32' 8-max Seat #6 is the button
+Seat 1: Hero (49,880 in chips)
+Seat 2: 6048473d (50,000 in chips)
+Seat 3: f1547ebf (88,143 in chips)
+Seat 4: ad5b474e (55,740 in chips)
+Seat 5: 4200f37b (49,007 in chips)
+Seat 6: cdf03d8 (54,435 in chips)
+Seat 7: 9514b0eb (86,885 in chips)
+Seat 8: 4f50b6c5 (62,185 in chips)
+9514b0eb: posts the ante 60
+ad5b474e: posts the ante 60
+6048473d: posts the ante 60
+Hero: posts the ante 60
+f1547ebf: posts the ante 60
+cdf03d8: posts the ante 60
+4f50b6c5: posts the ante 60
+4200f37b: posts the ante 60
+9514b0eb: posts small blind 250
+4f50b6c5: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Hero [8h 6d]
+Dealt to 6048473d 
+Dealt to f1547ebf 
+Dealt to ad5b474e 
+Dealt to 4200f37b 
+Dealt to cdf03d8 
+Dealt to 9514b0eb 
+Dealt to 4f50b6c5 
+Hero: folds
+6048473d: folds
+f1547ebf: folds
+ad5b474e: folds
+4200f37b: folds
+cdf03d8: folds
+9514b0eb: calls 250
+4f50b6c5: raises 1,000 to 1,500
+9514b0eb: calls 1,000
+*** FLOP *** [Ks 7h 9s]
+9514b0eb: checks
+4f50b6c5: checks
+*** TURN *** [Ks 7h 9s] [8s]
+9514b0eb: checks
+4f50b6c5: checks
+*** RIVER *** [Ks 7h 9s 8s] [Tc]
+9514b0eb: checks
+4f50b6c5: bets 2,610
+9514b0eb: folds
+Uncalled bet (2,610) returned to 4f50b6c5
+*** SHOWDOWN ***
+4f50b6c5 collected 3,480 from pot
+*** SUMMARY ***
+Total pot 3,480 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [Ks 7h 9s 8s Tc]
+Seat 1: Hero folded before Flop
+Seat 2: 6048473d folded before Flop
+Seat 3: f1547ebf folded before Flop
+Seat 4: ad5b474e folded before Flop
+Seat 5: 4200f37b folded before Flop
+Seat 6: cdf03d8 (button) folded before Flop
+Seat 7: 9514b0eb (small blind) folded on the River
+Seat 8: 4f50b6c5 (big blind) won (3,480)
+
+
+Poker Hand #TM5354445828: Tournament #249528270, Mini Superstack Turbo $3 Hold'em No Limit - Level7(250/500) - 2025/12/20 20:03:34
+Table '32' 8-max Seat #5 is the button
+Seat 1: Hero (49,940 in chips)
+Seat 3: f1547ebf (88,203 in chips)
+Seat 4: ad5b474e (56,800 in chips)
+Seat 5: 4200f37b (43,523 in chips)
+Seat 6: cdf03d8 (57,119 in chips)
+Seat 7: 9514b0eb (87,445 in chips)
+Seat 8: 4f50b6c5 (63,245 in chips)
+9514b0eb: posts the ante 60
+ad5b474e: posts the ante 60
+Hero: posts the ante 60
+f1547ebf: posts the ante 60
+4f50b6c5: posts the ante 60
+cdf03d8: posts the ante 60
+4200f37b: posts the ante 60
+cdf03d8: posts small blind 250
+9514b0eb: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Hero [Kd 6s]
+Dealt to f1547ebf 
+Dealt to ad5b474e 
+Dealt to 4200f37b 
+Dealt to cdf03d8 
+Dealt to 9514b0eb 
+Dealt to 4f50b6c5 
+4f50b6c5: raises 500 to 1,000
+Hero: folds
+f1547ebf: folds
+ad5b474e: calls 1,000
+4200f37b: calls 1,000
+cdf03d8: calls 750
+9514b0eb: folds
+*** FLOP *** [2h 5h Qh]
+cdf03d8: checks
+4f50b6c5: checks
+ad5b474e: checks
+4200f37b: bets 1,624
+cdf03d8: calls 1,624
+4f50b6c5: folds
+ad5b474e: folds
+*** TURN *** [2h 5h Qh] [6d]
+cdf03d8: checks
+4200f37b: bets 6,535
+cdf03d8: folds
+Uncalled bet (6,535) returned to 4200f37b
+*** SHOWDOWN ***
+4200f37b collected 8,168 from pot
+*** SUMMARY ***
+Total pot 8,168 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Board [2h 5h Qh 6d]
+Seat 1: Hero folded before Flop
+Seat 3: f1547ebf folded before Flop
+Seat 4: ad5b474e folded on the Flop
+Seat 5: 4200f37b (button) won (8,168)
+Seat 6: cdf03d8 (small blind) folded on the Turn
+Seat 7: 9514b0eb (big blind) folded before Flop
+Seat 8: 4f50b6c5 folded on the Flop
+
+
+Poker Hand #TM5354445824: Tournament #249528270, Mini Superstack Turbo $3 Hold'em No Limit - Level7(250/500) - 2025/12/20 20:03:04
+Table '32' 8-max Seat #4 is the button
+Seat 1: Hero (50,000 in chips)
+Seat 2: 326a07f4 (68,765 in chips)
+Seat 3: f1547ebf (88,263 in chips)
+Seat 4: ad5b474e (56,860 in chips)
+Seat 5: 4200f37b (43,833 in chips)
+Seat 6: cdf03d8 (56,449 in chips)
+Seat 7: 9514b0eb (87,505 in chips)
+Seat 8: 4f50b6c5 (63,305 in chips)
+9514b0eb: posts the ante 60
+ad5b474e: posts the ante 60
+Hero: posts the ante 60
+f1547ebf: posts the ante 60
+4f50b6c5: posts the ante 60
+cdf03d8: posts the ante 60
+4200f37b: posts the ante 60
+326a07f4: posts the ante 60
+4200f37b: posts small blind 250
+cdf03d8: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Hero [7s 6c]
+Dealt to 326a07f4 
+Dealt to f1547ebf 
+Dealt to ad5b474e 
+Dealt to 4200f37b 
+Dealt to cdf03d8 
+Dealt to 9514b0eb 
+Dealt to 4f50b6c5 
+9514b0eb: folds
+4f50b6c5: folds
+Hero: folds
+326a07f4: folds
+f1547ebf: folds
+ad5b474e: folds
+4200f37b: folds
+Uncalled bet (250) returned to cdf03d8
+*** SHOWDOWN ***
+cdf03d8 collected 980 from pot
+*** SUMMARY ***
+Total pot 980 | Rake 0 | Jackpot 0 | Bingo 0 | Fortune 0 | Tax 0
+Seat 1: Hero folded before Flop
+Seat 2: 326a07f4 folded before Flop
+Seat 3: f1547ebf folded before Flop
+Seat 4: ad5b474e (button) folded before Flop
+Seat 5: 4200f37b (small blind) folded before Flop
+Seat 6: cdf03d8 (big blind) collected (980)
+Seat 7: 9514b0eb folded before Flop
+Seat 8: 4f50b6c5 folded before Flop
+
+
