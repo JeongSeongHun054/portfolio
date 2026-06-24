@@ -13,19 +13,19 @@ import poker_app
 
 # 1. 페이지 초기 설정 (최초 1회만 호출 가능)
 st.set_page_config(
-    page_title="정성훈 | 현대오토에버 DE/DS 포트폴리오",
+    page_title="정성훈 | 데이터 엔지니어링 & 사이언스 포트폴리오",
     page_icon="💼",
     layout="wide",
     initial_sidebar_state="collapsed",
 )
 
-# 2. 프리미엄 다크 테마 고정 설정 (Hyundai Modern Slate Theme)
+# 2. 프리미엄 다크 테마 고정 설정 (Premium Slate Dark Theme)
 BG_COLOR = "#09090b"       # Deep Slate Black
 CARD_BG_COLOR = "#16161a"  # Glassmorphism Dark Navy
 BORDER_COLOR = "#27272a"   # Slate Grey Border
 TEXT_WHITE = "#fafafa"
 TEXT_MUTED = "#a1a1aa"     # Muted Slate Grey
-ACCENT_BLUE = "#3b82f6"    # Hyundai Active Blue
+ACCENT_BLUE = "#3b82f6"    # Active Blue
 ACCENT_GREEN = "#10b981"   # Emerald Green (DS/Success)
 ACCENT_ORANGE = "#f59e0b"  # Amber (Highlight)
 
@@ -165,24 +165,24 @@ st.markdown(f"""
 </style>
 """, unsafe_allow_html=True)
 
-# 3. 헬스체크 및 헤더 컴포넌트
+# 3. 헤더 컴포넌트 (기술 포트폴리오 맞춤 리디자인)
 head_left, head_right = st.columns([8, 2])
 with head_left:
     st.markdown(f"""
     <div style="margin-bottom: 1.5rem;">
-        <span style="font-size: 0.8rem; font-weight: 700; color: {ACCENT_BLUE}; text-transform: uppercase; letter-spacing: 0.1em;">HYUNDAI AUTOEVER PORTFOLIO PORTAL</span>
-        <h1 style="margin: 5px 0 0 0; font-size: 2.5rem; font-weight: 800; color: {TEXT_WHITE}; letter-spacing: -0.02em;">데이터로 가치를 연결하는 엔지니어</h1>
+        <span style="font-size: 0.8rem; font-weight: 700; color: {ACCENT_BLUE}; text-transform: uppercase; letter-spacing: 0.1em;">DATA ENGINEERING & DATA SCIENCE INTEGRATED PORTFOLIO</span>
+        <h1 style="margin: 5px 0 0 0; font-size: 2.3rem; font-weight: 800; color: {TEXT_WHITE}; letter-spacing: -0.02em;">비정형 로그 기반 데이터 엔지니어링 & 사이언스 통합 플랫폼</h1>
     </div>
     """, unsafe_allow_html=True)
 with head_right:
     st.markdown(f"""
     <div style="text-align: right; margin-top: 10px;">
-        <span class="badge badge-blue" style="font-size: 0.9rem; padding: 6px 14px;">1지망: 데이터 엔지니어링</span><br>
-        <span class="badge badge-green" style="font-size: 0.9rem; padding: 6px 14px; margin-top: 5px;">2지망: 데이터 사이언스</span>
+        <span class="badge badge-blue" style="font-size: 0.85rem; padding: 5px 12px;">Data Engineering</span><br>
+        <span class="badge badge-green" style="font-size: 0.85rem; padding: 5px 12px; margin-top: 5px;">Data Science</span>
     </div>
     """, unsafe_allow_html=True)
 
-# 4. 메인 탭 네비게이션 정의 (인사팀 맞춤 구성)
+# 4. 메인 탭 네비게이션 정의 (포트폴리오 핵심 구성)
 tabs = st.tabs([
     "💼 Portfolio Home (포트폴리오 홈)",
     "🃏 Interactive Demo (실전 분석 데모)",
@@ -190,90 +190,69 @@ tabs = st.tabs([
 ])
 
 # =========================================================================
-# TAB 1: Portfolio Home (현대오토에버 타겟 이력 및 역량)
+# TAB 1: Portfolio Home (플래그십 프로젝트 개요 및 기술 사양)
 # =========================================================================
 with tabs[0]:
-    col1, col2 = st.columns([5, 7])
+    st.markdown(f"""
+    <div class="pf-card" style="border-left: 4px solid {ACCENT_BLUE}; margin-bottom: 1.5rem;">
+        <div class="pf-title">📊 프로젝트 개요: 포커 로그 기반 데이터 엔지니어링 & 사이언스 통합 파이프라인</div>
+        <div class="pf-body" style="font-size: 0.95rem;">
+            본 프로젝트는 비정형 텍스트 로그 파일의 수집 및 가공(ETL)부터 데이터베이스 다차원 모델링, 통계적 가설 검정, 그리고 기계학습 모델링에 이르는 <b>엔드투엔드 데이터 플랫폼</b> 개발 프로젝트입니다.<br>
+            대량의 비정형 데이터 속에서 유의미한 행동 패턴을 정량적으로 추출하여 의사결정 시스템과 모니터링 대시보드를 연동함으로써, 실무적 데이터 아키텍처 구축 역량을 증명합니다.
+        </div>
+    </div>
+    """, unsafe_allow_html=True)
     
-    with col1:
+    # 핵심 지표 Grid
+    st.markdown(f"""
+    <div class="kpi-container">
+        <div class="kpi-card">
+            <div class="kpi-val" style="color: {ACCENT_BLUE};">140개</div>
+            <div class="kpi-lbl">비정형 로그 파일 (Raw Text)</div>
+        </div>
+        <div class="kpi-card">
+            <div class="kpi-val" style="color: {ACCENT_BLUE};">7,993개</div>
+            <div class="kpi-lbl">정제 완료 트랜잭션 (Hands)</div>
+        </div>
+        <div class="kpi-card">
+            <div class="kpi-val" style="color: {ACCENT_BLUE};">180,359건</div>
+            <div class="kpi-lbl">적재 완료 실시간 액션 (Actions)</div>
+        </div>
+        <div class="kpi-card">
+            <div class="kpi-val" style="color: {ACCENT_GREEN};">80.2%</div>
+            <div class="kpi-lbl">기계학습 행동 예측 정확도 (Accuracy)</div>
+        </div>
+    </div>
+    """, unsafe_allow_html=True)
+    
+    col_h1, col_h2 = st.columns([6, 6])
+    
+    with col_h1:
         st.markdown(f"""
-        <div class="pf-card" style="border-left: 4px solid {ACCENT_BLUE};">
-            <div class="pf-title">👤 정 성 훈 (Jeong Seong Hun)</div>
-            <div class="pf-subtitle">금오공과대학교 컴퓨터공학과 학부 연구생</div>
+        <div class="pf-card" style="height: 100%;">
+            <div class="pf-title" style="color: {ACCENT_BLUE};">🛠️ 데이터 엔지니어링 (DE) 핵심 사양</div>
             <div class="pf-body">
-                안녕하세요. 데이터 파이프라인의 완성도를 높여 비즈니스 가치를 극대화하는 엔지니어 정성훈입니다.<br>
-                금오공과대학교 <b>네트워크 및 시스템 제어 연구실(김태형 교수 지도)</b>에서 수학하며 데이터 통신 프로토콜과 분산 컴퓨팅의 기초를 다졌습니다.<br><br>
-                어려운 제약 조건 앞에서도 굴하지 않고 주도적으로 해결책을 설계하는 <b>실행력</b>과, 마라톤 완주로 다져진 <b>지치지 않는 집요함</b>이 저의 가장 큰 무기입니다.
-            </div>
-            <div style="margin-top: 1.5rem;">
-                <span class="badge badge-blue">#행동주의해결사</span>
-                <span class="badge badge-green">#끈기의완주자</span>
+                비구조적 원천 데이터의 정형화 적재 및 대용량 실시간 쿼리 처리를 위한 데이터 아키텍처 설계 역량을 입증합니다.
+                <ul style="margin-top: 0.8rem; padding-left: 1.2rem; color: {TEXT_MUTED}; font-size: 0.85rem; line-height: 1.6;">
+                    <li><b>비정형 데이터 정제 (ETL)</b>: 정규표현식을 통해 텍스트 로그 파일의 한 행 단위로 이벤트를 파싱하여 무손실(100% 성공률) 정형 데이터로 변환.</li>
+                    <li><b>관계형 데이터베이스 모델링 (RDBMS)</b>: 3NF(제3정규형) 준수 스키마 설계를 통해 데이터 중복을 방지하고 트랜잭션 무결성을 확보(hands, actions, players, tournaments 테이블 관계 정의).</li>
+                    <li><b>이기종 DB 호환 (Dual DB)</b>: SQLite와 PostgreSQL 간의 SQL Dialect 문법 차이를 데이터 접근 계층(Connector)에서 추상화 및 캡슐화하여 인프라 마이그레이션 유연성 확보.</li>
+                </ul>
             </div>
         </div>
         """, unsafe_allow_html=True)
         
+    with col_h2:
         st.markdown(f"""
-        <div class="pf-card">
-            <div class="pf-title">🏃 핵심 성장 스토리 & 가치관</div>
-            <div class="pf-body" style="font-size: 0.85rem;">
-                <b>[도전과 해결: 교수님을 직접 찾아간 편입 돌파]</b><br>
-                부산과학기술대학교 재학 시절, 더 깊이 있는 학문을 탐구하고자 금오공과대학교 편입학을 도전적인 목표로 세웠습니다. 기초인 영어와 수학은 악착같이 독학했으나, 2년제 교육과정에서는 전혀 배우지 않았던 고난도 전공인 '네트워크' 시험과목이 거대한 장벽이었습니다. 저는 독학에 머무르지 않고, 금오공과대학교의 김태형 교수님을 직접 찾아가 학업 의지를 밝히며 자문을 구했습니다. 교수님의 조언을 바탕으로 프로토콜 설계와 소켓 통신 구조를 끈질기게 파고들었고, 우수한 성적으로 전공 시험을 통과하여 합격 및 연구실 진학의 성취를 이루었습니다.<br><br>
-                <b>[끈기의 증명: 마라톤 완주]</b><br>
-                체력적 한계를 이겨내고 스스로 세운 레이스 페이스를 유지하며 완주해 낸 마라톤 대회는 저의 끈기를 증명합니다. 데이터 파이프라인의 수많은 지연 문제나 복잡한 시스템 장애 디버깅처럼 장기적인 끈기가 필요한 상황에서도, 지치지 않고 근본적인 원인을 파헤쳐 끝내 해결합니다.
-            </div>
-        </div>
-        """, unsafe_allow_html=True)
-
-    with col2:
-        st.markdown(f"""
-        <div class="pf-card" style="border-left: 4px solid {ACCENT_GREEN};">
-            <div class="pf-title">🚀 현대오토에버 기여 방안 & 직무 매칭</div>
+        <div class="pf-card" style="height: 100%;">
+            <div class="pf-title" style="color: {ACCENT_GREEN};">🔬 데이터 사이언스 (DS) 핵심 사양</div>
             <div class="pf-body">
-                현대오토에버는 커넥티드카 서비스(CCS)와 차량 소프트웨어 플랫폼, 그리고 모빌리티 전반의 방대한 정형/비정형 데이터를 실시간으로 수집하고 분석하여 차량 가치를 극대화하고 있습니다. 저는 이러한 데이터 가치 사슬에 즉시 기여할 수 있는 역량을 보유하고 있습니다.
-            </div>
-            <div style="margin-top: 1rem; display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
-                <div style="background: #121214; padding: 1rem; border-radius: 8px; border: 1px solid {BORDER_COLOR};">
-                    <span style="font-weight: 700; color: {ACCENT_BLUE}; font-size: 0.95rem;">1지망: 데이터 엔지니어링 (DE)</span>
-                    <p style="font-size: 0.8rem; color: {TEXT_MUTED}; margin-top: 5px; line-height: 1.5;">
-                        비정형 로그 데이터(정형화되지 않은 차량 센서/커넥티드 로그 등)를 정규표현식을 통해 안정적으로 파싱하고, SQLite 및 PostgreSQL 등 다중 RDBMS 환경에 맞춰 확장성 있는 DB 스키마 모델을 정규화 설계 및 마이그레이션한 실무 능력을 갖추고 있습니다.
-                    </p>
-                </div>
-                <div style="background: #121214; padding: 1rem; border-radius: 8px; border: 1px solid {BORDER_COLOR};">
-                    <span style="font-weight: 700; color: {ACCENT_GREEN}; font-size: 0.95rem;">2지망: 데이터 사이언스 (DS)</span>
-                    <p style="font-size: 0.8rem; color: {TEXT_MUTED}; margin-top: 5px; line-height: 1.5;">
-                        수집된 원시 비즈니스 지표를 기반으로 통계적 가설 검정(T-Test)을 수행하여 의사결정의 유의미함을 검증하고, K-Means 군집화를 통한 유저 행동 유형 세분화 및 랜덤 포레스트 앙상블 분류 예측 모델링을 직접 수행하여 비즈니스 지표를 도출해 내는 역량을 갖추고 있습니다.
-                    </p>
-                </div>
-            </div>
-        </div>
-        """, unsafe_allow_html=True)
-        
-        st.markdown(f"""
-        <div class="pf-card">
-            <div class="pf-title">🏆 플래그십 프로젝트: 포커 로그 기반 데이터 엔지니어링 & 사이언스 파이프라인</div>
-            <div class="pf-body">
-                포커 게임은 실시간으로 수많은 변수와 불확실성 속에서 수학적 기대값과 베팅 전략이 작용하므로, 현대오토에버가 모빌리티 서비스에서 직면하는 복잡한 고객 행동 패턴 및 실시간 지표 분석 모델링과 매우 높은 호환성을 가집니다.
-            </div>
-            <div class="kpi-container" style="margin-top: 1rem;">
-                <div class="kpi-card">
-                    <div class="kpi-val">100%</div>
-                    <div class="kpi-lbl">비정형 파싱 성공률</div>
-                </div>
-                <div class="kpi-card">
-                    <div class="kpi-val">Dual DB</div>
-                    <div class="kpi-lbl">SQLite & PostgreSQL</div>
-                </div>
-                <div class="kpi-card">
-                    <div class="kpi-val">80.2%</div>
-                    <div class="kpi-lbl">행동 예측 모델 정확도</div>
-                </div>
-                <div class="kpi-card">
-                    <div class="kpi-val">SciPy</div>
-                    <div class="kpi-lbl">통계적 T-검정 내장</div>
-                </div>
-            </div>
-            <div style="font-size: 0.8rem; color: {TEXT_MUTED}; line-height: 1.5;">
-                본 프로젝트는 원시 텍스트 로그의 수집 및 가공(ETL)부터 퍼널/코호트 통계 분석, 그리고 기계학습을 활용한 이탈(파산) 방지 예측 모델에 이르는 전 과정을 통합 구현하여, <b>데이터 파이프라인 전 과정의 설계 능력</b>을 정량적으로 증명합니다.
+                가공 완료된 테이블을 기반으로 고급 통계 기법과 머신러닝 알고리즘을 적용하여 데이터 기반 예측 및 인사이트를 도출합니다.
+                <ul style="margin-top: 0.8rem; padding-left: 1.2rem; color: {TEXT_MUTED}; font-size: 0.85rem; line-height: 1.6;">
+                    <li><b>사용자 플레이어 군집화 (Clustering)</b>: VPIP, PFR, AF 등 행동 지표를 표준화 전처리 후 K-Means 알고리즘을 사용해 유저의 플레이 성향(K=4) 자동 세분화.</li>
+                    <li><b>행동 예측 머신러닝 (ML)</b>: 초기 라운드 베팅 패턴을 학습하여 최종 쇼다운(패 공개) 진출 여부를 예측하는 랜덤 포레스트 앙상블 분류 모델 구축.</li>
+                    <li><b>통계적 가설 검정 (T-Test)</b>: 특정 플레이 조건에 따른 기대 수익률 차이의 유의성을 독립표본 T-검정으로 분석하고, 표본 크기 및 편차 노이즈의 통계적 검정력을 분석하여 한계점 보완 솔루션 설계.</li>
+                </ul>
             </div>
         </div>
         """, unsafe_allow_html=True)
@@ -300,7 +279,7 @@ with tabs[2]:
     st.markdown(f"""
     <div style="margin-bottom: 2rem;">
         <h2 style="font-size: 1.8rem; font-weight: 800; color: {TEXT_WHITE};">🛠️ 데이터 엔지니어링 및 사이언스 기술 명세 (Technical Deep-Dive)</h2>
-        <p style="font-size: 0.9rem; color: {TEXT_MUTED};">현대오토에버 기술 면접관을 위해 아키텍처 세부 정보와 DB 스키마 설계, 그리고 ML 파이프라인의 내부 작동 사양을 상세히 공개합니다.</p>
+        <p style="font-size: 0.9rem; color: {TEXT_MUTED};">기술 면접 및 아키텍처 검증을 위해 세부적인 데이터 파이프라인 명세와 DB 스키마 설계, 그리고 머신러닝 파이프라인의 내부 작동 사양을 상세히 공개합니다.</p>
     </div>
     """, unsafe_allow_html=True)
     
@@ -329,7 +308,7 @@ with tabs[2]:
         <div class="pf-card">
             <div class="pf-title" style="color: {ACCENT_BLUE};">2. 이기종 RDBMS 설계 및 마이그레이션 아키텍처 (DE)</div>
             <div class="pf-body" style="font-size: 0.85rem;">
-                본 프로젝트는 경량 개발/배포용 <b>SQLite</b>와 고성능 운영계 <b>PostgreSQL</b>을 동시에 지원하는 <b>Dual-DB 아키텍처</b>로 추상화되어 있습니다. 이는 현대오토에버 실무에서 엣지 단의 경량 DB 데이터가 상위 데이터 레이크로 마이그레이션되는 파이프라인과 정합성을 가집니다.<br><br>
+                본 프로젝트는 경량 개발/배포용 <b>SQLite</b>와 고성능 운영계 <b>PostgreSQL</b>을 동시에 지원하는 <b>Dual-DB 아키텍처</b>로 추상화되어 있습니다. 이는 실무 생산 환경에서 경량 데이터베이스의 트랜잭션 데이터를 고성능 분석용 데이터 웨어하우스로 마이그레이션하는 파이프라인 아키텍처와 정합성을 가집니다.<br><br>
                 <b>[관계형 데이터 모델링 핵심 구성]</b><br>
                 * <b>hands (1) ➡️ hand_players (N)</b>: 개별 판의 기본 정보와 참여한 플레이어들 간의 1:N 관계 정의.<br>
                 * <b>hands (1) ➡️ actions (N)</b>: 판 내에서 발생한 실시간 베팅 액션 히스토리를 시간 순서대로 1:N 추적 적재.<br><br>
@@ -370,7 +349,7 @@ with tabs[2]:
 st.markdown(f"""
 <div class="divider"></div>
 <div style="text-align: center; color: {TEXT_MUTED}; font-size: 0.75rem; padding-bottom: 1.5rem;">
-    © 2026 Jeong Seong Hun. Optimized for Hyundai AutoEver DE/DS Application.<br>
+    © 2026 Jeong Seong Hun. Data Engineering & Data Science Portfolio.<br>
     본 포트폴리오는 개인 프로젝트 자료를 바탕으로 작성되었으며, 상용 권리를 침해하지 않는 순수 기술 포트폴리오입니다.
 </div>
 """, unsafe_allow_html=True)
