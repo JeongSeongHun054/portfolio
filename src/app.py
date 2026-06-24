@@ -477,6 +477,150 @@ with tabs[2]:
         """
         st.graphviz_chart(dot_code)
 
+        # ---------------------------------------------------------------------
+        # 실전 빅데이터 및 스마트팩토리 파이프라인 구동 시뮬레이터
+        # ---------------------------------------------------------------------
+        st.markdown(f"""
+        <div class="pf-card" style="border-top: 4px solid {ACCENT_ORANGE}; margin-top: 1.5rem;">
+            <div class="pf-title" style="font-size: 1.2rem; color: #ffffff !important;">🖥️ 빅데이터 & 스마트팩토리 파이프라인 구동 시뮬레이터 (Interactive Pipeline Simulator)</div>
+            <div class="pf-body" style="font-size: 0.9rem; line-height: 1.6; margin-top: 0.5rem; color: #a1a1aa !important;">
+                본 화면은 현대오토에버 데이터기술 및 스마트팩토리 직무의 핵심 요구 기술인 <b>Hadoop, Spark, Airflow, Sqoop, Hive, Java</b> 분산 플랫폼 상에서 실제로 구동되는 배치/실시간 데이터 파이프라인의 <b>실시간 터미널 로그를 가상 시뮬레이션</b>하는 인터랙티브 대시보드입니다.<br>
+                인프라 콘솔에서 출력되는 정밀 로그 패턴을 직접 제어하고 해독해 봄으로써, YARN 클러스터 자원 할당 프로세스, MapReduce 수집 속도, JVM 메모리 관리 및 실시간 설비 소켓 통신 스케일아웃에 대한 실무 수준의 아키텍처 이해도를 입증합니다.
+            </div>
+        </div>
+        """, unsafe_allow_html=True)
+        
+        sim_col1, sim_col2 = st.columns([6, 6])
+        
+        with sim_col1:
+            st.markdown("""
+            **[1. 데이터기술 직무] 배치 파이프라인 시뮬레이션**
+            * **인프라 구성**: Apache Airflow DAG 스케줄링 제어 하에 Sqoop 데이터 수집 및 PySpark 분산 분석 적재 워크플로우 구동.
+            """)
+            if st.button("▶️ Airflow & YARN 배치 파이프라인 구동 시작"):
+                log_placeholder1 = st.empty()
+                logs1 = []
+                sim_logs1 = [
+                    ("Airflow", "INFO", "Triggering DAG: poker_mes_bigdata_pipeline, run_id: manual__2026-06-24T11:00:00"),
+                    ("Airflow", "INFO", "[1/4] Task 'ingest_raw_transactions' (Sqoop Import) queued on CeleryExecutor..."),
+                    ("Airflow", "INFO", "Task 'ingest_raw_transactions' started running on worker-node-02..."),
+                    ("Sqoop", "INFO", "Running Sqoop version: 1.4.7"),
+                    ("Sqoop", "INFO", "Beginning import of table player_metadata from PostgreSQL"),
+                    ("Sqoop", "INFO", "Executing SQL statement: SELECT player_id, player_name, last_login FROM player_metadata WHERE last_login > '2026-06-23 00:00:00'"),
+                    ("Sqoop", "INFO", "Using 4 mappers for parallel ingestion..."),
+                    ("Sqoop", "INFO", "MapReduce Job ID: job_1782299270_0001 submitted to YARN ResourceManager"),
+                    ("Sqoop", "INFO", "Job tracking URL: http://yarn-rm:8088/proxy/application_1782299270_0001/"),
+                    ("Sqoop", "INFO", "MapReduce Progress: Map 0%  Reduce 0%"),
+                    ("Sqoop", "INFO", "MapReduce Progress: Map 50%  Reduce 0%"),
+                    ("Sqoop", "INFO", "MapReduce Progress: Map 100%  Reduce 0%"),
+                    ("Sqoop", "INFO", "Transferred 24.3 MB in 8 seconds (3.04 MB/sec)"),
+                    ("Sqoop", "INFO", "Retrieved 79,342 records and successfully wrote to HDFS: hdfs:///user/hdfs/poker/players/"),
+                    ("Airflow", "SUCCESS", "Task 'ingest_raw_transactions' completed successfully."),
+                    ("Airflow", "INFO", "[2/4] Task 'spark_distributed_cleanse' (PySpark ETL) queued on CeleryExecutor..."),
+                    ("Airflow", "INFO", "Task 'spark_distributed_cleanse' started running on worker-node-04..."),
+                    ("Spark", "INFO", "Running Spark-Submit: --master yarn --deploy-mode cluster --executor-memory 4G --executor-cores 2 spark_poker_parser.py"),
+                    ("Spark", "INFO", "26/06/24 20:15:40 INFO SparkContext: Running Spark version 3.2.1"),
+                    ("Spark", "INFO", "26/06/24 20:15:45 INFO YARN.Client: Submitting application application_1782299270_0002 to YARN..."),
+                    ("Spark", "INFO", "26/06/24 20:15:52 INFO YARN.Client: Application application_1782299270_0002 has started running on YARN cluster."),
+                    ("Spark", "INFO", "26/06/24 20:16:05 INFO executor.CoarseGrainedExecutorBackend: Registered executor with ID 1 on worker-node-01"),
+                    ("Spark", "INFO", "26/06/24 20:16:15 INFO SparkContext: Starting Stage 0 (MapPartitionsRDD) with 4 tasks"),
+                    ("Spark", "INFO", "26/06/24 20:16:22 INFO mapreduce.MapReduceFormat: Writing Parquet file to HDFS: hdfs:///user/hive/warehouse/poker_lake.db/actions"),
+                    ("Spark", "INFO", "26/06/24 20:16:28 INFO SparkContext: Successfully stopped SparkContext"),
+                    ("Airflow", "SUCCESS", "Task 'spark_distributed_cleanse' completed successfully."),
+                    ("Airflow", "INFO", "[3/4] Task 'hive_kpi_aggregate' (Hive SQL) queued on CeleryExecutor..."),
+                    ("Airflow", "INFO", "Task 'hive_kpi_aggregate' started running on worker-node-01..."),
+                    ("Hive", "INFO", "Starting Hive Metastore connection and executing HQL: MSCK REPAIR TABLE poker_lake.actions;"),
+                    ("Hive", "INFO", "OK. MSCK REPAIR TABLE poker_lake.actions completed."),
+                    ("Hive", "INFO", "Partition poker_lake.actions{action_type=calls} added to metastore"),
+                    ("Hive", "INFO", "Partition poker_lake.actions{action_type=bets} added to metastore"),
+                    ("Hive", "INFO", "Partition poker_lake.actions{action_type=raises} added to metastore"),
+                    ("Hive", "INFO", "Partition poker_lake.actions{action_type=folds} added to metastore"),
+                    ("Hive", "INFO", "Time taken: 4.82 seconds"),
+                    ("Airflow", "SUCCESS", "Task 'hive_kpi_aggregate' completed successfully."),
+                    ("Airflow", "INFO", "[4/4] Task 'send_alert' (Email/Slack Notification) queued on CeleryExecutor..."),
+                    ("Airflow", "SUCCESS", "Task 'send_alert' completed. Pipeline run succeeded."),
+                    ("Airflow", "INFO", "DAG poker_mes_bigdata_pipeline run manual completed. Duration: 34.2s")
+                ]
+                
+                import time
+                for sys_name, level, msg in sim_logs1:
+                    timestamp = time.strftime("%Y-%m-%d %H:%M:%S")
+                    color = "#c9d1d9"
+                    if sys_name == "Airflow":
+                        color = "#ff9e3b"
+                    elif sys_name == "Sqoop":
+                        color = "#58a6ff"
+                    elif sys_name == "Spark":
+                        color = "#56d364"
+                    elif sys_name == "Hive":
+                        color = "#d2a8ff"
+                        
+                    log_line = f'<span style="color: #8b949e;">[{timestamp}]</span> <span style="color: {color}; font-weight: bold;">[{sys_name}]</span> <span style="color: {color};">[{level}]</span> {msg}'
+                    logs1.append(log_line)
+                    log_html = f"""
+                    <div style="background: #0d1117; padding: 15px; border-radius: 6px; border: 1px solid #30363d; font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 0.7rem; line-height: 1.5; max-height: 350px; overflow-y: auto;">
+                        {"<br>".join(logs1)}
+                    </div>
+                    """
+                    log_placeholder1.markdown(log_html, unsafe_allow_html=True)
+                    time.sleep(0.15)
+        
+        with sim_col2:
+            st.markdown("""
+            **[2. 스마트팩토리 직무] 실시간 스트림 시뮬레이션**
+            * **인프라 구성**: Java 기반 고성능 멀티스레드 소켓 데몬을 활용한 실시간 설비 센서/로그 수집 및 HDFS 스트리밍 적재.
+            """)
+            if st.button("▶️ Java Socket Daemon 실시간 설비 데이터 수집 시작"):
+                log_placeholder2 = st.empty()
+                logs2 = []
+                sim_logs2 = [
+                    ("Java_Server", "INFO", "LogIngestionServer started. Listening on port 9000..."),
+                    ("Java_Server", "INFO", "ServerSocket initialized successfully on address 0.0.0.0"),
+                    ("Java_Server", "INFO", "ThreadPool ExecutorService initialized with size 12"),
+                    ("Java_Server", "INFO", "Accepted incoming socket connection from PLC-Node-12 (10.0.5.12)"),
+                    ("Java_Server", "DEBUG", "Ingested: [PLC_EVENT] NODE_ID=PLC-12, TYPE=TEMP, VAL=68.2C, STATUS=OK"),
+                    ("Java_Server", "DEBUG", "Ingested: [PLC_EVENT] NODE_ID=PLC-12, TYPE=PRESS, VAL=4.2bar, STATUS=OK"),
+                    ("Java_Server", "DEBUG", "Ingested: [PLC_EVENT] NODE_ID=PLC-12, TYPE=VIBRATION, VAL=0.02mm/s, STATUS=OK"),
+                    ("Java_Server", "INFO", "Accepted incoming socket connection from PLC-Node-15 (10.0.5.15)"),
+                    ("Java_Server", "DEBUG", "Ingested: [PLC_EVENT] NODE_ID=PLC-15, TYPE=TEMP, VAL=72.1C, STATUS=OK"),
+                    ("Java_Server", "DEBUG", "Ingested: [PLC_EVENT] NODE_ID=PLC-15, TYPE=PRESS, VAL=4.8bar, STATUS=OK"),
+                    ("Java_Server", "DEBUG", "Ingested: [PLC_EVENT] NODE_ID=PLC-12, TYPE=TEMP, VAL=68.5C, STATUS=OK"),
+                    ("Java_Server", "DEBUG", "Ingested: [PLC_EVENT] NODE_ID=PLC-12, TYPE=PRESS, VAL=4.3bar, STATUS=OK"),
+                    ("Java_Server", "DEBUG", "Ingested: [PLC_EVENT] NODE_ID=PLC-15, TYPE=VIBRATION, VAL=0.06mm/s, STATUS=OK"),
+                    ("Java_Server", "INFO", "Buffer threshold reached (1,000 records). Flushing to Hadoop HDFS Stream..."),
+                    ("Java_Server", "INFO", "Successfully flushed 1.24 MB to HDFS: hdfs:///data/raw/factory_sensor/20260624/10_0_5_12_sensor.raw"),
+                    ("Java_Server", "DEBUG", "Ingested: [PLC_EVENT] NODE_ID=PLC-12, TYPE=TEMP, VAL=68.4C, STATUS=OK"),
+                    ("Java_Server", "DEBUG", "Ingested: [PLC_EVENT] NODE_ID=PLC-12, TYPE=PRESS, VAL=4.2bar, STATUS=OK"),
+                    ("Java_Server", "DEBUG", "Ingested: [PLC_EVENT] NODE_ID=PLC-15, TYPE=TEMP, VAL=72.3C, STATUS=OK"),
+                    ("Java_Server", "INFO", "Accepted incoming socket connection from MES-Server-01 (10.0.3.1)"),
+                    ("Java_Server", "DEBUG", "Ingested: [MES_EVENT] OP_ID=OP-941, STATE=RUNNING, PROD_QTY=140"),
+                    ("Java_Server", "INFO", "Buffer threshold reached (1,000 records). Flushing to Hadoop HDFS Stream..."),
+                    ("Java_Server", "INFO", "Successfully flushed 1.41 MB to HDFS: hdfs:///data/raw/factory_sensor/20260624/10_0_5_15_sensor.raw"),
+                    ("Java_Server", "INFO", "Stream thread pool status: Active Threads: 3, Completed Tasks: 242")
+                ]
+                
+                import time
+                for sys_name, level, msg in sim_logs2:
+                    timestamp = time.strftime("%Y-%m-%d %H:%M:%S")
+                    color = "#58a6ff"
+                    if level == "DEBUG":
+                        color = "#a1a1aa"
+                    elif level == "INFO":
+                        color = "#56d364"
+                        
+                    log_line = f'<span style="color: #8b949e;">[{timestamp}]</span> <span style="color: {color}; font-weight: bold;">[{sys_name}]</span> <span style="color: {color};">[{level}]</span> {msg}'
+                    logs2.append(log_line)
+                    log_html = f"""
+                    <div style="background: #0d1117; padding: 15px; border-radius: 6px; border: 1px solid #30363d; font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 0.7rem; line-height: 1.5; max-height: 350px; overflow-y: auto;">
+                        {"<br>".join(logs2)}
+                    </div>
+                    """
+                    log_placeholder2.markdown(log_html, unsafe_allow_html=True)
+                    time.sleep(0.15)
+
+        st.markdown("<div style='margin: 1rem 0;'></div>", unsafe_allow_html=True)
+
+        # 핵심 빅데이터 스택 대시보드 탭
         # 핵심 빅데이터 스택 대시보드 탭
         st.markdown(f"""
         <div style="margin-top: 1.5rem; margin-bottom: 1rem;">
