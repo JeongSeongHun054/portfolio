@@ -620,7 +620,105 @@ with tabs[2]:
 
         st.markdown("<div style='margin: 1rem 0;'></div>", unsafe_allow_html=True)
 
-        # 핵심 빅데이터 스택 대시보드 탭
+        st.markdown(f"""
+        <div style="margin-top: 2rem; margin-bottom: 1rem;">
+            <span style="font-size: 0.85rem; font-weight: 700; color: {ACCENT_BLUE}; text-transform: uppercase;">DETAILED TECH STACK SPECIFICATION</span>
+            <h4 style="margin: 3px 0 0 0; font-size: 1.15rem; color: {TEXT_WHITE};">기술 스택별 핵심 역할 및 연동 상세 명세</h4>
+        </div>
+        """, unsafe_allow_html=True)
+        
+        # 8개 해시태그별 상세 명세 아코디언 정의
+        spec_cols = st.columns([6, 6])
+        
+        with spec_cols[0]:
+            with st.expander("📥 #Sqoop (대용량 증분 수집)"):
+                st.markdown("""
+                * **어디서 어떻게 쓰였는가**:
+                  * 레거시 RDBMS(PostgreSQL 등)의 관계형 트랜잭션 데이터를 분산 데이터 레이크인 Hadoop HDFS로 이관하는 파이프라인 관문에 사용되었습니다.
+                * **어떻게 구동되고 있는가**:
+                  * `--incremental lastmodified`와 `--check-column` 옵션을 통해 원천 데이터베이스에 부하를 주지 않고 추가/변경 사건만 실시간으로 수집하는 증분 수집(Incremental Ingestion) 방식을 적용했습니다.
+                  * `-m 4` 옵션을 활성화하여 4개의 분산 맵 태스크(Map Tasks)가 RDBMS 테이블을 논리적 범위로 분할해 병렬 이관하도록 병목을 차단했습니다.
+                * **실무적 엔지니어링 가치**:
+                  * 스마트팩토리의 MES DB나 대용량 서비스 트랜잭션의 부하를 원천 차단하고, HDFS 데이터 유실 없이 무중단으로 실시간 데이터 동기화를 이뤄내기 위해 반드시 필요한 분산 수집 설계입니다.
+                """)
+                
+            with st.expander("⚡ #Spark (대규모 분산 인메모리 ETL)"):
+                st.markdown("""
+                * **어디서 어떻게 쓰였는가**:
+                  * HDFS에 적재된 비정형 원천 텍스트 로그(Raw Text)를 고속으로 정제, 구조화하고 비즈니스 피처를 추출하는 핵심 분산 처리 엔진으로 사용되었습니다.
+                * **어떻게 구동되고 있는가**:
+                  * Java Spark API(`Dataset<Row>`) 및 PySpark DataFrame API를 병행하여, 클러스터의 분산 메모리 상에서 정규표현식 매핑 연산(Regex Extraction)을 통해 무손실 정형 데이터로 변환시켰습니다.
+                  * 셔플(Shuffle) 단계에서 병렬 파티션 수(`spark.sql.shuffle.partitions`)를 데이터 스케일에 맞게 최적화하고, 데이터 스큐(Skew) 현상을 윈도우 파티셔닝 튜닝을 통해 제어했습니다.
+                * **실무적 엔지니어링 가치**:
+                  * 단일 노드(Pandas)의 Out-Of-Memory 한계를 해결하고 수십억 건의 트랜잭션 이벤트를 병렬 분산 처리함으로써, 제조 및 IT 공정 빅데이터에 즉시 대응 가능한 스케일아웃 성능을 입증합니다.
+                """)
+                
+            with st.expander("⏰ #Airflow (워크플로우 오케스트레이션)"):
+                st.markdown("""
+                * **어디서 어떻게 쓰였는가**:
+                  * 전체 플랫폼의 데이터 생명주기(수집 ➡️ 분산 정제 ➡️ 데이터 마트 적재 ➡️ 모니터링 경보)를 자동 제어하는 워크플로우 엔진으로 사용되었습니다.
+                * **어떻게 구동되고 있는가**:
+                  * `SqoopOperator`, `SparkSubmitOperator`, `HiveOperator` 등 전용 오케스트레이터 태스크를 순환이 없는 단방향 그래프(DAG)로 묶어 완벽한 선후행 의존성을 제어했습니다.
+                  * 작업 실패 시 최대 2회의 자동 재시도(`retries: 2`) 및 5분의 지연 가중치 정책을 설정하고, 최종 장애 시 슬랙(Slack)/이메일 알림이 전송되도록 구성했습니다.
+                * **실무적 엔지니어링 가치**:
+                  * 인프라 네트워크의 불안정이나 간헐적 장애 상황 속에서도 파이프라인의 **멱등성(Idempotency)**을 유지하며 무중단으로 안정적인 상시 데이터 파이프라인을 운영할 수 있는 실무 신뢰성을 제공합니다.
+                """)
+
+            with st.expander("☕ #Java (고성능 실시간 스트림 수집 및 JVM 최적화)"):
+                st.markdown("""
+                * **어디서 어떻게 쓰였는가**:
+                  * 스마트팩토리 설비(PLC 센서) 및 MES 시스템으로부터 초고밀도로 들어오는 실시간 시계열 로그 스트림을 수집하는 **멀티스레드 소켓 서버 데몬** 개발 및 Spark Java 분산 ETL 개발에 사용되었습니다.
+                * **어떻게 구동되고 있는가**:
+                  * `ExecutorService` 스레드 풀을 설계하여 설비 연결 요청을 비동기 병렬 처리하고, 인메모리 버퍼 1,000건 도달 시 HDFS Stream으로 일괄 플러시(Flush)하여 디스크 I/O 병목을 제거했습니다.
+                  * 분산 셔플링 연산 중 JVM 가비지 컬렉션(GC) 예외와 힙 오버헤드를 예방하는 객체 직렬화(`Serializable`) 구조를 명확히 설계했습니다.
+                * **실무적 엔지니어링 가치**:
+                  * 스마트팩토리 등 초고속 제조 공정이나 대규모 트랜잭션 수집 환경에서 24시간 안정적으로 대용량 유입 이벤트를 유실 없이 적재하기 위한 최고 수준의 백엔드 엔지니어링 역량을 증명합니다.
+                """)
+
+        with spec_cols[1]:
+            with st.expander("💾 #Hadoop (분산 데이터 레이크 저장소)"):
+                st.markdown("""
+                * **어디서 어떻게 쓰였는가**:
+                  * 원천 비정형 로그 데이터 및 RDBMS 마스터 데이터를 영구 저장하고 보존하기 위한 **분산 파일 시스템(HDFS) 데이터 레이크** 구축에 사용되었습니다.
+                * **어떻게 구동되고 있는가**:
+                  * Sqoop이 PostgreSQL에서 파싱되지 않은 원천 데이터를 가져와 HDFS 상의 물리 경로(`hdfs:///data/raw/`)에 Parquet 포맷으로 병렬 보관하고, Spark 엔진이 이 경로를 참조하여 분산 연산을 시작합니다.
+                * **실무적 엔지니어링 가치**:
+                  * 고가의 백업 장비 없이 저렴한 상용 서버들을 활용해 페타바이트급 데이터 레이크를 구축할 수 있으며, 3중 복제본(Replication Factor = 3) 아키텍처를 통해 노드 하드웨어 장애 시에도 무손실 고가용성을 확보합니다.
+                """)
+
+            with st.expander("📦 #Hive (대용량 데이터 웨어하우스 설계)"):
+                st.markdown("""
+                * **어디서 어떻게 쓰였는가**:
+                  * HDFS에 분산 저장된 데이터 위에서 분산 쿼리가 가능하도록 스키마 정보를 매핑한 **엔터프라이즈 데이터 웨어하우스(DW)** 테이블 설계에 사용되었습니다.
+                * **어떻게 구동되고 있는가**:
+                  * 컬럼 기반 데이터 압축율이 가장 뛰어난 **ORC(Optimized Row Columnar) 포맷** 외부 테이블(External Table)을 정의하여 저장용량을 70% 이상 절감하고 조회 속도를 향상했습니다.
+                * **실무적 엔지니어링 가치**:
+                  * 단순 디렉터리 구조에 SQL 기반의 차원과 팩트 스키마 구조를 얹어줌으로써, BI 시스템 및 하위 마이그레이션이 용이한 표준 데이터 레이크하우스 기반을 완성합니다.
+                """)
+
+            with st.expander("🗺️ #Hive SQL / #SQL (분산 쿼리 및 성능 최적화)"):
+                st.markdown("""
+                * **어디서 어떻게 쓰였는가**:
+                  * Hive 테이블에 적재된 대용량 트랜잭션 데이터를 통계 지표(Street별 베팅 볼륨 등)로 고속 집계하기 위한 최적화 SQL 설계에 사용되었습니다.
+                * **어떻게 구동되고 있는가**:
+                  * `game_date` 필드를 기준으로 **물리적 파티셔닝(Partitioning)**을 설계하여, 쿼리 조회 시 불필요한 데이터를 탐색 영역에서 배제하는 **Partition Pruning(파티션 가지치기)**을 유도했습니다.
+                  * 고유 ID(`player_id`) 기준 **버케팅(Bucketing)**을 동시 적용하여, 셔플이 발생하지 않는 고속 Join(Bucket Map Join) 성능을 확보했습니다.
+                * **실무적 엔지니어링 가치**:
+                  * 수억 건 규모의 테이블을 집계할 때 쿼리 실행 시간을 몇 시간 단위에서 초 단위로 단축시키는 최적화 튜닝 기법을 직접 활용할 수 있음을 증명합니다.
+                """)
+
+            with st.expander("🐍 #Python (통합 데이터 파이프라인 컨트롤러)"):
+                st.markdown("""
+                * **어디서 어떻게 쓰였는가**:
+                  * 로컬 데이터 파이프라인의 실시간 대시보드(Streamlit), 통계적 가설 검정 및 머신러닝 분석 알고리즘 설계에 핵심 개발 언어로 사용되었습니다.
+                * **어떻게 구동되고 있는가**:
+                  * PySpark 스크립트 설계, Airflow DAG 워크플로우 정의, scikit-learn 머신러닝 파이프라인 전주기를 제어하는 데 중추적으로 쓰였습니다.
+                * **실무적 엔지니어링 가치**:
+                  * 현대 데이터 엔지니어링 및 데이터 사이언스 생태계의 핵심 도구들을 유기적으로 결합하고 제어하는 데이터 아키텍처의 컨트롤러 역할을 매끄럽게 조율합니다.
+                """)
+
+        st.markdown("<div style='margin: 1.5rem 0;'></div>", unsafe_allow_html=True)
+
         # 핵심 빅데이터 스택 대시보드 탭
         st.markdown(f"""
         <div style="margin-top: 1.5rem; margin-bottom: 1rem;">
