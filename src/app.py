@@ -13,7 +13,7 @@ import poker_app
 
 # 1. 페이지 초기 설정 (최초 1회만 호출 가능)
 st.set_page_config(
-    page_title="정성훈 | 데이터 엔지니어링 & 사이언스 포트폴리오",
+    page_title="정성훈 | 현대오토에버 데이터 엔지니어 포트폴리오",
     page_icon="💼",
     layout="wide",
     initial_sidebar_state="collapsed",
@@ -192,15 +192,15 @@ head_left, head_right = st.columns([8, 2])
 with head_left:
     st.markdown(f"""
     <div style="margin-bottom: 1.5rem;">
-        <span style="font-size: 0.8rem; font-weight: 700; color: {ACCENT_BLUE}; text-transform: uppercase; letter-spacing: 0.1em;">DATA ENGINEERING & DATA SCIENCE INTEGRATED PORTFOLIO</span>
-        <h1 style="margin: 5px 0 0 0; font-size: 2.3rem; font-weight: 800; color: {TEXT_WHITE}; letter-spacing: -0.02em;">비정형 로그 기반 데이터 엔지니어링 & 사이언스 통합 플랫폼</h1>
+        <span style="font-size: 0.8rem; font-weight: 700; color: {ACCENT_BLUE}; text-transform: uppercase; letter-spacing: 0.1em;">HYUNDAI AUTOEVER DATA ENGINEER PORTFOLIO</span>
+        <h1 style="margin: 5px 0 0 0; font-size: 2.3rem; font-weight: 800; color: {TEXT_WHITE}; letter-spacing: -0.02em;">비정형 로그 기반 대용량 데이터 엔지니어링 플랫폼</h1>
     </div>
     """, unsafe_allow_html=True)
 with head_right:
     st.markdown(f"""
     <div style="text-align: right; margin-top: 10px;">
-        <span class="badge badge-blue" style="font-size: 0.85rem; padding: 5px 12px;">Data Engineering</span><br>
-        <span class="badge badge-green" style="font-size: 0.85rem; padding: 5px 12px; margin-top: 5px;">Data Science</span>
+        <span class="badge badge-blue" style="font-size: 0.85rem; padding: 5px 12px;">데이터기술 DE (1지망)</span><br>
+        <span class="badge badge-green" style="font-size: 0.85rem; padding: 5px 12px; margin-top: 5px;">스마트팩토리 DE (2지망)</span>
     </div>
     """, unsafe_allow_html=True)
 
@@ -212,15 +212,15 @@ tabs = st.tabs([
 ])
 
 # =========================================================================
-# TAB 1: Portfolio Home (플래그십 프로젝트 개요 및 기술 사양)
+# TAB 1: Portfolio Home (플래그십 프로젝트 개요 및 직무 기술 사양)
 # =========================================================================
 with tabs[0]:
     st.markdown(f"""
     <div class="pf-card" style="border-left: 4px solid {ACCENT_BLUE}; margin-bottom: 1.5rem;">
-        <div class="pf-title">📊 프로젝트 개요: 포커 로그 기반 데이터 엔지니어링 & 사이언스 통합 파이프라인</div>
+        <div class="pf-title">📊 프로젝트 개요: 포커 로그 기반 대용량 데이터 엔지니어링 파이프라인 플랫폼</div>
         <div class="pf-body" style="font-size: 0.95rem;">
-            본 프로젝트는 비정형 텍스트 로그 파일의 수집 및 가공(ETL)부터 데이터베이스 다차원 모델링, 통계적 가설 검정, 그리고 기계학습 모델링에 이르는 <b>엔드투엔드 데이터 플랫폼</b> 개발 프로젝트입니다.<br>
-            대량의 비정형 데이터 속에서 유의미한 행동 패턴을 정량적으로 추출하여 의사결정 시스템과 모니터링 대시보드를 연동함으로써, 실무적 데이터 아키텍처 구축 역량을 증명합니다.
+            본 프로젝트는 비정형 텍스트 로그 파일의 수집 및 가공(ETL)부터 데이터베이스 다차원 모델링, 분산 데이터 저장 및 처리 시스템에 이르는 <b>대규모 데이터 엔지니어링 플랫폼</b> 개발 프로젝트입니다.<br>
+            대량의 비정형 데이터 속에서 유의미한 행동 패턴 및 비즈니스 지표를 정량적으로 추출하여 의사결정 시스템과 모니터링 대시보드를 연동함으로써, 현대오토에버 실무에 즉시 투입 가능한 데이터 아키텍처 구축 역량을 증명합니다.
         </div>
     </div>
     """, unsafe_allow_html=True)
@@ -241,24 +241,39 @@ with tabs[0]:
             <div class="kpi-lbl">적재 완료 실시간 액션 (Actions)</div>
         </div>
         <div class="kpi-card">
-            <div class="kpi-val" style="color: {ACCENT_GREEN};">80.2%</div>
-            <div class="kpi-lbl">기계학습 행동 예측 정확도 (Accuracy)</div>
+            <div class="kpi-val" style="color: {ACCENT_GREEN};">100%</div>
+            <div class="kpi-lbl">비정형 로그 파싱 성공률 (ETL)</div>
         </div>
     </div>
     """, unsafe_allow_html=True)
     
+    st.markdown(f"""
+    <div style="margin-bottom: 1rem;">
+        <h4 style="margin: 0; font-size: 1.15rem; color: {TEXT_WHITE}; font-weight: 700;">🏢 지원 직무별 핵심 기술 구현 사양 (Enterprise Tech Stack Alignment)</h4>
+    </div>
+    """, unsafe_allow_html=True)
+
     col_h1, col_h2 = st.columns([6, 6])
     
     with col_h1:
         st.markdown(f"""
-        <div class="pf-card" style="height: 100%;">
-            <div class="pf-title" style="color: {ACCENT_BLUE};">🛠️ 데이터 엔지니어링 (DE) 핵심 사양</div>
+        <div class="pf-card" style="height: 100%; border-top: 4px solid {ACCENT_BLUE};">
+            <div class="pf-title" style="color: #ffffff !important;">💻 1지망: 데이터기술 사업부 | Data Engineer</div>
+            <div style="margin-top: 0.4rem; margin-bottom: 0.8rem;">
+                <span class="badge badge-blue">#SQL</span>
+                <span class="badge badge-blue">#Spark</span>
+                <span class="badge badge-blue">#Python</span>
+                <span class="badge badge-blue">#Hadoop</span>
+                <span class="badge badge-blue">#Airflow</span>
+                <span class="badge badge-blue">#Sqoop</span>
+            </div>
             <div class="pf-body">
-                비구조적 원천 데이터의 정형화 적재 및 대용량 실시간 쿼리 처리를 위한 데이터 아키텍처 설계 역량을 입증합니다.
-                <ul style="margin-top: 0.8rem; padding-left: 1.2rem; color: {TEXT_MUTED}; font-size: 0.85rem; line-height: 1.6;">
-                    <li><b>비정형 데이터 정제 (ETL)</b>: 정규표현식을 통해 텍스트 로그 파일의 한 행 단위로 이벤트를 파싱하여 무손실(100% 성공률) 정형 데이터로 변환.</li>
-                    <li><b>관계형 데이터베이스 모델링 (RDBMS)</b>: 3NF(제3정규형) 준수 스키마 설계를 통해 데이터 중복을 방지하고 트랜잭션 무결성을 확보(hands, actions, players, tournaments 테이블 관계 정의).</li>
-                    <li><b>이기종 DB 호환 (Dual DB)</b>: SQLite와 PostgreSQL 간의 SQL Dialect 문법 차이를 데이터 접근 계층(Connector)에서 추상화 및 캡슐화하여 인프라 마이그레이션 유연성 확보.</li>
+                데이터 엔지니어 파이프라인 개발/운영을 위한 핵심 기술 구현 요건:
+                <ul style="margin-top: 0.8rem; padding-left: 1.2rem; color: {TEXT_MUTED}; font-size: 0.88rem; line-height: 1.7;">
+                    <li><b>#Sqoop</b>: 관계형 DB의 트랜잭션 데이터를 Hadoop HDFS로 병렬 증분 수집(Incremental Ingestion)</li>
+                    <li><b>#Hadoop & #Spark</b>: HDFS 상의 대용량 비정형 텍스트 로그를 PySpark 분산 엔진을 통해 정밀 ETL 정형화</li>
+                    <li><b>#Airflow & #Python</b>: 전체 파이프라인(Sqoop ➡️ Spark ➡️ Hive)의 의존성 관리 및 주기적 스케줄링을 위한 Python DAG 개발</li>
+                    <li><b>#SQL</b>: Hive DW 적재 최적화를 위한 파티셔닝 외부 테이블 DDL 설계 및 다차원 집계 분석 SQL 구현</li>
                 </ul>
             </div>
         </div>
@@ -266,69 +281,31 @@ with tabs[0]:
         
     with col_h2:
         st.markdown(f"""
-        <div class="pf-card" style="height: 100%;">
-            <div class="pf-title" style="color: {ACCENT_GREEN};">🔬 데이터 사이언스 (DS) 핵심 사양</div>
+        <div class="pf-card" style="height: 100%; border-top: 4px solid {ACCENT_GREEN};">
+            <div class="pf-title" style="color: #ffffff !important;">🏭 2지망: 스마트팩토리 사업부 | Data Engineer</div>
+            <div style="margin-top: 0.4rem; margin-bottom: 0.8rem;">
+                <span class="badge badge-green">#Java</span>
+                <span class="badge badge-green">#Python</span>
+                <span class="badge badge-green">#SQL</span>
+                <span class="badge badge-green">#Hadoop</span>
+                <span class="badge badge-green">#Spark</span>
+                <span class="badge badge-green">#Hive</span>
+            </div>
             <div class="pf-body">
-                가공 완료된 테이블을 기반으로 고급 통계 기법과 머신러닝 알고리즘을 적용하여 데이터 기반 예측 및 인사이트를 도출합니다.
-                <ul style="margin-top: 0.8rem; padding-left: 1.2rem; color: {TEXT_MUTED}; font-size: 0.85rem; line-height: 1.6;">
-                    <li><b>사용자 플레이어 군집화 (Clustering)</b>: VPIP, PFR, AF 등 행동 지표를 표준화 전처리 후 K-Means 알고리즘을 사용해 유저의 플레이 성향(K=4) 자동 세분화.</li>
-                    <li><b>행동 예측 머신러닝 (ML)</b>: 초기 라운드 베팅 패턴을 학습하여 최종 쇼다운(패 공개) 진출 여부를 예측하는 랜덤 포레스트 앙상블 분류 모델 구축.</li>
-                    <li><b>통계적 가설 검정 (T-Test)</b>: 특정 플레이 조건에 따른 기대 수익률 차이의 유의성을 독립표본 T-검정으로 분석하고, 표본 크기 및 편차 노이즈의 통계적 검정력을 분석하여 한계점 보완 솔루션 설계.</li>
+                스마트팩토리 환경의 고성능 실시간 및 분산 데이터 파이프라인 개발/운영 요건:
+                <ul style="margin-top: 0.8rem; padding-left: 1.2rem; color: {TEXT_MUTED}; font-size: 0.88rem; line-height: 1.7;">
+                    <li><b>#Java</b>: 설비 PLC 및 MES 장비의 실시간 로그 유입 처리를 위한 고성능 멀티스레드 소켓 서버 데몬 설계</li>
+                    <li><b>#Spark & #Hadoop</b>: Spark Java API를 적용하여 RDD 기반 분산 메모리 상에서 로그 데이터 무손실 정제 및 HDFS 적재</li>
+                    <li><b>#Hive & #SQL</b>: 제조 실행 지표 집계 속도 향상을 위해 game_date 기준 물리 파티셔닝 및 ORC 압축 외부 테이블 설계</li>
+                    <li><b>#Python</b>: 대용량 데이터프레임 고속 정형화, 유저 행동 성향 군집화(K-Means) 및 머신러닝 파이프라인 구현</li>
                 </ul>
             </div>
         </div>
         """, unsafe_allow_html=True)
 
     st.markdown(f"""
-    <div class="pf-card" style="border-top: 4px solid {ACCENT_BLUE}; margin-top: 1.5rem;">
-        <div class="pf-title" style="font-size: 1.2rem; color: {TEXT_WHITE};">🏢 엔터프라이즈 기술 스택 매핑 (Enterprise Tech Stack Alignment)</div>
-        <div class="pf-body" style="font-size: 0.9rem; line-height: 1.6; margin-top: 0.5rem; color: {TEXT_MUTED};">
-            본 프로젝트의 로그 ETL 및 통계/ML 파이프라인은 단일 환경에 국한되지 않고, 대규모 엔터프라이즈 데이터 플랫폼 아키텍처로 확장 가능하도록 설계되었습니다.<br>
-            현대오토에버의 데이터기술 및 스마트팩토리 데이터 엔지니어 직무의 요구 기술과 본 포트폴리오의 아키텍처는 아래와 같이 100% 매핑되며, 실제 구현체 레벨로 다루어 본 경험을 증명합니다.
-        </div>
-        <div style="margin-top: 1.2rem; display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;">
-            <div style="background: #121214; padding: 1.2rem; border-radius: 8px; border: 1px solid {BORDER_COLOR};">
-                <span style="font-weight: 700; color: {ACCENT_BLUE}; font-size: 1rem;">💻 데이터기술 사업부 | Data Engineer</span>
-                <div style="margin-top: 0.4rem; margin-bottom: 0.8rem;">
-                    <span class="badge badge-blue">#SQL</span>
-                    <span class="badge badge-blue">#Spark</span>
-                    <span class="badge badge-blue">#Python</span>
-                    <span class="badge badge-blue">#Hadoop</span>
-                    <span class="badge badge-blue">#Airflow</span>
-                    <span class="badge badge-blue">#Sqoop</span>
-                </div>
-                <div style="font-size: 0.8rem; color: {TEXT_MUTED}; line-height: 1.6;">
-                    <ul style="padding-left: 1.2rem; margin: 0;">
-                        <li><b>#Sqoop</b>: 관계형 DB의 트랜잭션 데이터를 Hadoop HDFS로 병렬 증분 수집(Incremental Ingestion)</li>
-                        <li><b>#Hadoop & #Spark</b>: HDFS 상의 대용량 비정형 텍스트 로그를 PySpark 분산 엔진을 통해 정밀 ETL 정형화</li>
-                        <li><b>#Airflow & #Python</b>: 전체 파이프라인(Sqoop ➡️ Spark ➡️ Hive)의 의존성 관리 및 주기적 스케줄링을 위한 Python DAG 개발</li>
-                        <li><b>#SQL</b>: Hive DW 적재 최적화를 위한 파티셔닝 외부 테이블 DDL 설계 및 다차원 집계 분석 SQL 구현</li>
-                    </ul>
-                </div>
-            </div>
-            <div style="background: #121214; padding: 1.2rem; border-radius: 8px; border: 1px solid {BORDER_COLOR};">
-                <span style="font-weight: 700; color: {ACCENT_GREEN}; font-size: 1rem;">🏭 스마트팩토리 사업부 | Data Engineer</span>
-                <div style="margin-top: 0.4rem; margin-bottom: 0.8rem;">
-                    <span class="badge badge-green">#Java</span>
-                    <span class="badge badge-green">#Python</span>
-                    <span class="badge badge-green">#SQL</span>
-                    <span class="badge badge-green">#Hadoop</span>
-                    <span class="badge badge-green">#Spark</span>
-                    <span class="badge badge-green">#Hive</span>
-                </div>
-                <div style="font-size: 0.8rem; color: {TEXT_MUTED}; line-height: 1.6;">
-                    <ul style="padding-left: 1.2rem; margin: 0;">
-                        <li><b>#Java</b>: 설비 PLC 및 MES 장비의 실시간 로그 유입 처리를 위한 고성능 멀티스레드 소켓 서버 데몬 설계</li>
-                        <li><b>#Spark & #Hadoop</b>: Spark Java API를 적용하여 RDD 기반 분산 메모리 상에서 로그 데이터 무손실 정제 및 HDFS 적재</li>
-                        <li><b>#Hive & #SQL</b>: 제조 실행 지표 집계 속도 향상을 위해 game_date 기준 물리 파티셔닝 및 ORC 압축 외부 테이블 설계</li>
-                        <li><b>#Python</b>: 대용량 데이터프레임 고속 정형화, 유저 행동 성향 군집화(K-Means) 및 머신러닝 파이프라인 구현</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div style="margin-top: 1rem; text-align: right; font-size: 0.8rem; color: {ACCENT_ORANGE}; font-weight: 600;">
-            💡 상세 구현 코드(Sqoop, Hive SQL, Java Spark, PySpark, Airflow DAG)는 세 번째 탭인 <b>'🛠️ Technical Deep Dive ➡️ Enterprise Big Data Scale-Out'</b>에서 즉시 확인 가능합니다.
-        </div>
+    <div style="margin-top: 1.5rem; text-align: right; font-size: 0.9rem; color: {ACCENT_ORANGE}; font-weight: 600;">
+        💡 상세 구현 코드(Sqoop, Hive SQL, Java Spark, PySpark, Airflow DAG)는 세 번째 탭인 <b>'🛠️ Technical Deep Dive ➡️ Enterprise Big Data Scale-Out'</b>에서 즉시 확인 가능합니다.
     </div>
     """, unsafe_allow_html=True)
 
@@ -353,8 +330,8 @@ with tabs[1]:
 with tabs[2]:
     st.markdown(f"""
     <div style="margin-bottom: 2rem;">
-        <h2 style="font-size: 1.8rem; font-weight: 800; color: {TEXT_WHITE};">🛠️ 데이터 엔지니어링 및 사이언스 기술 명세 (Technical Deep-Dive)</h2>
-        <p style="font-size: 0.9rem; color: {TEXT_MUTED};">기술 면접 및 아키텍처 검증을 위해 세부적인 데이터 파이프라인 명세와 DB 스키마 설계, 그리고 머신러닝 파이프라인의 내부 작동 사양을 상세히 공개합니다.</p>
+        <h2 style="font-size: 1.8rem; font-weight: 800; color: {TEXT_WHITE};">🛠️ 데이터 엔지니어링 기술 명세 (Technical Deep-Dive)</h2>
+        <p style="font-size: 0.9rem; color: {TEXT_MUTED};">기술 면접 및 아키텍처 검증을 위해 세부적인 데이터 파이프라인 명세와 DB 스키마 설계, 그리고 분산 데이터 처리 아키텍처의 내부 작동 사양을 상세히 공개합니다.</p>
     </div>
     """, unsafe_allow_html=True)
     
@@ -402,7 +379,7 @@ with tabs[2]:
         with col_t2:
             st.markdown(f"""
             <div class="pf-card">
-                <div class="pf-title" style="color: {ACCENT_GREEN};">3. 머신러닝 기반 성향 군집 및 예측 파이프라인 (DS)</div>
+                <div class="pf-title" style="color: {ACCENT_GREEN};">3. 머신러닝 및 통계 기반 피처 엔지니어링 파이프라인 (Python)</div>
                 <div class="pf-body" style="font-size: 0.85rem;">
                     <b>[K-Means 비지도학습 군집화 모델]</b><br>
                     플레이어의 스타일을 4가지 행동 특성(VPIP, PFR, AF, Win Rate)으로 세분화하기 위해 K-Means 알고리즘을 사용합니다. 피처 간 절대적 수치 편차로 인한 거리 왜곡을 예방하기 위해 Standard Scaler를 활용해 모든 변수를 평균 0, 분산 1로 규격화했습니다. 엘보우 기법(Elbow Method)을 적용해 군집 개수 K=4를 수학적으로 선정하고 Tight/Loose, Aggressive/Passive 성향 분류 엔진을 구축했습니다.<br><br>
@@ -414,14 +391,14 @@ with tabs[2]:
             
             st.markdown(f"""
             <div class="pf-card">
-                <div class="pf-title" style="color: {ACCENT_GREEN};">4. A/B 테스트 및 T-Test 가설 검정 (DS)</div>
+                <div class="pf-title" style="color: {ACCENT_GREEN};">4. 통계적 데이터 분석 및 가설 검정 파이프라인 (Python)</div>
                 <div class="pf-body" style="font-size: 0.85rem;">
-                    데이터 사이언티스트로서 데이터 뒤에 숨겨진 실제 유의성을 통계학적으로 판별하기 위한 분석 체계를 내장했습니다.<br><br>
+                    데이터 엔지니어링 및 분석적 관점에서 데이터 뒤에 숨겨진 실제 유의성을 통계학적으로 판별하기 위한 분석 체계를 내장했습니다.<br><br>
                     <b>[실전 가설 검정 시나리오]</b><br>
                     * <b>귀무가설(H0)</b>: 프리미엄 패를 쥐었을 때 선제 공격(Raise)을 한 그룹과 수동적 대응(Call)을 한 그룹 간의 평균 수익 차이는 우연일 뿐, 실제 차이가 없다.<br>
                     * <b>대립가설(H1)</b>: 선제 공격을 한 그룹의 평균 수익이 통계적으로 유의미하게 더 높다.<br><br>
                     <b>[통계적 보완 의사결정]</b><br>
-                    실제 독립표본 T-검정 실행 결과 p-value가 0.05 이상으로 산출되어 귀무가설을 일차적으로 채택했습니다. 이는 도메인의 초고변동성(표준편차가 평균 수익차 대비 15배 이상 높은 현상) 때문임을 정량 분석해 냈습니다. 단순히 분석 완료로 끝내는 것이 아니라, <b>"데이터 아웃라이어 정제 및 표본 크기(Sample Size)의 확장 검정력을 고려한 2차 재검정 보완 로드맵"</b>을 수립함으로써 실무 데이터 분석가로서의 타당성 있는 의사결정 프로세스를 입증했습니다.
+                    실제 독립표본 T-검정 실행 결과 p-value가 0.05 이상으로 산출되어 귀무가설을 일차적으로 채택했습니다. 이는 도메인의 초고변동성(표준편차가 평균 수익차 대비 15배 이상 높은 현상) 때문임을 정량 분석해 냈습니다. 단순히 분석 완료로 끝내는 것이 아니라, <b>"데이터 아웃라이어 정제 및 표본 크기(Sample Size)의 확장 검정력을 고려한 2차 재검정 보완 로드맵"</b>을 수립함으로써 실무 데이터 엔지니어 및 분석가로서의 타당성 있는 의사결정 프로세스를 입증했습니다.
                 </div>
             </div>
             """, unsafe_allow_html=True)
@@ -714,7 +691,7 @@ with tabs[2]:
                 * **어떻게 구동되고 있는가**:
                   * PySpark 스크립트 설계, Airflow DAG 워크플로우 정의, scikit-learn 머신러닝 파이프라인 전주기를 제어하는 데 중추적으로 쓰였습니다.
                 * **실무적 엔지니어링 가치**:
-                  * 현대 데이터 엔지니어링 및 데이터 사이언스 생태계의 핵심 도구들을 유기적으로 결합하고 제어하는 데이터 아키텍처의 컨트롤러 역할을 매끄럽게 조율합니다.
+                  * 현대 데이터 엔지니어링 및 데이터 분석 생태계의 핵심 도구들을 유기적으로 결합하고 제어하는 데이터 아키텍처의 컨트롤러 역할을 매끄럽게 조율합니다.
                 """)
 
         st.markdown("<div style='margin: 1.5rem 0;'></div>", unsafe_allow_html=True)
@@ -979,7 +956,7 @@ with DAG(
 st.markdown(f"""
 <div class="divider"></div>
 <div style="text-align: center; color: {TEXT_MUTED}; font-size: 0.75rem; padding-bottom: 1.5rem;">
-    © 2026 Jeong Seong Hun. Data Engineering & Data Science Portfolio.<br>
+    © 2026 Jeong Seong Hun. Data Engineering Portfolio.<br>
     본 포트폴리오는 개인 프로젝트 자료를 바탕으로 작성되었으며, 상용 권리를 침해하지 않는 순수 기술 포트폴리오입니다.
 </div>
 """, unsafe_allow_html=True)
